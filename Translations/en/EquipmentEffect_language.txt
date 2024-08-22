@@ -1,110 +1,110 @@
-Anti-Handguards
-If an enemy uses a palm set, attacks with this weapon or performs the Destruction Technique, the enemy's Diversion, Parry and Evasion are reduced by 20%.
-Anti-Sword
-If the enemy uses a sword, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
-Anti-Blade
-If the enemy uses a blade, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
-Anti-Poison
-If the enemy uses poisonous frost or poisonous sand,  attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
-Anti-Polearm
-If the enemy uses a polearm, attacks with this weapon or performs a Break skill, the enemy's Diversion, Parry and Evasion are reduced by 20%.
-Anti-Soft·Wp
-If the enemy uses a Whisk, attacks or uses a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
-Anti-Hidden·Wp
-If the enemy uses a Hidden Weapon, Mech. Bird or performs a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
-Anti-Exotic·Wp
-If the enemy uses a Dagger, Talisman or a Club, attacks or uses Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%.
-Anti-Melody
-If the enemy uses a music instrument, attacks or uses a Break Skill, the enemy's Diversion, Parry, Evasion and Focus are reduced by 20%..
-Anti-Metal
-If the enemy uses Iron-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
-Anti-Wood
-If the enemy uses Wood-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
-Anti-Gem
-If the enemy uses Gem-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
-Anti-Weaving
-If the enemy uses Fabric-made protective gear to resist an attacks or performs a Break Skill, the enemy's External and Internal Defense are reduced by 20%.
+Broken palm
+If the enemy uses gauntlets to attack or unleash destructive techniques with this weapon, their ability to deflect force, dismantle moves, dodge, and maintain composure is reduced by 20%。
+Broken Sword
+If the enemy uses a sword to attack or perform destructive techniques, the enemy's ability to absorb force, deflect attacks, evade, and maintain focus is reduced by 20%。
+Broken sword
+If the enemy uses a knife to attack or perform a destructive technique, their force dissipating, skill dismantling, evasion, and mental defense are reduced by 20%。
+Break the poison
+If the enemy uses poison frost or poison sand to attack or unleash destructive techniques, the enemy's ability to absorb force, dismantle moves, dodge, and maintain composure is reduced by 20%。
+Break the long spear
+If the enemy uses a stick or a gun to attack or perform destructive techniques, their ability to deflect force, dismantle moves, evade, and maintain composure is reduced by 20%。
+Broken Soft Soldier
+If the enemy uses a long whip or a whisk to attack or perform destructive techniques, their ability to dissipate force, dismantle moves, evade, and maintain composure is reduced by 20%。
+Break the hidden weapon
+If the enemy uses mechanisms, hidden weapons, or needle boxes to attack or perform destructive techniques, the enemy's ability to neutralize force, dismantle moves, dodge, and guard the mind is reduced by 20%。
+Breaking the Strange Gate
+If the enemy uses talismans, daggers, or short clubs to attack or unleash destructive techniques, the enemy's ability to neutralize, counter, evade, and maintain composure is reduced by 20%。
+Break the Demon Sound
+If the enemy uses the flute or the yao qin to attack or unleash destructive techniques, their ability to neutralize force, dismantle attacks, dodge, and maintain their composure is reduced by 20%。
+Broken gold
+If the enemy uses armor made of metal to block the attack of this weapon or breaks the method, the enemy's resistance and energy will be reduced by 20%。
+Broken wood
+If the enemy uses bamboo or wooden armor to block this weapon's attack or disrupts the technique, the enemy's defense and energy will be reduced by 20%。
+Shattered jade
+If the enemy blocks the attack of this weapon with armor made of jade or breaks through the skill, the enemy's physical and energy defense is reduced by 20%。
+Ripped brocade
+If the enemy uses armor made of fabric to block this weapon's attack or disrupts the technique, the enemy's physical and energy defenses decrease by 20%。
 Sharp
-This weapons DES is increased by 20%.
-Refined by fire
-This weapons Hardness is increased by 20%.
-Bloodbath
-This weapon has 50% higher DES, but 50% lower Hardness.
-Blunt
-This weapon has 50% higher Hardness, but 50% lower DES.
-Venomous sting
-This weapon causes 20% more Poison damage to enemies.
-Spiritual Use
-This weapon's usage requirements are lowered by 20%
-Blood Kills
-When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct External Damage.
-Qi killing
-When attacking with this weapon or using a Break skill, if this weapon is damaged, the enemy suffers 30% more direct Internal Damage.
-Blood Transfusion
-When attacking or performing a Break Skill with this weapon, the attacker takes 20% less External Injury from Reflect.
-Qi Transformation
-When attacking or performing a Break Skill with this weapon, the attacker takes 20% less Internal Injury from Reflect.
-Counter Handguards
-If the enemy uses a palm glove, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Sword
-If the enemy uses a Sword, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Blade
-If the enemy uses a Blade, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Poison
-If the enemy uses a poisonous attack,  if this guard is used to parry the enemy's attack or Break Skill, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% 
-Counter Polearm
-If the enemy uses a Polearm, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Soft·Wp
-If the enemy uses a Soft·Wp, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Hidden·Wp
-If the enemy uses a Hidden Weapon, Mech. Bird or performs a Break Skill, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Exotic·Wp
-If the enemy uses a Exotic·Wp, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Melody
-If the enemy uses a music instrument, the enemy's Might, Finesse, Swiftness, and Breath are reduced by 20% when this gear is used to parry the enemy's attacks or Break Skill.
-Counter Metal
-If the enemy uses a Metal weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
-Counter Wood
-If the enemy uses a Wood weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
-Counter Gem
-If the enemy uses a Gem weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
-Reflection of Weaving
-If the enemy uses a Fabric weapon and this protective gear is used to parry an attack or a Break Skill, the enemy's External Penetration and Internal Penetration are reduced by 20%.
-Hidden Sharpness
-The TOU of this equipment is increased by 20%.
-Snow Refining
-The Hardness of this equipment is increased by 20%.
-Blood Coat
-This equipment has 50% higher TOU, but 50% lower Hardness.
-Tenacious
-This equipment has 50% higher Hardness, but 50% lower TOU.
-This equipment causes 20% more poison damage to enemies.
-This armor's usage requirements are lowered by 20%
-Physical Protection
-When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct External Damage inflicted by the enemy is reduced by 30%.
-Qi·Protection
-When using this armor to resist the enemy's attack or Break skill if this armor is damaged, the direct Internal Damage inflicted by the enemy is reduced by 30%.
-Retributing Physical
-When using this piece of gear to Reflect enemy attacks or Break skill, the External Injury damage reflected by the user is increased by 20%.
-Retributing Qi
-When using this piece of gear to Reflect enemy attacks or Break skill, the Internal Injury damage reflected by the user is increased by 20%.
+The armor penetration of this weapon is increased by 20%。
+Fire Refining
+The toughness of this weapon has increased by 20%。
+Blood Blade
+This weapon's armor penetration increases by 50%, while toughness decreases by 50%。
+Clumsy
+This weapon's toughness increases by 50%, armor penetration decreases by 50%。
+Poison Tail
+This weapon increases the poison damage to enemies by 20%。
+Flexible use
+The demand for the use of this weapon has decreased by 20%
+Blood Kill
+When attacking with this weapon or using it to unleash destructive techniques, if the weapon is damaged, the direct external damage received by the enemy increases by 30%。
+Anger
+When using this weapon to attack or execute destructive techniques, if the weapon is damaged, the direct internal injury inflicted on the enemy increases by 30%。
+Transform Blood
+When attacking with this weapon or using it to perform destructive techniques, the external damage received by the attacker is reduced by 20% due to recoil%。
+Transform gas
+When attacking with this weapon or using destructive techniques, the internal injury rebound damage received by the attacker is reduced by 20%。
+Dispelling palm
+If the enemy uses gauntlets to block attacks or break techniques, the enemy's strength, finesse, speed, and focus are reduced by 20%。
+Draw the sword
+If the enemy uses a sword, this armor reduces the enemy's strength, finesse, speed, and critical strike chance by 20% when blocking attacks or breaking techniques%。
+Knife breaking
+If the enemy uses a knife, this armor reduces the enemy's strength, skill, speed, and focus by 20% when blocking their attacks or breaking their techniques%。
+Expel toxins
+If the enemy uses poisonous frost or poison sand, this equipment can reduce the enemy's strength, finesse, speed, and focus by 20% when resisting their attacks or breaking their techniques%。
+Expanding the army
+If the enemy uses a stick or a gun to block the enemy's attack or break the technique with this armor, the enemy's strength, finesse, speed, and focus will be reduced by 20%。
+Anti-soft soldiers
+If the enemy uses a long whip or a dust whisk to defend against the enemy's attack or to break their technique, the enemy's strength, finesse, speed, and focus are reduced by 20%。
+Countering hidden weapons
+If the enemy uses traps, hidden weapons, or darts, this protective gear can reduce the enemy's power, finesse, speed, and effectiveness by 20% when blocking their attacks or disrupting their techniques%。
+Open the strange gate
+If the enemy uses talismans, thrusts, or short clubs to block attacks or disrupt techniques with this armor, the enemy's strength, finesse, speed, and focus are reduced by 20%。
+Exorcism Sound
+If the enemy uses a flute or a yāo qín to defend against the enemy's attack or to break their techniques, the enemy's power, finesse, speed, and focus are reduced by 20%。
+Expel gold
+If the enemy uses weapons made of gold and iron materials, using this armor to resist the enemy's attacks or to break through their techniques will reduce the enemy's body-breaking and energy-breaking by 20%。
+Bimu
+If the enemy uses weapons made of bamboo or wood, the damage dealt to their body and energy is reduced by 20% when using this protective gear to withstand or break their attacks or techniques%。
+Open the jade
+If the enemy uses weapons made of jade material, when using this armor to withstand the enemy's attacks or break their techniques, the enemy's body and energy damage are reduced by 20%。
+To open up brocade
+If the enemy uses weapons made of fabric material, this armor will reduce the enemy's body and Qi damage by 20% when blocking their attacks or breaking their techniques%。
+Conceal the edge
+The blade damage of this protective gear increases by 20%。
+Snow Refined
+The toughness of this protective gear has increased by 20%。
+blood-stained clothes
+The blade break of this protective gear increases by 50%, while toughness decreases by 50%。
+Unyielding
+The toughness of this armor increases by 50%, and blade breakage decreases by 50%。
+This protective gear increases poison damage dealt to enemies by 20%。
+The demand for the use of this protective gear has decreased by 20%
+Guard the Blood
+When using this armor to withstand enemy attacks or break their techniques, if the armor is damaged, the direct external damage caused by the enemy is reduced by 30%。
+Protect Qi
+When using this armor to withstand enemy attacks or to break their techniques, if this armor is damaged, the direct internal injury caused by the enemy is reduced by 30%。
+Shock the blood
+When using this protective gear to withstand an enemy's attack or to break a technique, the external damage caused to the attacker is increased by 20%。
+Shock wave
+When this protective gear withstands an enemy's attack or breaks a technique, the internal injury backlash damage caused to the attacker is increased by 20%。
 Reinforcement
-The durability of this equipment is increased by 20%.
+The durability of this equipment is increased by 20%。
 Balance
-The weight of this equipment has been reduced by 20%.
+The weight of this equipment is reduced by 20%。
 Valuable
-The value of this equipment is increased by 30%.
+The value of this equipment increases by 30%。
 Gift
-The popularity of this equipment is increased by 30%.
+The liking for this equipment increases by 30%。
 Heavy
-The durability of this equipment is increased by 50% and its weight is increased by 50%.
-Light
-The weight of this equipment is reduced by 50% and its durability is reduced by 50%.
-Ritual
-The value of this equipment is increased by 75% and its popularity is reduced by 75%.
-Collectible 
-The popularity of this equipment is increased by 75%, and its value is reduced by 75%.
-Made by Adoptive Father
-The Might, Finesse, and Swiftness of this weapon are increased by 20%; The durability of this weapon in increased by 100%.
+The durability of this equipment is increased by 50%, and the weight is increased by 50%。
+Lightweight
+The weight of this equipment is reduced by 50%, and its durability is reduced by 50%。
+ritual vessel
+The value of this equipment increases by 75%, and the popularity of this equipment decreases by 75%。
+Rare treasures
+The affection for this equipment increases by 75%, and the value of this equipment decreases by 75%。
+Made by adoptive father
+The power, finesse, and swiftness of this weapon increase by 20%; the durability of this weapon is enhanced by 100%。
 Trial
-This weapon's durability is reduced by 50%, and its usage requirements are increased by 100%
+The durability of this weapon is reduced by 50%, and the usage demand increases by 100%。

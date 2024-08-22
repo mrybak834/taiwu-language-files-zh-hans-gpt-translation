@@ -1,12 +1,12 @@
 Plain
-Fertile and broad plains spread as far as one can see...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Food, Wood, and Fabric.</color>\n·Suitable for: <color=#pinkyellow>Painting, Appreciation, Carpentry, Weaving, Culinary Arts, and Lore.</color>
+The plains are smooth and flat, fertile land stretches for a thousand miles...\\n · Resource output: <color=#pinkyellow>Abundant ingredients, timber, fabric</color>\\n · Suitable for development: <color=#pinkyellow>Painting, tasting, woodworking, brocade weaving, culinary arts, miscellaneous studies</color>\\n>
 Mountain
-Mountains are grand and lofty, reminding one of stone forest...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Ore, some Jade and Fabric.</color>\n·Suitable for: <color=#pinkyellow>Martial Arts, Literature, Astrology, Smithing, Gemcutting, and Taoism.</color>
+Majestic mountains and strange peaks stand tall, with bizarre rocks standing in clusters...\\n<size=10> </size>\\n · Resource output: <color=#pinkyellow>Abundant in gold and iron, as well as jade, textiles</color>\\n · Suitable for development: <color=#pinkyellow>Martial arts, poetry and books, arts and sciences, forging, craftsmanship, Taoism</color>\\n>
 Forest
-Verdant forests full of luxurious vegetation...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Wood, some Fabric and Herbs.</color>\n·Suitable for: <color=#pinkyellow>Carpentry, Medicine, Toxicology, Weaving, Buddhism, and Culinary Arts.</color>
-Swamp
-A dense network of wide lakes and remote streams...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Food, Wood, and Herbs.</color>\n·Suitable for: <color=#pinkyellow>Music, Appreciation, Carpentry, Medicine, Toxicology, and Lore.</color>
+The forest is overgrown with brambles, ancient trees are lush...\\n<size=10> </size>\\n · Resource output: <color=#pinkyellow>Abundant in timber, also produces fabrics and medicinal herbs</color>\\n · Suitable for development: <color=#pinkyellow>Woodworking, medicine, poison techniques, brocade weaving, Buddhist studies, culinary arts</color>\\n>
+lake and marsh
+The lakes and rivers are densely distributed, with quiet valleys surrounding them…\\n<size=10> </size>\\n · Resource output: <color=#pinkyellow>abundant ingredients, timber, medicinal herbs</color>\\n · Suitable for development: <color=#pinkyellow>music, tasting, woodworking, medicine, poisoning techniques, miscellaneous studies</color>\\n>
 Seaside
-The seaside is boundless, and the mountains on the island stand tall...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Ore, Jade, and Food.</color>\n·Suitable for: <color=#pinkyellow>Martial Arts, Music, Appreciation, Smithing, Gemcutting, and Lore.</color>
-Snowy Mountains
-Mountains that have been covered in snow for years, yet still haven't frozen...\n<size=10> </size>\n·Resource Output: <color=#pinkyellow>A lot of Jade, some Ore and Herbs.</color>\n·Suitable for: <color=#pinkyellow>Martial Arts, Chess, Literature, Astrology, Gemcutting, and Taoism.</color>
+The vast expanse of the seaside, with towering islands...\\n<size=10> </size>\\n · Resource output: <color=#pinkyellow>Abundant gold, iron, jade, and food ingredients</color>\\n · Suitable development: <color=#pinkyellow>Martial arts, music, appreciation, forging, craftsmanship, and miscellaneous studies</color>\\n>
+Snow Mountain
+The snow-capped mountains have been covered in snow for years, and the ice remains unmelted...\\n<size=10> </size>\\n · Resource output: <color=#pinkyellow>Abundant in jade, as well as gold, iron, and medicinal materials</color>\\n · Suitable for development: <color=#pinkyellow>Martial arts, chess, poetry, literature, crafts, and Taoist methods</color>\\n>

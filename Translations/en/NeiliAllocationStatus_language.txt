@@ -1,10 +1,10 @@
-True Qi Scattered
-{0} losses <color=#brightblue>are decreased by 30%</color>, and gains <color=#brightblue>are increased by 60%</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightred>is decreased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightblue>is decreased by 50%</color>, but the backlash chance <color=#brightred>is increased by 100%</color>。
-True Qi Wasted
-{0} losses <color=#brightblue>are decreased by 15%</color>, and gains <color=#brightblue>are increased by 30%</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightred>is decreased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightblue>is decreased by 25%</color>, but the backlash chance <color=#brightred>is increased by 50%</color>。
-True Qi Normal
-{0} losses or gains <color=#pinkyellow>are not affected</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#pinkyellow>is not affected</color>;。；{0} <color=#pinkyellow>techniques'</color> backlash chance and damage <color=#pinkyellow>are not affected</color>。
-True Qi Abundant
-{0} losses <color=#brightred>are increased by 30%</color>, and gains <color=#brightred>are decreased by 15%</color>。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightblue>is increased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightred>is increased by 50%</color>, but the backlash chance <color=#brightblue>is decreased by 25%</color>。
-True Qi Surging
-{0} losses <color=#brightred>are increased by 60%</color>, and gains <color=#brightred>are decreased by 30%</color>;。；{0} <color=#pinkyellow>techniques'</color> power <color=#brightblue>is increased by 20%</color>。；{0} <color=#pinkyellow>techniques'</color> backlash damage <color=#brightred>is increased by 100%</color>, but the backlash chance <color=#brightblue>is decreased by 50%</color>。
+True Qi dissipates
+{The loss amount of {0} <color=#brightblue>decreases by 30%</color>, and the increase amount <color=#brightblue>increases by 60%</color>. The power of {0} <color=#pinkyellow>technique</color> <color=#brightred>decreases by 20%</color>. The backlash damage of {0} <color=#pinkyellow>technique</color> <color=#brightblue>decreases by 50%</color>, and the backlash probability <color=#brightred>increases by 100%</color>.\\n>。
+True Qi depletion
+{The loss amount of {0} <color=#brightblue>decreases by 15%</color>, and the increase amount <color=#brightblue>increases by 30%</color>. The power of {0} <color=#pinkyellow>skill</color> <color=#brightred>decreases by 20%</color>. The backlash damage of {0} <color=#pinkyellow>skill</color> <color=#brightblue>decreases by 25%</color>, and the backlash probability <color=#brightred>increases by 50%</color>.\\n>。
+True Qi as usual
+{The loss amount and increase amount of {0} <color=#pinkyellow>remains unchanged</color>. The power of {0}'s <color=#pinkyellow>technique</color> <color=#pinkyellow>remains unchanged</color>. The backlash damage and backlash probability of {0}'s <color=#pinkyellow>technique</color> <color=#pinkyellow>remains unchanged</color>.\\n>。
+True qi is abundant
+{The loss amount of {0} <color=#brightred>increases by 30%</color>, the increase amount <color=#brightred>decreases by 15%</color>. The power of {0} <color=#pinkyellow>skill</color> <color=#brightblue>increases by 20%</color>. The backlash damage of {0} <color=#pinkyellow>skill</color> <color=#brightred>increases by 50%</color>, and the backlash probability <color=#brightblue>decreases by 25%</color>.\\n>。
+True qi surges violently
+{The loss amount of {0} <color=#brightred>increases by 60%</color>, and the increase amount <color=#brightred>decreases by 30%</color>. ; The power of {0} <color=#pinkyellow>skill</color> <color=#brightblue>increases by 20%</color>. ; The backlash damage of {0} <color=#pinkyellow>skill</color> <color=#brightred>increases by 100%</color>, while the backlash probability <color=#brightblue>decreases by 50%</color>.\\n>。

@@ -1,45 +1,45 @@
-Wiping secret data
-Due to the detection of illegal secret data, it has been deleted
-Failed to load MOD configuration
-Loading Mod - {0} Mod config file at {1} failed, skipped.\nError message: {2}
-Failed to load mod config file at {0}, skipped. \nError message: {1}
-Failed to load MOD settings
-Loading Mod - {0} Mod settings file at {1} failed, skipped and removed.\nError message: {2}
-Failed to load MOD global settings
-Failed to load mod global settings file at {0}, skipped and removed.\nError message: {1}
-Combat behavior with negative remaining frames
-The current combat state has a negative number of remaining frames, this behavior has been skipped
-Exceptions in the runtime of aspiration animation
-When executing {1} skill of {0} aspiration, an exception occurs when the animation is running and the current skill execution has been skipped. \n error message reported: {2}
-Skill effect run-time anomaly
-An exception occurred when running with effect ID {0}. We have noticed the problem and are trying to make the game continue through compatibility.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {1}
-Combat runtime exception
-There is an abnormality when the battle is running. We have noticed the problem and are trying to make the game continue through compatibility processing.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {0}
-Video format not supported exception
-Due to system reasons, this video cannot be played temporarily; this exception does not affect the ability to continue to create an archive and enter the game, so you can continue to play by clicking Clear directly.
-Mission data anomalies
-Exception Found Task Id. {0}
-Map runtime exception
-The map is running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website and submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
-Role Runtime Exception
-Characters are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website and submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
-Abnormalities in the operation of feats
-The feats are running with an abnormal condition, we have noted the issue and have attempted to enable the game to continue through compatibility processing. \nIf this log appears, please go to the official website to submit the log to assist in troubleshooting the problem. \nAbnormal Message: {0}
-Communication runtime exception
-An abnormality occurred while the communication was running. We have noticed the problem and are trying to make the game continue through compatibility processing. \nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem. \nException information: {0} 
-Debate operation expired
-The system abnormally received the expired operation {0} (timestamp: {1}) and invalidated it in the round number {2}
-Dream Back world file doesn't match
-Please note that the world you are currently traveling through in your dream does not match the original world save, and various unknown errors may occur if you continue the game! 
-Abnormal refreshment of elements in the interface of Dragon Transformation
-An anomalous condition has been detected while the Chemtrail interface is running, we are aware of the issue and have attempted to enable the game to continue through compatibility processing.\nIf this log appears, please go to the official website and submit the log to help troubleshoot the problem.
-General interface element refresh exception
-We have noted the current abnormal conditions and have attempted to continue the game through compatibility processing. \nThe anomalies recorded when this log appears may not be the same, whenever this log appears, please go to the official website to submit the log to assist in troubleshooting the problem.\nException Information: {0}
-World runtime exception
-There is an abnormality when the world is running. We have noticed the problem and are trying to make the game continue through compatibility processing.\nIf this log appears, please go to the official website to submit the log to help troubleshoot the problem.\nException information: {0}
-Item Duplicated
-An attempt to add a non-stackable item {0} to container {1} was detected when the item already existed in another container {2}.
-The item is not held 
-While trying to remove non-stackable item {0} from container {1}, it was detected that the item had no previously recorded holder.
-Event System Exception
-The event has changed, but it has not actually entered. Continuing the game may cause a corrupted file.\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting.\nGuid: {0}=>{1}
+Erase confidential data
+Due to the detection of illegal secret data, it has been cleared
+Failed to load Mod configuration\\n
+Failed to load Mod - {0} configuration file located at {1}, skipped.\\nError message: {2}\\n}
+Failed to load Mod configuration file located at {0}, skipped. \\nError message: {1}\\n}
+Failed to load Mod settings\\n
+Failed to load Mod - {0} located at {1} Mod settings file, skipped and removed.\\nError message: {2}\\n}
+Failed to load Mod global settings\\n
+Failed to load the Mod global settings file located at {0}, it has been skipped and removed. \\nError information: {1}\\n}
+The remaining frames for combat behavior are negative
+The current combat state has a negative remaining frame, skipping this action
+Ambition animation runtime exception\\n
+An exception occurred during the animation runtime while executing the {1} skill of the {0} ambition, and the current skill execution has been skipped.\\nError message: {2}\\n}
+Abnormal operation of the skill effect
+An exception occurred at runtime for effect ID {0}. We have noted this issue and attempted to continue the game through compatibility handling.\\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting the problem.\\nException information: {1}\\n}
+Battle operation exception
+An abnormal situation occurred during combat operation. We have noticed this issue and are attempting to continue the game through compatibility handling.\\nIf this log appears, please visit the official website to submit the log to assist in troubleshooting the problem.\\nAbnormal information: {0}\\n}
+The video format is not supported
+Due to system reasons, this video cannot be played at the moment; this issue does not affect the creation of archives to enter the game, and you can directly click Clear to continue the game
+Task data anomaly\\n
+Abnormal task Id: {0}\\n}
+Map runtime exception\\n
+There was an exception when running the map. We have noted the issue and are attempting to continue the game through compatibility handling.\\nIf this log appears, please visit the official website to submit the log to assist in troubleshooting the problem.\\nException information: {0}\\n}
+Role runtime exception\\n
+An exception has occurred during the character runtime. We have noticed this issue and are trying to continue the game through compatibility handling.\\nIf this log appears, please visit the official website to submit the log to assist in troubleshooting.\\nException information: {0}\\n}
+Exception during skill operation\n
+An abnormal condition has occurred during the operation of the skill, and we have noticed this issue and are attempting to continue the game through compatibility processing.\\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting the problem.\\nAbnormal information: {0}\\n}
+Communication runtime exception\n
+An abnormal situation occurred during communication operation. We have noticed this issue and are trying to continue the game through compatibility processing.\\nIf this log appears, please go to the official website to submit the log to assist in troubleshooting the problem.\\nAbnormal information: {0}\\n}
+Art operation expired
+The skill system has abnormally received an expired operation {0} (timestamp: {1}) at round number {2}\\nIt has been invalidated\\n
+The dream returns to the old world, but it doesn't match
+Please note that the current dream back to the crossing world does not match the original world save file, and continuing the game may result in various unknown errors!
+Transformation dragon interface elements refresh abnormal
+An abnormal situation was discovered during the operation of the transformation interface. We have noticed this issue and are attempting to continue the game through compatibility handling. If this log appears, please visit the official website to submit the log to assist in troubleshooting the issue。
+General interface element refresh exception\\n
+We have noticed the current abnormal situation and are attempting to continue the game through compatible handling. The abnormal situation recorded at the time this log appears may vary; whenever this log appears, please visit the official website to submit the log to assist in troubleshooting the issue. Abnormal information: {0}
+Runtime exception in the world
+An abnormal condition has occurred while the world is running. We have noticed this issue and are attempting to continue the game through compatibility handling.\\nIf you encounter this log, please go to the official website to submit the log to assist in troubleshooting the issue.\\nAbnormal information: {0}\\n}
+Prop repeat
+Detected an attempt to add a non-stackable item {0} to container {1}, while the item already exists in another container {2}.\\n.
+The prop is not held
+Attempting to remove the non-stackable item {0} from container {1}, it was detected that the holder of this item had not been recorded previously.\n.
+Event system exception\\n
+The event has changed, but has not actually entered; continuing the game may result in a bad save.\\nIf this log appears, please visit the official website to submit the log to assist in troubleshooting the issue.\\nGuid: {0}=>{1}\\n}

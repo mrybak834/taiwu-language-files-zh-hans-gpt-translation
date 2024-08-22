@@ -1,39 +1,39 @@
-Killing a person with a reputation
-Killing people of ill repute
-Killing people of high reputation
-Imprisonment of notorious people
-Imprisonment of persons of ill repute
-Guarding people of high reputation
-Killing fellow disciples
-Locking up fellow disciples
-Love affair
-Grave robbing
+Kill a person of great notoriety
+Kill people with a bad reputation
+Kill those with outstanding reputations
+Imprisoning those with a notorious reputation
+Imprisoning people with a bad reputation
+Imprisoning individuals of outstanding reputation
+Kill a fellow disciple
+Imprisoning fellow disciples
+Private affairs between men and women
+Tomb raiding
 Theft of property
-Scamming others
+Deceive others
 Robbery of property
-Poisoning others
-Assassination of others
-Poisoning fellow disciples
-Injuring fellow disciples
-Skill theft
-Hardening of items
-Breaking the diet
-Involved by spouse
-Secret killing of others
-Secret detention of others
-Befriending Shaolin disciples
-Befriending Emei School disciples
-Befriend with the disciples of Hundred Flowers Valley
-Befriending the disciples of the Wudang Sect
-Befriending a disciple of the Yuanshan Sect
-Befriending a disciple of the Lion-Face Clan
-Befriending the disciples of Ranshan Sect
-Befriending the disciples of XuanNyu Sect
-Befriend the disciples of Sword Manor
-Befriending a disciple of the KongSang Sect
-Befriending the disciples of Vajrayana
-Befriending the disciples of the Five Immortals Cult
-Befriending the disciples of JieQing Gate
-Befriending the disciples of Fulong Altar
-Befriending a disciple of the Bloodhound Cult
-Forced to skip turn during Debates
+Poison others
+Secretly hurting others
+Betrayal among peers
+Hidden injuries among the same sect
+Stealing skills and techniques
+Poisoning the item
+Diet break
+Implicated by a spouse
+Secretly kill others
+Secretly detain others
+Make friends with disciples of the Shaolin sect
+Forming friendships with the disciples of Emei Sect
+Make friends with the disciples of Hundred Flowers Valley
+Make friends with Wudang Sect disciples
+Become friends with disciples of the Yuanshan sect
+To befriend the disciples of the Lion's Gate
+To befriend the disciples of the Yan Mountain sect
+Make friends with disciples of the Xuan Nv Sect
+Make friends with the disciples of the Sword Casting Manor
+Make friends with the disciples of the Kong Sang sect
+Make friends with disciples of the Vajrayana sect
+Form friendships with the disciples of the Five Immortals Sect
+Make friends with disciples of the Qingmen
+Make friends with the disciples of Fulongtan
+Make friends with the disciples of the Blood Hound教
+Force silence in competition

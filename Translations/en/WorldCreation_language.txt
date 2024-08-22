@@ -1,62 +1,62 @@
-Lifespan
-The length of life span of all characters in the game. \n<color=#E3C66DFF> (The length of a character's life span does not affect the game's difficulty rating.) </color>
-Short
-Medium
-Long
-Epic
-Difficulty
-Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemies will be;\nThe more intelligent the enemies will be;\nThe more actions they will perform in battle.\nFor example: they will have better control of the distance and timing for attack and defense.)\n(Note that difficulty names actually represent how hard they are. If you're a new player it's recommended to choose the \"Difficult\" difficulty.)</color>
-<color=#pinkyellow>Very Easy</color>
-<color=#9FE0DCFF>Difficult</color>
-<color=#FFE78FFF>Very Hard</color>
-<color=#FF5331FF>Deadly</color>
-Study Speed
-The basic efficiency of studying books.\n<color=#yellow>(The higher the study efficiency, the more study progress books will receive every month, during active study, and from Combat Insight.)</color>
-<color=#pinkyellow>Fast</color>
-<color=#9FE0DCFF>Normal</color>
-<color=#FFE78FFF>Slow</color>
-<color=#FF5331FF>Heavenly</color>
-Breakthrough
-Determines the success rate of connecting cells during skill breakthroughs.\n<color=#yellow>(The higher the breakthrough success rate, the easier it is to choose a route during breakthroughs.)</color>
-<color=#pinkyellow>Easy</color>
-<color=#9FE0DCFF>Normal</color>
-<color=#FFE78FFF>Difficult</color>
-<color=#FF5331FF>Lost</color>
-Cultivation
-The basic efficiency of Cultivation.\n<color=#yellow>(The higher the Cultivation efficiency, the more Internal Energy and True Qi will be received every month, and during active cultivation.)</color>
-<color=#pinkyellow>Fast</color>
-<color=#FF5331FF>Hard Work</color>
-Outlaws
-The number of Villains and Outlaws scattered throughout the world.\n<color=#E3C66DFF>(The more Villains and Outlaws there are, the easier it is for you to be attacked.)</color>
-<color=#pinkyellow>Less</color>
-<color=#FFE78FFF>More</color>
-<color=#FF5331FF>A lot</color>
-Invasion Speed
-Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean less preparation time, making it harder to defend the village.\n<color=#E3C66DFF>(The game is over if the Taiwu Village is destroyed.)</color>
-<color=#pinkyellow>Stop</color>
-<color=#FFE78FFF>Fast</color>
-<color=#FF5331FF>Extreme</color>
-World's Resources
-A prosperous world will be conducive to Taiwu's development.\nBut even the most desolate world can gradually come back to life.\n<color=#E3C66DFF>(The World's Resources directly affect the recovery amount of various resources in various locations in the world, the income of Taiwu Village, the income of selling items, the resources held by the world, etc.; In Wonderland difficulty, the amount of resources gained when collecting resources will also be different.)</color>
-<color=#pinkyellow>Wonderland</color>
-<color=#FFE78FFF>Barren</color>
-<color=#FF5331FF>Desolate</color>
-World Population
-Controls the maximum limit of concurrent NPCs in the game. The more NPCs there are, the more diverse the World of Taiwu will be.\n<color=#E3C66DFF>(Higher processing power is required for larger world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
+Life span of characters
+The lifespan of all characters in the game.\\n<color=#E3C66DFF>(The length of a character's lifespan will not affect the difficulty rating of the game.)</color>\\n>
+Early death
+Normal
+longer
+extremely long
+The difficulty of the battle
+The enemy's strength and intelligence level in battle.\\n<color=#E3C66DFF>(The higher the difficulty of the battle, the stronger the enemy's capabilities; and the higher the enemy's intelligence level, the more additional combat actions they can perform, such as being better at judging the distance and timing of attacks and defenses.)</color>\\n>
+<color=#pinkyellow>Normal</color>\\n>
+<Difficulties>
+<color=#FFE78FFF>Extremely difficult</color>\\n>
+<Certain death>
+Reading speed
+The foundational study efficiency of books.\\n<color=#yellow>(The higher the study efficiency, the more progress will be made in the choice of books for study during month transitions, active study, and practical insights.)</color>\\n>
+<color=#pinkyellow>Very Fast</color>\\n>
+<color=#9FE0DCFF>Normal</color>\\n>
+<color=#FFE78FFF>Slow</color>\\n>
+<Celestial Book>
+The difficulty of breakthrough
+Breakthrough techniques connect to improve the success rate of breakthroughs.\\n<color=#yellow> (The higher the breakthrough success rate, the easier it is to select the route connected during the breakthrough.)</color>\\n>
+<color=#pinkyellow>Easy</color>\\n>
+<Ordinary>
+<color=#FFE78FFF>Difficulty</color>\\n>
+<color=#FF5331FF>Lost</color>\\n>
+Sunday's speed
+The basic efficiency of the weekly rotation.\\n<color=#yellow>(The higher the efficiency of the weekly rotation, the more internal force and true energy obtained from internal power during the month change and active weekly time.)</color>\\n>
+<Quick success>
+<Ascetic practice>
+The number of external ways
+The number of villains and heretics scattered around the world.\\n<color=#E3C66DFF>(The more villains and heretics there are, the more likely you are to encounter attacks.)</color>\\n>
+<color=#pinkyellow>Less</color>\\n>
+<More>
+<Very many>
+Speed of invasion
+The faster the invasion, the easier it is for Taiwu Village to be destroyed by the invasion of Xiangshu.\\n<color=#E3C66DFF>(If Taiwu Village is destroyed, it will result in game failure.)</color>\\n>
+<color=#pinkyellow>Stop</color>\\n>
+<color=#FFE78FFF>Faster</color>\n>
+<color=#FF5331FF>Extremely fast</color>\\n>
+Resources of the world
+A prosperous world will be beneficial for the development of Taiwu.\\nBut even the most desolate world can gradually regain vitality.\\n<color=#E3C66DFF>(The resources of the world directly affect the recovery amount of various resources at different locations, the income of Taiwu Village, the income from selling items, and the resources held by the people; under the difficulty of Peach Blossom Source, the amount of resources gathered during collection will also vary.)</color>\\n>
+<Peach Blossom Spring>
+<color=#FFE78FFF>Arid</color>\\n>
+<color=#FF5331FF>Desolate</color>\\n>
+World population
+The population determines the upper limit of the number of active NPCs in the game; the more NPCs there are, the more exciting the world of Taiwu becomes.\\n<color=#E3C66DFF>(The more the world's population, the better the computer performance required.)</color>\\n<color=#E4504DFF>(This option cannot be changed after the game starts!)</color>\\n>
 Less
-High
-Extreme
-Standpoint
-Your choices in events will be restricted based on your standpoint, for a more realistic experience. (i.e. if you're Kind, you will be able to select Just, Kind, and Even choices in events.)
-On
-Off
+more
+extremely many
+Limitations of Position
+The limitations of the stance will restrict the event options available in the game based on different life stances, to experience a more authentic Taigu world
+Open
+Close\n
 Random Heir
-When the Taiwu (player) dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir.\n<color=#E3C66DFF>(The game is over if there's no available heir!)</color>\n<color=#E4504DFF>(This option cannot be changed after the game has started!) </color>
-Enemies' Practice
-Determines enemies' skill practice percentage, and how many chapters of a skill book they've read.\n<color=#E3C66DFF>(The higher this setting is, the higher the enemies' skill practice percentage and amount of read chapters will be.)</color>
-<color=#9FE0DCFF>High</color>
-<color=#FFE78FFF>Extreme</color>
-<color=#FF5331FF>Master</color>
-Favor Change
-The difficulty of changing Favor between people. \n<color=#E3C66DFF>(The more difficult it is, the more difficult it is for others to accumulate Favor towards you.)</color>
-<color=#FF5331FF>Harsh</color>
+When the Taiwu family has no heirs, will random heirs appear to ensure the continuation of the Taiwu family?\\n<color=#E3C66DFF>(No heirs will lead to game failure!)</color>\\n<color=#E4504DFF>(This option cannot be changed after the game starts!)</color>\\n>
+The enemy's practice
+The degree of the enemy's mastery of cultivation practices and the number of pages of heart methods mastered. \\n<color=#E3C66DFF> (The stronger the enemy's cultivation ability, the greater the degree of mastery when learning skills and the more heart method pages are mastered.)</color> \\n>
+<color=#9FE0DCFF>Higher</color>\\n>
+<color=#FFE78FFF>Extremely High</color>\n>
+<Proficient>
+The changes of human feelings
+The difficulty of changes in affinity between people.\\n<color=#E3C66DFF>(The greater the difficulty of change, the harder it is for others to accumulate affection for you.)</color>\\n>
+<Bitter>

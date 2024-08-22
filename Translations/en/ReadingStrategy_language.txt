@@ -1,57 +1,57 @@
-Ponder with Recital
-Increases Study Progress of this page.
-“Focus on one thing, recite it with your mouth and heart”\nWhat you say with your mouth and what you think in your heart, you will never forget...
-Lost in meditation
-Increases Study Efficiency of this page.
-Is this what the chapter means？Well...Or like this？Umm...\nHuh？How come I am standing here？
-Unique Insights
-Randomly increases Study Progress of this page.
-The chapter does give some brilliant ideas, but from my point of view it may not be that flawless...
-Wonderful ideas
-Randomly increases Study Efficiency of this page.
-“A fishing boat with two children, sitting in the boat with their boats closed。\nStrange life without rain are open umbrella, not to cover the head is to make the wind.”
-Pretend to understand
-Re-activates already placed Study Strategies on this page that increase Study Progress.
-This article has a deep meaning and is quite difficult to understand. \nBut if you follow the previous articles for interpretation, nothing can go wrong...
-Follow the instructions
-Doubles the effect of already placed Study Strategies on this page that increase Study Efficiency.
-Well... according to the book, is this what this sentence means?\nThat's really good...
-Take notes
-Lose additional book durability to greatly increase the Study Progress of this page.
-“The magic of a man's pen, every word is a gem”...\nThis should be the finishing touch...
-Savor fine writing
-Lose additional book durability to greatly increase the Study Efficiency of this page.
-This article is the essence of the whole text，you have to savor it carefully...
-Review the Old
-When used on a completed page, it increases the Study Progress of the next page that isn't completed or Lost.
-“Study and learn at the same time, review the old and know the new”...
-Comprehensive Study
-When used on a completed page, it increases the Study Efficiency of the next page that isn't completed or Lost.
-If this article can be compared with the other articles, I'm sure it'll be clearer.
-Be diligent
-Greatly increases Study Progress of this page.
-“Excellence in work is only possible with diligence, not with playfulness.”...\nDon't be half-hearted...
-Focus on reading
-Greatly increases Study Efficiency of this page.
-“Three hundred words at a glance，my eyes are still clear"...
-Recitation
-The Comprehension cost of Study Strategies on this page is decreased by 10 points, but this page won't give Experience.
-“Teach according to the material，Adapt to the time of year”...\nAnd you can get twice the result with half the effort...
-Extrapolation
-The Comprehension cost of Study Strategies on this page is decreased by 10 points.
-So... that's how it is...\nWith this as a solution，despite taking one step forward and one step back, i can achieve speedy enlightenment...
-Breaking down
-Removes all Study Strategies used on this page, and restores a certain amount of Comprehension based on the removed Study Strategies.
-The words on this page... Are food for my brain!\nLet me break down what's written in this article, word by word...
-Reflect and Ruminate
-Removes all Study Strategies used on this page.
-After reading a book a hundred times, its meaning becomes clear to you...
-Gulp Down
-This page won't be studied, but the Study Efficiency of the next page will be reduced.
-I’ll just put it aside for the moment and move on to the next one...
-Wisdom of Ignorance
-This page won't be studied.
-This chapter seems paradoxical, hard to interpret in a moment\nBetter to memorize the essentials first, as it helps with literacy at least, if not with comprehension...
-Adoptive Father's Notes
-Increase the Study Progress of《The Impact》taught by my Adoptive Father.
-“This article has been explained in detail by my adoptive father, its mysteries are naturally visible to me...”
+Recite aloud and contemplate in the heart
+Increase the reading progress of this chapter。
+“Concentrate with single-mindedness, recite with your mouth and contemplate with your heart”... What is spoken with the mouth and thought with the heart should be unforgettable at a glance。
+Walking thoughts and sitting memories
+Improve the reading efficiency of this book。
+This article states, should it be this way? Hmm... or this way? Hmm...\\nEh? How did I end up standing here?\\n？
+Seeing and knowing alone
+Randomly increase the reading progress of this book。
+Although this insight is clever, in my opinion, it may not be without omissions……
+Brilliant ideas
+Randomly improve the reading efficiency of this book。
+“A fishing boat with two young children, they stop the poles and sit in the boat.\\nStrange, without rain, they open the umbrella, not to shield their heads but to catch the wind。”
+Draw a tiger by copying a cat
+The reading strategies that have already been added to this book's chapters for increasing reading progress are effective again。
+This article is profound and far-reaching, quite difficult to understand.\\nHowever, if interpreted according to the previous texts, it is undoubtedly correct……
+Searching for a steed by following a picture
+Make the existing reading strategies in this book double their effectiveness in improving reading efficiency。
+Well... according to the book, this sentence or this meaning?\\nIndeed, it's correct……
+Searching for phrases and sentences
+Additional wear and tear significantly increases the reading progress of this book。
+“The divine pen of the master, every word a pearl’... This should be the finishing touch……
+Containing English and savoring Chinese
+Extra wear and tear affects the durability of this book, significantly improving the reading efficiency of this chapter。
+This article contains the essence of the entire text and needs to be read carefully and pondered deeply……
+Review the old and know the new
+Using the completed readings can increase the progress of the subsequent readings of non-lost books that have not been completed。
+“To learn and to practice it at the right time, to review the old and know the new”……
+Integrate and understand comprehensively
+This book, upon completion of reading, can improve the reading efficiency of subsequent books。
+If this article can be corroborated with other articles, it is likely that everything will become clear。
+The Pillow Sutra
+Significantly increase the reading pace of this book。
+“Excellence is achieved through diligence, while it is ruined by laziness...\\nOne must not have even the slightest inclination towards idleness……
+Ten lines together
+Significantly improve the reading efficiency of this chapter。
+“One glance down reveals three hundred characters, yet within my heart, there is not a speck of dust”……
+Spring recitation, summer strings
+The perceptual consumption when using study strategies for this book is reduced by 10 points, but this book cannot gain experience。
+“Teach according to the material and adapt to circumstances...\\nIt may achieve twice the result with half the effort……
+Deliberate evolution
+The insight consumption when using reading strategies for this book decreases by 10 points。
+So... this way... With this interpretation, it indeed connects the past and the future, and becomes clearly understood……
+Understood in the heart
+Eliminate all the study strategies used in this book chapter, and restore a certain level of insight based on the eliminated study strategies。
+This solution... truly has its tricks!\\nLet me break down every word of this article……
+Reflecting on past thoughts
+Eliminate all the study strategies used in this chapter。
+Reading a hundred times, its meaning will naturally become clear……
+Swallowing whole jujubes
+This book will not be read, but it will reduce the efficiency of reading subsequent chapters。
+This section can be skipped for now, let's take a look at the next chapter……
+Great wisdom appears as foolishness
+This book will not be studied。
+This article is ambiguous and difficult to understand at the moment.\\nIt's better to silently remember the summary; even if you can't understand it, knowing more words is still good.\\n。
+Foster father's note\\n
+Increase the study progress of the 'Heavenly Pivot's Mysteries' taught by the adoptive father。
+“This article has been carefully annotated by my adoptive father, and the mysteries within are naturally laid bare……”

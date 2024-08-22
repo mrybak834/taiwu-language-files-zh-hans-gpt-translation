@@ -1,36 +1,36 @@
-MIG
-FIN
-SWI
-BRE
-Ext. Pen.
-Int. Pen.
-DIV
-PAR
-EVA
-FOC
-Ext. Def.
-Int. Def.
-Stance Recovery
-Inhale Recovery
-MOV·Spd
-Ext. Recovery
-Cast Speed
-Int. Recovery
-Wp·Switch CD
-Attack Speed
-Int Ratio Bonus
-Internal Breath
-Acritoxin Res
-Umbritoxin Res
-Cryotoxin Res
-Pyrotoxin Res
-Necrotoxin Res
-Oneirotoxin Res
-External Injury
-Internal Injury
-Mood
+Strength
+Exquisite
+Swift
+Moved
+Broken body
+Break the energy
+Release force
+Unraveling the moves
+Dodge
+Guard the heart
+Imperial Body
+Imperial Qi
+Posture recovery
+Breath recovery\n
+Movement speed\n
+Steady pace
+Unleash speed
+Introducing air to pass the barrier
+Weapon switch
+Attack Speed\n
+Internal skill display
+Breathing in and out
+Resistance to intense poison
+Resisting Depression
+Cold toxin resistance
+Red toxin resistance
+Corruption Resistance
+Illusory Poison Resistance
+Direct trauma
+Direct internal injury
+mood
 Amount of True Qi Obtained
-Stamina Recovery Rate
-Minimal Attack Range
-Maximum Attack Range
-Seven Instincts
+Recovery speed of foot strength
+Minimum attack distance
+Maximum attack range
+Seven Yuan's Nature

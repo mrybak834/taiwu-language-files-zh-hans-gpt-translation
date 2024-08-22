@@ -1,36 +1,36 @@
-Encounter a mirage
-Encountering a mirage, Reputation increased
-Discover Savage
-Savage discovered, Reputation increased
-Discover Animals
-Rare animals discovered, Reputation increased
+Encountering a mirage
+Encountered a mirage, and its popularity has increased
+Discovering the Wild Man
+Discovered wild people, the visibility has increased
+Discover animals
+Rare animals have been discovered, and their recognition has increased
 Discover Plants
-Rare plants discovered, Reputation increased
-Report Back
-The experiences were reported back, Reputation increased
-Discover a settlement
-A settlement was discovered, Reputation increased
-Read the weather
-Encountered rare weather, Reputation increased
-Got Lost
-Got lost, Reputation decreased
-Encounter thieves
-Encountered thieves, some goods were lost
-Hit a pothole
-Hit a pothole, some goods were lost
-Found the remains of a caravan
-Found the remains of a caravan, and obtained some goods
-Assist some travelers
-Assisted some travelers, resulting in decreased supplies
-Bad weather
-Encountered bad weather, resulting in decreased supplies
-Get Assistance
-Received assistance and increased supplies
-Occasional Wild Game
-Game was found and supplies increased
-Discover forest fruit
-Found the fruit forest and supplies could be foraged
-Discover a village
-Villages was found and supplies could be exchanged
-Meet a caravan
-When the two caravans met, supplies could be exchanged
+Rare plants have been discovered, and their visibility has been enhanced
+Feedback on experiences
+Feedback was returned, and the visibility was improved
+Discover the settlement
+The settlement was discovered, and its fame was elevated
+Discover the weather
+Encountering rare weather, visibility has improved
+Lost
+Lost direction, leading to a decline in popularity
+Encounter a thief
+Encountered thieves and lost some goods
+Bump damage
+The journey was bumpy, and a small amount of cargo was lost
+Discover the wreckage of the caravan
+Discovered the remains of the caravan and obtained some goods
+Help a passerby
+Assisted a passerby, leading to a reduction in supplies
+Not acclimatized to the environment
+The tea horse caravan was not well adapted to the environment, leading to a decrease in supplies
+Receive assistance
+Received assistance, supply increased
+Accidentally obtaining wild game
+Wild game discovered, supply increased
+Discovering the orchard
+Discovered fruit forests, can search for supplies
+Discover the village
+Discovered a village, can exchange supplies
+Encountering a caravan
+Encounter a caravan, can exchange supplies

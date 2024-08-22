@@ -1,128 +1,128 @@
-Lose
-Battle lost!
+Skill is inferior to others
+Battle failed！
 
 Draw
-Tie...
+Regardless of victory or defeat……
 
-Retreat
-Flee...
+Flee in a hurry
+Fleeing in disarray……
 
-Win
-Battle won!
+Defeat the enemy and achieve victory
+Victory in battle！
 
-Spar
-Spar with an opponent whose purity is no less than your own.
+Exchanging insights
+Practice martial arts with opponents who are no less than yourself。
 
-Parry every move
-Take on an opponent whose purity is no less than your own.
+Respond to each move as it comes
+Engage with opponents who are at least as skilled as yourself。
 
-A dangerous Battle
-A dangerous fight with an opponent whose purity is no less than your own.
+Sinister Battle
+Engage in a fierce battle with opponents who are no less pure than oneself。
 
-A Fight to the death
-A fight to the death with an opponent whose purity is no less than your own.
+Battle of Life and Death
+Engage in a death battle with opponents who are at least as pure as oneself。
 
-HoS
-Defeated the XiangShu Incarnation !
+The Divine Sword Returns to the Heart
+Defeated the Resonance Avatar！
 
-Bully·A
-Defeat enemy who have fewer companions. 
+Overwhelm the few with the many
+Defeat the opponent when our numbers are greater than theirs。
 
-Bully·M
-Defeat an opponent who is younger than you
+Bullying the young
+Defeat your underage opponent who is younger than you。
 
-Equipped with weaknesses
-Defeat an opponent whose equipment is weaker overall than your own.
+Equipped with the weak
+Defeat opponents whose overall equipment is weaker than yours。
 
-True Qi overpowering
-Defeating an opponent whose True Qi is much lower than your own.
+True energy overwhelms the weak
+Defeat opponents whose true energy is much lower than your own。
 
-Martial Overpowering 
-Defeats an opponent using a martial art that is more advanced than the one used by the opponent.
+Martial arts transcend the weak
+Defeated the opponent using a martial art that is more advanced than what the opponent used。
 
-Pure and fragile
-Defeating an opponent when one's realm of purity is 3 or more higher than the opponent's.
+Pure and weak
+Defeat the opponent when your pure realm is higher than theirs by 3 or more。
 
-Bully·P
-Defeating an opponent who is carrying six pieces of 
+Taking advantage of someone else's misfortune
+Defeat an opponent who is six months pregnant。
 
-OT·A
-Overturn·amount. Defeat enemy who have more companions. 
+Defeating the many with the few
+Defeat the opponent when our numbers are fewer than theirs。
 
-Newborn
-Beating an opponent when you are not yet an adult and your opponent is older than you.
+Newborn calf
+Defeating an opponent when you are still a minor and the other party is older than you。
 
-Equipped for victory
-Defeat an opponent whose equipment is overall better than your own.
+Equipped to win
+Defeat opponents whose equipment is overall stronger than your own。
 
-True Qi overcomes Force
-Defeating an opponent whose True Qi is much higher than your own.
+True energy surpasses strength
+Defeat opponents whose true energy is much higher than your own。
 
-Superior Martial Arts
-Defeating an opponent with a more rudimentary martial art than the one used by his opponent
+Martial arts prevail over strength
+Only used a martial art that is relatively shallower than what the opponent used to defeat them。
 
-Purity overcomes Strength
-Defeating an opponent when one's realm of purity is 3 or more below that of the opponent.
+Purity surpasses strength
+Defeat the opponent when your own pure realm is 3 levels lower or more than the opponent。
 
-Lion Roar
-Defeating an opponent while having six pieces of gear equipped.
+Roar of the Lioness from the East River
+Defeating an opponent while being pregnant。
 
-It's all in your hands.
-Restore one's mind from XiangShu's Posession. 
-Restore the mind of those who have fallen into evil.
-Repel Evil Spirits
-Restoring the minds of those who have fallen into the demonic path of the Sangha and who are no less pure than oneself.
-Restore the mind of those who have fallen into the evil path and whose purity is no less than your own.
-Be Chivalrous and uphold justice
-Exterminating the outlaws who committed misdeeds.
+A small effort
+To restore the mind and spirit of those who have fallen into the path of demonic magic。
+Allows the mind of those who have fallen into the demonic path to be restored。
+Exorcism of evil spirits
+Allow the pure to restore the hearts and minds of those who have fallen into the magical path of the axis。
+Allows the pure-hearted to restore the minds of those who have fallen into the demonic path。
+Uphold justice and help the weak
+Eradicated the evil-doing outsiders。
 
-Destroying the Outlaws
-Eliminating the Outlaws who are not less pure than oneself
+Eliminate external paths
+Eliminated external paths that are not inferior to oneself。
 
-Offend Heaven and Earth
-Killing righteous men who have done righteous deeds.
+Unjust and immoral
+Killed the chivalrous and righteous hero。
 
-Kill the Righteous
-Killing the righteous who are no less pure than oneself.
+Kill the righteous
+Killed righteous people who were no less pure than themselves。
 
-Praise of Lion Face
-Victory over the opponents earns more prestige because of the proclamation of the Lion-Face Clan.
+The lion looks majestic
+Due to the promotion of the Lion's Gate, defeating opponents gained more prestige。
 
 
 
-The Basics
-The prestige gained by defeating an enemy with the most rustic Taiwu Long Fist is greatly increased.
+Return to simplicity
+Defeating enemies with the most primitive Taizu Long Fist significantly raised his prestige。
 
-Practical insights
-The study progress of the books being studied has increased as a result of real-life insights.
+Practical Insight
+I have gained insights from practical experience, and the reading progress of the book I am currently studying has increased。
 
-Practice Puppet training
-Engaging in practical combat training with the wooden training dummy will greatly increase the likelihood of gaining insights from real battles...
+Wooden Dummy Training
+Training with the wooden man significantly increases the chances of understanding real combat……
 
-Dragon Soaring Over the Four Seas
-Through the challenges posed by the divine dragon, blessings extend indefinitely, and their value is beyond words...
+Dragons soar across the seas
+Through the challenge of the Shenlong, from then on, blessings will be long-lasting and priceless……
 
-Hanging by a Thread
-Engaging in battles of extreme difficulty increases the gained experience and raises the likelihood of gaining insights from real combat...
+Life and death by a hair's breadth
+With extremely difficult battles, the experience gained increases, and the probability of understanding in actual combat improves……
 
-Ten Deaths Without Life
-Engaging in battles of certain death difficulty significantly increases the gained experience and raises the likelihood of gaining insights from real combat...
+Ten deaths and no life
+With the difficulty of inevitable death in battles, the experience gained is greatly increased, and the probability of understanding in actual combat is greatly improved……
 
-Resisting Invasion
-Do everything you can to resist Xiangshu's Incarnation! The experience and prestige obtained are greatly improved, and the probability of actual combat understanding is increased...
+Resist invasion
+Strive to resist the embodiment of the decaying core! The gained experience and prestige have significantly increased, and the probability of understanding in actual combat has improved……
 
-Giving Some Pointers
-Spar with an opponent who's Purity is less than yours.
+Give some guidance
+Practice martial arts with opponents less skilled than oneself。
 
-Soldier Shall Resist
-Receive moves from an opponent who's Purity is less than yours.
+Generals will block when soldiers come
+Engage with opponents who are less pure than yourself。
 
-Masterful Butchering
-Have a Vicious Fight with an opponent who's Purity is less than yours.
+Make it look easy
+Engaging in a fierce battle with opponents inferior to oneself。
 
-More Scared than Hurt
-Have a Death Match with an opponent who's Purity is less than yours.
+Unforeseen dangers avoided
+Engage in a life-and-death struggle with an opponent purer than oneself。
 
-Combat Circulation
-Having gained insight during actual combat, the Internal Energy and True Qi acquired while Cultivating Inner Arts have increased.
+Practical combat week
+In actual combat, there is a realization, and the internal power and true energy of the operating internal skills have increased。
 

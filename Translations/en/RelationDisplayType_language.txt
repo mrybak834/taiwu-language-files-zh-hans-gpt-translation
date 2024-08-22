@@ -1,10 +1,10 @@
 Parents
-Sworn Siblings
-Spouse
+Brotherhood
+Husband and wife
 Children
-Faction
+faction
 Enemy
 Friend
-Adore
-Master
-Siblings
+Adoration
+Apprenticeship
+Brothers and sisters

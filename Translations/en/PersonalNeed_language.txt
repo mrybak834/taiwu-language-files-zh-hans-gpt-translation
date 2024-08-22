@@ -1,26 +1,26 @@
-Restore Mood
-Restoring Health
-Stablising Inner Breath
-Restore Qi
-Heal
-Detox
-Restore Properties
-Kill the parasites
-Get Resources
-Spending Resources
-Items required
-Repair items
-Quenching items
-Spending items
-Learn Martial Art
-Learning Life Skills
-Need to experience
-Please teach and study
-Ask for a breakthrough
-Showing Affection
+Restore mood
+Restore health
+Regulate internal energy
+Restore internal energy
+Treating injuries
+Eliminate toxins
+Restore attributes\\n
+Exterminate the Gu insects
+Acquire resources\n
+Spend resources
+Props are needed
+Repair Tools
+Toxic Tool
+Item cost
+Studying martial arts
+Learning skills
+Needs experience
+Please study and discuss
+Please teach me how to break through
+Caregiver
 Form a team
-Seeking revenge
-Paying respects to the deceased
-Spend the night together
-Find the treasure
-Formation of relations
+Seek revenge
+Honoring the deceased
+Spending the spring night together
+Searching for treasure
+Form a relationship

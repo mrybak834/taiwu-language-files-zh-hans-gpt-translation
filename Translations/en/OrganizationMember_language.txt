@@ -3,7 +3,7 @@ None
 
 
 
-Heartless
+Lost Mind
 
 
 
@@ -40,22 +40,22 @@ Heartless
 
 
 
-Heir·Taiwu
+Descendants of Tai Wu
 
 
 
 
-V·Head
+village chief
 
 
 
 
-Tomb Guard
+Guarding the tomb
 
 
 
 
-Academic
+Literati
 
 
 
@@ -75,7 +75,7 @@ Craftsman
 
 
 
-Farmer
+Farmers
 
 
 
@@ -85,383 +85,383 @@ Villager
 
 
 
-Inferno
+Against the world
 
 
 
 
-DemonLord
+Devil
 
 
 
 
-D·General
+Evil deed
 
 
 
 
-Enormity
+Frenzied Kill
 
 
 
 
-Sinfulness
+Extreme evil
 
 
 
 
-Villain
+fierce and desperate
 
 
 
 
-Evildoer
+treacherous
 
 
 
 
-Dishonor
+malicious
 
 
 
 
-Bully
+Night petty
 
 
 
 
-Recluse
+Reclusive Master
 
 
 
 
-Legendary
+Famous Heroes
 
 
 
 
-Warrior
+Nameless Hero
 
 
 
 
-Sergeant
+Wonders of the Jianghu
 
 
 
 
-Guardian
+Famous Bodyguard
 
 
 
 
-Escort
+bodyguard
 
 
 
 
-Chivalrous
+Young Hero
 
 
 
 
-J·Warrior
+Patrolling warrior
 
 
 
 
-Righteous
+Righteous man
 
 
 
 
-Hell Master
+Dark Prison Nine Elders
 
 
 
 
-God·S
+Divine Judgment Protector
 
 
 
 
-The·C
+Mutual generation of all things
 
 
 
 
-The·FN
+The Nine Sins of the Heart
 
 
 
 
-A·Sinster
+All Evils
 
 
 
 
-EvilUprise
+Demonstration of the Demon Heart
 
 
 
 
-FoulVisage
+Call for attention
 
 
 
 
-Demoniac
+Remove goodness
 
 
 
 
-Corrupted
+Smell the foul sound
 
 
-
-
-Chief·A
-Zen·M
-
-
-Elder·A
 
 
 Abbot
+Zen master
 
 
-18·Arhats
+First Seat
 
 
+Elder
 
 
-Observer
-
-
-
-
-BodhiHall
+Eighteen Arhats
 
 
 
 
-Prajna·H
+Monk who observes the precepts
 
 
 
 
-ArhatHall
+Bodhi Monastery disciples
 
 
 
 
-Bhikkhu
+Bodhi Hall disciples
 
 
 
 
-S·Master
-SeniorNun
+Disciples of the Arhat Hall
+
+
+
+
+Bhikshu
+
+
+
+
+Leader
 Master
-Madame·M
-Sir·M
+Master
+Lady of the Sect Leader
+Master of the Sect
 
 
-Head·D
+Zhangmen disciple
 
 
-Direct·D
+True disciple
 
 
 
 
-Lineal·D
+Eight Gates of Direct Transmission
 
 
 
 
-Formal·N
+Eight Correct Apprentices
 
 
 
 
-Novice
+Miscellaneous disciples
 
 
 
 
-Formal·A
+Dispersed disciples in the inner sect
 
 
 
 
-Audience
+Outsiders scatter
 
 
 
 
-Valley·L
+Valley Master
 
 
-Madame·VL
-Sir·VL
-CaseHolder
+Master's Wife of the Valley
+Master of the Valley
+Palm Box Person
 
 
 
 
-DeerEnvoy
+Deer clothing envoy
 
 
 
 
-GoodHand
+Skillful hands
 
 
 
 
-RedCase·D
+Disciples of Zhu Xia
 
 
 
 
-Jade·CD
+Disciple of the Jade Box
 
 
 
 
-Gold·CD
+Golden Box Disciple
 
 
 
 
-Flower·CD
+Flower Box Disciple
 
 
 
 
-Deerherd
+Deer Herding Boy
 
 
 
 
-Pure·One
-Madame·M
-V·Leader
-Taoism·Priest
-Miss·VL
-Sir·VL
+Real person
+Master's Wife
+Acting Sect Leader
+Daoist Priest
+Acting Sect Master Senior Sister
+Deputy Master Brother
 
 
 
 
 
 
-ZhenWu·D
+Disciples of Zhenwu Hall
 
 
 
 
-Cloud·D
+Disciples of the Purple Cloud Palace
 
 
 
 
-TaiHe·D
+Disciples of the Hall of Supreme Harmony
 
 
 
 
-Guide·P
+Guide Daoist
 
 
 
 
-Amateur
+Outer gate disciples
 
 
 
 
-G·Master
+Grand Master
 
 
-Madame·GM
-Sir·GM
+Great Uncle
+Grand Master
 
 
 
 
-Exorciser
+Subduing the Demons
 
 
 
 
-Preacher
+Transmit the Dharma to the masses
 
 
 
 
-Friar
+Ascetics
 
 
 
 
-Vanguard
+Protective law disciple
 
 
 
 
-Guard
+Stone prison disciple
 
 
 
 
-Novice
+Beginner disciples
 
 
 
 
-Follower
+Ordained Servant
 
 
 
 
-GreatAlpha
+Door Master
 
 
-Madame·A
-Sir·Alpha
-GreatBeta
+Madam of the Door Master
+Master of the Door
+Deputy Sect Master
 
 
-Madame·B
-Sir·Beta
-RageAlpha
+Deputy Sect Leader's Wife
+Vice Gate Master
+Fierce Lion Hall Master
 
 
-Madame·RA
-Sir·RA
-ProudAlpha
+Mad Lioness
+Mr. Wild Lion
+Jin Si Hall Master
 
 
-Madame·PA
-Sir·PA
-Slumber·A
+Lady Jinshi
+Golden Lion Master
+Sleeping Lion Hall Master
 
 
-Madame·SA
-Sir·SA
-RageLion
+Sleeping Lioness
+Sleeping Lion Lord
+Brothers of the Crazy Lion
 
 
 
 
-ProudLion
+Jin Si Tang Disciples
 
 
 
 
-Slumber·L
+Sleeping Lion Disciple
 
 
 
@@ -471,75 +471,75 @@ Cub
 
 
 
-Lord Qinglang
-Zi
-Uncle·M
-Celestial
+Qinglang Master
+child
+Master Uncle
+Immortal Master
 
 
-Guardian
+Qinglang Protector
 
 
-Successor
-
-
-
-
-T·Ranger
+Descendant of the Three Schools
 
 
 
 
-DS·Ranger
+Jade Talismans Sect Wanderer
 
 
 
 
-YY·Ranger
+Rogue of the Divine Sword Sect
 
 
 
 
-SwordBearer
+Yin-Yang Sect Traveler
 
 
 
 
-Wanderer
+Sword Slave
 
 
 
+
+Scattered person
 
 
 
 
 
-G·Mistress
+
+
+
+Master Sister
 
 
 
 
-Feather·E
+Feathered Robe Messenger
 
 
 
 
-SilkEnvoy
+Rainbow Clothes
 
 
 
 
-JadeGuard
+Guardian of the Jade
 
 
 
 
-SkyMelody
+Heavenly Sound Pavilion Disciple
 
 
 
 
-Disciple
+Inner door disciple
 
 
 
@@ -553,83 +553,37 @@ Servant
 
 
 
-Manor·M
+Zhuang Master
 
 
-Madame·M
-Sir·Manor
-M·Smith
-
-
-
-
-Sky·Smith
+Zhuangzhu's wife
+Lord of the Manor
+Master Craftsman
 
 
 
 
-Mystic·S
+Seven Star Craftsman
 
 
 
 
-Treasure·S
+Mysterious Swan Craftsman
 
 
 
 
-Season·S
+Town Mountain Craftsman
 
 
 
 
-Bamboo·S
+Hundred Craftsmen
 
 
 
 
-Novice
-
-
-
-
-Stoker
-
-
-
-
-
-
-HerbKing
-
-
-
-
-
-
-
-
-Dragonor
-
-
-
-
-Head·D
-
-
-
-
-Furnance·H
-
-
-
-
-DragonHall
-
-
-
-
-ProbeHall
+Qingjun Craftsman
 
 
 
@@ -639,117 +593,163 @@ Apprentice
 
 
 
-LawKing
+pyrotechnics
 
 
 
 
-WisdomKing
 
 
+King of Medicine
 
 
-Elder
 
 
 
 
-Gardian
 
 
+Dragon Warrior
 
 
-Fighter
 
 
+Hold the tripod by its handle
 
 
-SilentHall
 
 
+Disciples of the Mystical Furnace Institute
 
 
-VajraHall
 
 
+Disciples of the Jiao King Academy
 
 
-Rakshasa·H
 
 
+Disciple of Zhu Qian
 
 
-Labor
 
 
+Pharmaceutical apprentice
 
 
-Hierarch
 
 
+Dharma King
 
 
-Saint
 
 
+Bright King
 
 
-Counsellor
 
 
+Respectfully
 
 
-Patriach
 
 
+Guardian Deity
 
 
-Brooder
 
 
+Vajrapāni
 
 
-VenomEnvoy
 
 
+Disciples of the Immovable Hall
 
 
-BrooderCrew
 
 
+Disciples of the Diamond Temple
 
 
-VenomCrew
 
 
+Rakshasa Academy disciples
 
 
-Cultist
 
 
+Pure Fire Child
 
 
-DarkLord
 
 
-Minor·L
-Major·L
-Shadowless
+Master
 
 
 
 
-SevenStar
+Saintess
 
 
 
 
-ArchCulprit
+Witch Doctor
 
 
 
 
-DeathSworn
+Patriarch
+
+
+
+
+Fairy Daughter Messenger
+
+
+
+
+Five poisons
+
+
+
+
+Flower Gu Sect
+
+
+
+
+Wudubu People
+
+
+
+
+Followers
+
+
+
+
+Dark Lord
+
+
+Minor God of Fate
+Great Divine Command
+Shadowless Person
+
+
+
+
+Seven Star Ghost
+
+
+
+
+Leader
+
+
+
+
+Death warrior
 
 
 
@@ -759,7 +759,7 @@ Killer
 
 
 
-Gatekeeper
+Disciple
 
 
 
@@ -769,79 +769,79 @@ Guide
 
 
 
-OuterGate
+Outer door crowd
 
 
 
 
-IslandLord
+Island owner
 
 
-Madame·A
-Sir·Altar
-ViceLord
+Island Owner's Wife
+Master of the Platform
+Deputy Forum Moderator
 
 
-Madame·VA
-Sir·VA
-DragonElder
-
-
-
-
-Flowing Fire Emissary
+Vice Forum Master's Wife
+Deputy Chairperson
+Head Elder
 
 
 
 
-Seawatcher
+Flowing Fire
 
 
 
 
-Titled·D
+Sea Patrol
 
 
 
 
-
-
-
-
-Outer·D
-
-
-
-
-Islander
+Bestowed surname disciple
 
 
 
 
 
 
-Madame·H
-Sir·H
-V·Hierarch
 
 
-Madame·VH
-Sir·VH
+Outside surname disciples
 
 
 
 
-Messenger
+Island crowd
 
 
 
 
-Protector
+
+
+Lady of the Sect Leader
+Teacher's husband
+Deputy Leader
+
+
+Madam Vice Leader
+Deputy sect leader husband
 
 
 
 
-BloodChild
+Blood Wolf Messenger
+
+
+
+
+Guardian of the Law
+
+
+
+
+Blood Boy
 
 
 
@@ -860,20 +860,17 @@ Servant
 
 
 
-Mayor
+City Lord
 
 
-Madame·M
-Sir·Mayor
-Official
-
-
-
-
-Rich
+Lady of the City Lord
+Lord of the City
+Nobility and powerful officials
 
 
 
+
+wealthy
 
 
 
@@ -887,12 +884,15 @@ Rich
 
 
 
-Artisan
+
+
+
+Craftsman
 
 
 
 
-Poor
+Lower Nine Schools
 
 
 
@@ -904,8 +904,8 @@ Beggar
 
 
 
-Madame·E
-Sir·Elder
+Village chief's wife
+Village head sir
 
 
 
@@ -938,11 +938,11 @@ Sir·Elder
 
 
 
-TownChief
+Mayor
 
 
-Madame·TC
-Sir·TC
+Mayor's wife
+Town Mayor
 
 
 
@@ -975,16 +975,16 @@ Sir·TC
 
 
 
-Castellan
+Big Boss
 
 
-Madame
-Sir
-Vice·C
+Grandma
+Lord
+Second-in-command
 
 
-Madame·VC
-Sir·VC
+Second Grandma
+Second Lord
 
 
 

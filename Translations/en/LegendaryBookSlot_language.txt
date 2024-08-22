@@ -1,17 +1,17 @@
 
 
-Expert
-<color=#brightblue>The power limit of techniques placed in here are increased by 50%,</color> <color=#brightred>but the use requirements are increased by 25%.</color>
-Extreme
-<color=#pinkyellow>When a skill is placed in here, depending on the difference between your main element and your mutual and restraining elements, the power of other skills may</color> <color=#brightblue>Increase</color> <color=#pinkyellow>or</color> <color=#brightred>Decrease</color>
-Expand
-<color=#brightred>When you place Break, Quick, Aegis, or Nadis skills in here, reduce their category skill slots by 1,</color> <color=#brightblue>but gain 3 universal skill slots.</color>
-Shrink
-<color=#brightred>When you place Break, Quick, Aegis, or Nadis skills in here, increase their category skill slots by 1,</color> <color=#brightblue>but lose 3 universal skill slots.</color>
-Snipe
-<color=#brightblue>The power of skills placed in here changes at the start of the battle: For user power increases by 40%; For opponent power decreases by 40%.</color>
-Store
-<color=#brightblue>The technique placed in here only takes up 1 slot,</color> <color=#brightred>but its requirements are increased by 50%.</color>
+Special Solution\n
+<The maximum effectiveness of the placed skill increases by 50%, but the usage requirement of the skill increases by 25>
+Use extreme
+<When activating the method placed within, depending on the similarities, mutual generation, and mutual overcoming of the five elements, it will <color=#brightblue>increase</color> or <color=#brightred>decrease</color> the power of other methods>
+Great Prosperity
+<The slots for the methods placed there for destruction, agility, protection, and special tricks each decrease by 1, but the universal slot increases by 3>
+Great Achievement
+<The slots for the destruction, agility, protection, and special skills of the placed techniques each increase by 1, but the universal slots decrease by 3>
+Ultimate intention
+<The power of the method placed within will change at the start of the battle: the user's power of that method increases by 40%; the enemy's power of that method decreases by 40>
+collection
+<The martial arts placed inside only occupy 1 slot in the martial arts bar, but the usage requirement of the martial arts increases by 50>
 
 
 
@@ -20,12 +20,12 @@ Store
 
 
 
-Prepare
-<color=#brightblue>Skill placed in here will automatically be used at the start of a battle without consumption.</color>
-Swift
-<color=#brightblue>Footworks placed in here runs out 50% slower when you're moving,</color> <color=#brightred>but 100% faster when you're standing still</color>
-Slow
-<color=#brightblue>Footworks placed in here run out 50% slower when you're standing still,</color> <color=#brightred>but 100% faster when you're moving</color>
+Wind body
+<When the techniques placed within are activated, they will automatically take effect at the beginning of the battle without consumption or the need for preparation>
+Clouds surging
+<The movement consumption of the martial arts placed within is reduced by 50% when moving, but the consumption when stationary is increased by 100>
+Still water
+<The consumption of agility value for the placed technique is reduced by 50% when stationary, but increased by 100% when moving>
 
 
 
@@ -34,24 +34,24 @@ Slow
 
 
 
-Origin
-<color=#brightblue>When a Nadis skill is placed here, it's power increases by 2 times.</color>
-Flash
-<color=#brightblue>The power of the Aegis skill placed in it is increased by 100%,</color><color=#brightred>but the duration is reduced by 50%.</color>
-Protection
-<color=#brightblue>The duration of the Aegis skill placed in it is increased by 100%,</color><color=#brightred>but the power is reduced by 50%.</color>
+Source and flow
+<When using the mysterious technique placed within, the power of the technique increases by 2 times>
+instant
+<The power of the protective technique placed within increases by 100%, but the duration is decreased by 50>
+Comprehensive
+<The duration of the protective technique placed within is increased by 100%, but its power is reduced by 50>
 
 
 
 
 
 
-Shake
-<color=#brightblue>When a weapon placed in here breaks enemy's Deflect, they will immediately drop their weapon if they can, and switch to Bare Hands.</color>
-Burst
-<color=#brightblue>The damage of actively cast Fist skills placed in here will be increased the closer you are to the enemy,</color> <color=#brightred>however those skills will be blocked until the end of a battle after 1 use</color>
-Counter
-<color=#brightblue>If you attack the enemy with a Fist skill placed in here while they're casting their own Fist skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Defeat the enemy
+<Any weapon placed within will cause the enemy to drop their guard; if the character can throw down the weapon, the enemy will immediately drop their weapon and switch to bare hands>
+Near kill
+<The closer the user is to the enemy, the higher the damage of the fist and palm technique used by the user. However, this fist and palm technique will inevitably be 'sealed' after its use, lasting until the battle ends>
+Breakthrough
+<In the process of the enemy performing their fist techniques, if the user actively uses the fist techniques placed within to attack the enemy with full power, it can interrupt the enemy's technique performance; however, the time required to perform this technique is increased by 50>
 
 
 
@@ -60,11 +60,11 @@ Counter
 
 
 
-Chase
-<color=#brightblue>Weapon placed in here will block 1 enemy technique for an extremely short period of time after your weapon attack chases them 5 times.</color>
-Poke
-<color=#brightblue>The damage of actively cast Finger skills placed in here will be increased the more blocked acupoints enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Finger skill placed in here while they're casting their own Finger skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Blocked acupoint
+<color=#brightblue>The weapons placed therein will chase the enemy 5 times in a round of weapon attacks, and there is a certain probability of briefly sealing one random skill of the enemy.</color>\\n>
+Dead point
+<The more acupoints on the enemy's body are sealed, the higher the damage of the finger technique when the user actively deploys the finger technique placed within; however, this finger technique will inevitably be 'forbidden' after its execution, lasting until the end of the battle>
+<During the enemy's execution of their finger technique, if the user actively uses the placed finger technique to attack the enemy and exerts full power, it can interrupt the enemy's cultivation of their technique; however, the time required to execute this technique is increased by 50>
 
 
 
@@ -73,11 +73,11 @@ Poke
 
 
 
-Foot
-<color=#brightblue>Weapon placed in here will replace the Legwear for calculations when using Kick skills.</color>
-Burst
-<color=#brightblue>The damage of actively cast Kick skills placed in here will be increased the less Stamina enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Kick skill placed in here while they're casting their own Kick skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Troop foot
+<The weapons placed within will replace the effect of leg armor on the execution of leg techniques when in use>
+Ambush
+<The lower the enemy's mobility, the higher the damage of the leg technique when the user actively performs it. However, this leg technique will inevitably be 'sealed' after it is executed, lasting until the end of the battle>
+<In the process of the enemy executing their leg techniques, if the user actively uses the leg technique placed among them to attack the enemy and exerts full power, it can interrupt the enemy's technique execution; however, the time required to perform this technique increases by 50>
 
 
 
@@ -86,11 +86,11 @@ Burst
 
 
 
-Pierce
-<color=#brightblue>Weapon placed in here will ignore enemy equipment when attacking.</color>
-Burst
-<color=#brightblue>The damage of actively cast Hidden Weapon skills placed in here will be increased the farther user are from the enemy,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Hidden Weapon skill placed in here while they're casting their own Hidden Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Assassination
+<The weapons placed within will ignore the enemy's armor when attacking>
+Long-range kill
+<The further the user is from the enemy, the higher the damage of the concealed weapon technique when the user actively deploys it. However, this concealed weapon technique will inevitably be 'sealed' after the deployment, lasting until the end of the battle>
+<In the process of the enemy using hidden weapon techniques, if the user actively uses the hidden weapon techniques placed within to attack the enemy with full force, it can interrupt the enemy's technique; however, the time required to perform this technique is increased by 50>
 
 
 
@@ -99,11 +99,11 @@ Burst
 
 
 
-Refund
-<color=#brightblue>Weapon placed in here has a 50% chance of refunding used attack tokens when attacking an enemy with no Deflect.</color>
-Burst
-<color=#brightblue>The damage of actively cast Sword skills placed in here will be increased the less Styles enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Sword skill placed in here while they're casting their own Sword skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Transforming gaps
+<When the weapons placed within hit an unresisting enemy, there is a 50% chance to restore the consumed attack opportunity>
+Style kill
+<The fewer the charges available for the enemy, the higher the damage of the sword technique when the user actively uses it. However, this sword technique will inevitably be 'sealed' after its execution and will last until the end of the battle>
+<During the process of the enemy performing their sword technique, if the user actively uses the sword technique placed within to attack the enemy, and exerts full power, it can interrupt the enemy's technique; however, the time required to perform this technique increases by 50>
 
 
 
@@ -112,11 +112,11 @@ Burst
 
 
 
-Stall
-<color=#brightblue>Weapon placed in here increases the Deflect cooldown of the enemy by 3 times.</color>
-Burst
-<color=#brightblue>The damage of actively cast Blade skills placed in here will be increased the more Weak Points enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Blade skill placed in here while they're casting their own Blade skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Crack
+<The weapons placed within increase the enemy's defense interval time caused by attacks by 3 times>
+Break the kill
+<The more flaws the enemy has, the higher the damage of the sword technique when the user actively deploys it; however, this sword technique will inevitably be 'sealed' after the execution, lasting until the end of the battle>
+<During the enemy's execution of their sword techniques, if the user actively launches the embedded sword techniques to attack the enemy and unleashes their full power, it can interrupt the enemy's cultivation; however, the time required to execute this technique increases by 50>
 
 
 
@@ -125,11 +125,11 @@ Burst
 
 
 
-Defense
-<color=#brightblue>Weapon placed in here will have 30% more Deflect charges</color>
-Burst
-<color=#brightblue>The damage of actively cast Polearm skills placed in here will be increased the more Damage Markers enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Polearm skill placed in here while they're casting their own Polearm skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Break through the formation
+<The damage value that weapons placed within can withstand is increased by an additional 30>
+Deadly Duel
+<The more defeat markers the user has, the higher the damage of the long weapon technique when the user actively casts it. However, this long weapon technique will inevitably be 'sealed' after the casting ends, lasting until the end of the battle>
+<During the process of the enemy executing long weapon techniques, if the user actively uses the long weapon technique placed within to attack the enemy and unleashes its full power, it can interrupt the enemy's technique execution; however, the time required to perform this technique is increased by 50>
 
 
 
@@ -138,11 +138,11 @@ Burst
 
 
 
-Tricky
-<color=#brightblue>Weapon placed in here consumes 2 times more Deflect charges when attacking the enemy.</color>
-Burst
-<color=#brightblue>The damage of actively cast Exotic Weapon skills placed in here will be increased the less Stance enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Exotic Weapon skill placed in here while they're casting their own Exotic Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Trick Attack
+<The weapons placed inside double the consumption of the enemy's blocking ability>
+奇势
+<The lower the stance of the enemy, the higher the damage of the strange gate technique when the user actively casts it. However, this strange gate technique will inevitably be 'sealed' after its use, lasting until the end of the battle>
+<color=#brightblue>During the enemy's use of the Qimen technique, if the user actively employs the Qimen technique placed within to attack the enemy, and exerts full power, it can interrupt the enemy's technique; </color><color=#brightred>however, the time required to perform this technique increases by 50%.</color>\\n>
 
 
 
@@ -151,11 +151,11 @@ Burst
 
 
 
-Range
-<color=#brightblue>Weapon placed in here has 1 more range</color>
-Burst
-<color=#brightblue>The damage of actively cast Soft Weapon skills placed in here will be increased the less Inhale enemy has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Soft Weapon skill placed in here while they're casting their own Soft Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Extended life
+<The attack range of the weapons placed within is increased by 1>
+Intercepting air
+<The lower the enemy's morale, the higher the damage of the soft weapon techniques when the user actively engages them. However, this soft weapon technique will inevitably be 'sealed' after it is used, lasting until the end of the battle>
+<In the process of the enemy using soft soldier techniques, if the user actively uses the soft soldier techniques placed within to attack the enemy, and exerts full power, it can interrupt the enemy's technique; however, the time required to use this technique increases by 50>
 
 
 
@@ -164,11 +164,11 @@ Burst
 
 
 
-Switch
-<color=#brightblue>Weapon placed in here increases the chance of chasing by 2 times after you Style Change.</color>
-Burst
-<color=#brightblue>The damage of actively cast Ranged Weapon skills placed in here will be increased the more Style Change charges user has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Ranged Weapon skill placed in here while they're casting their own Ranged Weapon skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Strange changes
+<The weapons placed within will double the chance of striking enemies while changing attacks>
+Change Robbery
+<The more times the user changes their moves, the higher the damage of the technique when the user actively performs the placed archery technique. However, this archery technique will inevitably be 'sealed' after its execution, lasting until the end of the battle>
+<color=#brightblue>During the enemy's use of the Archery technique, if the user actively uses the Archery technique placed within to attack the enemy and exerts full power, it can interrupt the enemy's technique; </color><color=#brightred>however, the time required to perform this technique increases by 50%.</color>\n>
 
 
 
@@ -177,11 +177,11 @@ Burst
 
 
 
-Drain
-<color=#brightblue>Weapon placed in here removes 1 point of True Qi from the enemy on attacks.</color>
-Burst
-<color=#brightblue>The damage of actively cast Melody skills placed in here will be increased the more Sound styles user has,</color> <color=#brightred>but those skills will be blocked until the end of a battle after 1 use</color>
-<color=#brightblue>If you attack the enemy with a Melody skill placed in here while they're casting their own Melody skill, their skill will be interrupted,</color> <color=#brightred>but the cast time of these skills is increased by 50%</color>
+Disordered Mind
+<The weapons placed within will inflict 1 point of true energy damage of a random type to the enemy each time they hit>
+Howling Voice
+<The more sound styles the user employs, the higher the damage of the magic sound technique when the user actively uses it. However, this magic sound technique will inevitably be 'sealed' after its use, lasting until the end of the battle>
+<During the enemy's use of magic sound, if the user actively uses the magic sound placed within to attack the enemy, and exerts full power, it can interrupt the enemy's technique; however, the time required to use this technique will increase by 50>
 
 
 

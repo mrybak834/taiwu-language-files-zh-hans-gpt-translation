@@ -1,38 +1,40 @@
-Don't worry about me, choose whatever you're comfortable with
-Sorry, sorry...
-If you're so knowledgeable, why are you sweating so much?
+Your Excellency, please choose what you prefer, and I shall act accordingly
+What a pity, what a pity……
+If one is knowledgeable and well-versed, why go to such great lengths？
 Please make yourself comfortable
-So be it, no regretting
-Please advise me
-What does {0} mean? How do you explain it?
-Do you actually understand {0}?
-This is the easiest part of {0}, so let me explain it to you.
-{0} is so profound, I really don't understand it...
-...
-Your fine art skills are excellent, I admit defeat
-Your Excellency is...
-As expected, I'm the best!
-In that case, have you heard of this matter?
-You really know what you are talking about
-Your Excellency is so highly talented. it would be such a shame if something happened to you
-What about this matter? Don't be so cautious, just speak freely
-How can a man lose his dignity for small gains when he walks in the world?
-How can i accept this? I'm not a greedy person
-(They concentrate on art and don't respond)
-You wanna win so badly? Heh, I won't let you
-You want to buy me with this little thing?
-You shouldn't worry about me, I have never been wronged in my travels for many years
-I'm sorry for your trouble, but now we need to concentrate on the art
-What do you mean by that? I am very confused
-You're threatening me with this? Ridiculous
-You should watch your back. would be a shame if you got disemboweled
-With your skill, how were you expecting to compete?
-You're such a well-known person, i wouldn't dare to win against you
-I see that your skills have never been better.
-You are too good, i admit defeat
-Years of hard work are not in vain
-Do you remember what happened before?
-You are really extraordinary. I wonder if these things can make it easier for you?
-I advise you to admit defeat as soon as possible, to avoid future complications and disasters...
-...
-（Opponent is thinking...）
+That would be good, do not regret it
+Please advise
+{0} Do you know the deeper meaning? What is your explanation?\\n？
+{0} is so profound, do you really understand it?
+{0} couldn't be easier; let me explain it to you。
+{0} is so profound, I truly don't understand。
+......
+n......
+Your skills are outstanding; I admit defeat
+Your Excellency, this is……
+As expected, my skills are still superior
+In this way, have you heard about this matter……
+Your Excellency truly understands reason
+With your exceptional talent, you should be careful when navigating the world
+What should be done about this matter? Your Excellency, just focus on honing your skills, there is no need for implications
+One walks between heaven and earth; how can one lose dignity for such small gains
+No, I am not a greedy person
+（Focusing on the skill competition, there is no reaction）
+I will not let you win just because you want to
+Do you think this little thing can buy me off？
+Do not trouble yourself, I have roamed the world for many years without ever making a mistake
+Sorry to trouble you, but for now, it is best to focus on honing skills
+What do you mean by that, Your Excellency? I am quite confused
+This kind of deterrence is indeed laughable
+You need to be cautious as you walk the rivers and lakes
+Can your skills also be displayed in battle？
+Your reputation precedes you; I am truly not your equal
+I observe your skills, and they are unparalleled
+Your skills amaze everyone; I admit defeat
+Years of hard work have not been in vain
+Do you remember what happened before？
+Your Excellency is truly extraordinary. I wonder if these items can make things more convenient for you？
+I advise you to assess the situation carefully to avoid unforeseen complications and disasters in the future
+…
+…
+（The other party is thinking...）

@@ -1,18 +1,18 @@
-Acritoxin
-Acri
-<color=#hotpoison>Acritoxin, a fierce and bewildering poison.</color>\nIt activates when 6 weapon attacks are performed in battle, consumes a part of itself to change into <color=#redpoison>Pyrotoxin</color>, and causes <color=#outterinjury>External Injuries</color> according to the amount of existing poison. The more Acritoxin the enemy has, the less of it will be consumed when changing into Pyrotoxin.
-Umbritoxin
-Umbri
-<color=#gloomypoison>Umbritoxin, a gloomy and depressive poison.</color>\nIt activates when you move 3 distance in battle, consumes a part of itself to change into <color=#coldpoison>Cryotoxin</color>, and causes <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison. The more Umbritoxin the enemy has, the less of it will be consumed when changing into Cryotoxin.
-Cryotoxin
-Cryo
-<color=#coldpoison>Cryotoxin, an icy poison that seals heart and veins.</color>\nIt activates when a total of 100% of victims Inhale is consumed in battle, consumes a part of itself to change into <color=#illusorypoison>Oneirotoxin</color>, and worsens existing <color=#innerinjury>Internal Injuries</color> according to the amount of existing poison. The more Cryotoxin the enemy has, the less of it will be consumed when changing into Oneirotoxin.
-Pyrotoxin
-Pyro
-<color=#redpoison>Pyrotoxin, a tormenting poison that burns seven orifices.</color>\nIt activates when a total of 100% of victims Stance is consumed in battle, consumes a part of itself to change into  <color=#rottenpoison>Necrotoxin</color>, and worsens existing <color=#outterinjury>External Injuries</color> according to the amount of existing poison. The more Pyrotoxin the enemy has, the less of it will be consumed when changing into Necrotoxin.
-Necrotoxin
-Necro
-<color=#rottenpoison>Necrotoxin, an eroding and corrosive poison that enters spine and melts muscles.</color>\nIt continuously consumes a part of itself to change into <color=#hotpoison>Acritoxin</color> during the battle, and reduces the External Defense according to the amount of existing poison. The more Necrotoxin the enemy has, the less of it will be consumed when changing into Acritoxin.
-Oneirotoxin
-Oneiro
-<color=#illusorypoison>Oneirotoxin, a bewildering poison that makes people hallucinate.</color>\nIt continuously consumes a part of itself to change into <color=#gloomypoison>Umbritoxin</color> during the battle, and reduces Internal Defense according to the amount of existing poison. The more Oneirotoxin the enemy has, the less of it will be consumed when changing into Umbritoxin.
+Fierce Poison
+Fierce
+<color=#hotpoison>Severe poison, the most potent toxin, causes madness and confusion.</color>\\nIt triggers after a certain number of weapon attacks in battle, deriving a portion of severe poison into <color=#redpoison>red poison</color> based on the amount of toxin consumed; the deeper the level of poisoning, the less toxin is derived and consumed; it causes <color=#outterinjury>external damage</color> based on the amount of toxin>。
+Depressive poison
+depressed
+<Gloomy poison, lingering darkness, rising in the morning and extending throughout the evening.\\nIt triggers when moving a certain distance in battle, deriving a portion of the gloomy poison into cold poison based on the amount of toxin consumed; the deeper the poisoning, the less toxin derived and consumed; it causes internal injury based on the amount of toxin>。
+Cold poison
+Cold
+<Cold poison, ice enters the veins, sealing the heart and blocking the blood. In battle, it occurs when a certain amount of energy is consumed; based on the amount of toxin, a portion of cold poison derives into illusion poison. The deeper the level of poisoning, the less toxin is derived and consumed; based on the toxin amount, a portion of inner injury worsens。
+Crimson Poison
+Red
+<Red Poison, repeatedly tormenting, all seven orifices are damaged. It occurs when consuming a certain amount of posture during battle, deriving a portion of Red Poison into Rotten Poison based on the amount of toxin consumed; the deeper the poisoning, the less toxin is derived during consumption; and it causes a portion of External Injury to worsen based on the amount of toxin。
+Corruption
+Rot
+<color=#rottenpoison>Corruption, penetrating deep into the spinal cord, consuming muscles and corroding the body.</color>\\nIn battle, the corruption continuously transforms into <color=#hotpoison>fierce poison</color>; the deeper the poisoning, the less poison is consumed from the transformation; the amount of toxin reduces the body's resistance accordingly.\\n。
+Phantom Poison
+Illusion
+<color=#illusorypoison>Illusory poison, intoxicated by life and dreaming of death, unaware and unfeeling.</color>\\nIn battle, the continuous consumption of illusory poison manifests as <color=#gloomypoison>gloomy poison</color>, the deeper the poisoning, the less toxin is derived from the consumption; reduces Qi resistance based on the amount of toxin。

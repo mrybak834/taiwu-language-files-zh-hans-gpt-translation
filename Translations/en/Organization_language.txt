@@ -1,155 +1,155 @@
-None
-Belongs to no sect or clan.
+No sect, no school
+Without door or sect, self-reliant and at ease。
 
 
-Shaolin
-Shaolin Sect is the leading sect in the decent Wulin. Bodhidharma, the founder of Bodhidharma, entered the martial arts with Zen and created "seventy-two unique skills" in Shaolin Temple for nine years.
-The Way of Zen and Martial Arts
-Martial arts of Shaolin encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, and <SpName=mousetip_gongfa_9>Polearm (Staff) techniques. Renowned for their combination of Zen and martial skills, practitioners focus on cultivating both internal and external strength, achieving a harmonious balance of offense and defense. The techniques involve various agile and versatile movements, all centered around a pure and focused mind.
-Emei Sect
-“All martial arts in the world were born at Emei”. Emei is one of the three most time-honored martial art schools,  just as its following name - “the world show.” Emei martial arts are combinations of softness and toughness,  intertwined with the spirits of Tao and Zen. Emeizing！
-The Hidden White Ape
-Martial arts of Emei Sect encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_7>Sword, and <SpName=mousetip_gongfa_10>Exotic Weapon (Daggers) techniques. They are swift and agile, possessing both flexibility and strength. Drawing from the strengths of various schools, their style incorporates elements from a myriad of sources, embodying a grand and inclusive spirit.
-Hundred Flowers Valley
-Hundred Flowers Valley is famous for its medical skills, and their acupuncture technique of with the Royal Needle is incomparable. The disciples of the Valley have been admired by the world for their benevolence and righteousness in helping the world.
-Black Owl and White Deer
-Martial arts of Hundred Flowers Valley encompass <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_12>Ranged Weapon (Needle Box), and <SpName=mousetip_gongfa_13>Melody techniques. Originating from the acupuncture techniques of the medical profession, these skills are adept at stimulating meridians, revitalizing energy flow, and bringing life back to withered limbs. Life and death are not predetermined; rather, they lie within the skillful hands and knowledge of the practitioner.
-Wudang Sect
-Together with Shaolin and Emei,  it is one of the three most famous martial art schools. The Wudang martial arts are profound,  with the training of Inner Arts as the most important course. Zhang Sanfeng,  the founder of Wudang,  gained a wild reputation because of his advanced Taiji techniques.
-Turtle and Snake Coiling
-Martial arts of Wudang Sect encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_7>Sword, and <SpName=mousetip_gongfa_11>Soft Weapon (Whisk) techniques. Emphasizing the generation of intent from the mind and the alignment of Qi to manifest strength, these techniques often employ yielding against force and using stillness to control movement, embodying the principles of Taoism and the natural order.
-Yuanshan Sect
-There are many disciples of Yuanshan Sect, who take it as their duty to maintain the justice of the Wulin. There is a Blade Tomb in Yuanshan Mountain, a Sword Tomb in Xiaoyuan Mountain. Yuanshan Mountain and Xiaoyuan Mountain share the same core. They use the magic skill of combining swords and swords to defend the path and eliminate demons, and their chivalrous reputation spreads far and wide.
-Three Devils in Stone Prison
-Martial arts of Yuanshan Sect encompass <SpName=mousetip_gongfa_5>Kick, <SpName=mousetip_gongfa_7>Sword, and <SpName=mousetip_gongfa_8>Blade techniques. They are characterized by their expansive and robust nature, displaying a combination of varied movements while maintaining a sense of righteousness and clarity. The techniques exhibit a balanced approach, demonstrating both assertiveness and restraint, akin to the brilliance of supreme enlightenment.
-Lion-Face Clan
-The Lion-Face martial arts are arrogant and powerful. Although they don’t pay much attention to Inner Arts’s cultivation, they are specialized in strong attack and defense skills described as “gold and stones breaking”,  or invulnerable.
-Both Civil and Valiant
-Martial arts of Lion-Face Clan encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_8>Blade, and <SpName=mousetip_gongfa_9>Polearm (Spear) techniques. They are characterized by their tremendous force and overwhelming power, displaying a robust and domineering style. It resembles the strength to move mountains and carry the cauldron, exhibiting an unstoppable force that no one can withstand.
-Ranshan Sect
-The Ranshan School specializes in learning and preaching while traveling. They gain huge amount of  knowledges around the world,  act like well-informed debaters with clear logic. Thay pay much attention on self-cultivation and daily healty habits,  that they can live long with less possibility of have serious health risks.
+Shaolin Sect
+The Shaolin School is the pinnacle of the righteous martial arts world. Master Bodhidharma entered martial arts through Zen, sitting facing the wall for nine years at the Shaolin Temple, and created the 'Seventy-Two Ultimate Skills,' which are unparalleled in the world。
+Way of Zen Martial Arts
+The martial arts of the Shaolin school consist of boxing, finger techniques, and long weapons (staff techniques), known for their Zen martial arts characteristics. They combine internal and external training, with both offensive and defensive capabilities, and various agile movements are based on a pure heart。
+Emei School
+All martial arts under heaven come from Emei. Emei is one of the three major sects in the martial world. The sect lives up to its name—'The Elegance of the World.' Emei martial arts combine softness and hardness, integrating Tao and Buddhism, cultivating both meditation and wisdom。
+Hidden World White Monkey
+The Emei School of martial arts consists of fist techniques, finger techniques, sword techniques, and peculiar gates (dueling), characterized by swift agility and a balance of softness and hardness. It incorporates the strengths of various schools and draws from diverse phenomena in the world, presenting an imposing grandeur。
+Baihua Valley
+The Hundred Flowers Valley is renowned throughout the world for its medical skills, with the techniques of imperial acupuncture and moxibustion being unimaginably exquisite. Its disciples offer medical services to the world, embodying unparalleled benevolence and righteousness, and are highly admired by the public。
+Xuanxiao White Deer
+The martial arts of Baihua Valley consist of <SpName=mousetip_gongfa_4> finger techniques, <SpName=mousetip_gongfa_12> archery (needle box), and <SpName=mousetip_gongfa_13> musical instruments. Originally a method of acupuncture and moxibustion used by physicians, it excels in unblocking meridians and invigorating blood circulation, allowing withered trees to return to spring. Life and death are not determined by fate, but are in the palm of one's hand。
+Wudang School
+Wudang School is one of the three major sects of martial arts, along with Shaolin and Emei. Wudang's martial arts are profound and extensive, emphasizing the cultivation of internal energy. The founding master, Zhenjun, had deep Taoist teachings, and the reputation of Taiji's divine skills is renowned worldwide, making it the foremost internal martial arts system in the world。
+The tortoise and the snake entwine
+The martial arts of the Wudang Sect consist of boxing and palm techniques, swordplay, and soft weapons (such as the swing staff), emphasizing the concept that intention arises from the heart, energy reaches through force, often using softness to overcome hardness and stillness to control movement, which is the true method of Taoism and the principles of nature。
+Yuan Shan School
+The disciples of the Yuanshan Sect are numerous, taking it upon themselves to uphold the righteous path of the martial arts world. The Daguanshan focuses on Taoism with a Sword Tomb, while the Xiaoguanshan practices Buddhism with a Blade Tomb. The Great and Small Yuanshan are interconnected, employing the divine skill of combining blade and sword to eliminate evil and protect the way, gaining a far-reaching reputation as heroes。
+Stone Prison Three Demons
+The Yanshan School of Martial Arts consists of leg techniques, sword techniques, and knife techniques, characterized by boldness and strength, simple yet robust. Although there are numerous variations, it ultimately embodies integrity and righteousness, with a regulated approach to offense and defense, as if radiating unparalleled brilliance。
+Shixiang Gate
+The martial arts of the Lion Xiang Gate are incredibly powerful and domineering. Although they do not place much emphasis on internal skill cultivation, their mastery of external strength techniques is unparalleled in the world, able to break gold and cut stone, and impervious to blades and guns, making it a pinnacle of external martial arts。
+Equally skilled in both literature and martial arts
+The Lion's Gate martial arts consists of <SpName=mousetip_gongfa_3> fist and palm techniques, <SpName=mousetip_gongfa_8> knife techniques, and <SpName=mousetip_gongfa_9> long weapons (spear techniques). It is powerful and forceful, strong and domineering, akin to lifting mountains and carrying a cauldron, advancing relentlessly, possessing an unbeatable might。
+Ran Mountain Sect
+The Ranshan School specializes in the theory of travel study and transcending the world. Travel study: extensive recording and abundant knowledge, clarity of reasoning and shrewd judgment, eloquent expression that none can contest. Transcending the world: cultivating reality and nurturing nature, diet and guidance, curing diseases and prolonging life, soaring to new heights can be awaited。
 Qinglang Immortal Pavilion
-Martial arts of Ranshan Sect encompass <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_7>Sword, and <SpName=mousetip_gongfa_10>Exotic Weapon (Talismans) techniques. Mostly derived from Taoist secret arts, they are mysterious and unfathomable, capable of summoning winds and thunder, controlling gods and spirits. Ordinary people find it difficult to comprehend their techniques.
-Xuannyu Sect
-XuanNyu Peak,  or also known as the Jade Maiden Peak,  is where “The Black Ice” is located. It is said that there was a celestial daughter who fell on the peak and left a heavenly art on it. If a woman practices it, she could become elegant, pure, and eventually immortal.
-Mirror and Water Inversion
-Martial arts of Xuannyu Sect encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, and <SpName=mousetip_gongfa_13>Melody techniques. Their movements are light and graceful, with an enchanting demeanor. The practitioners appear like celestial beings descending to the mortal realm, moving with a captivating elegance.
-Sword Manor
-Sword Manor,  founded by grandmaster swordsmith Ouye Zi,  is located on Zhanlu Mountain. It is well known for its smithing technique and majority of world-famous weapons are forged here.
-Copper Sword Examination
-Martial arts of Sword Manor encompass <SpName=mousetip_gongfa_7>Sword, <SpName=mousetip_gongfa_8>Blade, <SpName=mousetip_gongfa_9>Polearm (Staff), and <SpName=mousetip_gongfa_12>Ranged Weapon (Mechanical Bird) techniques. Inherited from the Ancestor Ou, their craftsmanship is renowned throughout the world. When combined with divine weapons, their power becomes unparalleled.
-Kongsang Sect
-The KongSang Sect school is also known as school of the medicine kings. Although the KongSang Sect mountain is a snow-capped mountain,  there are all kinds of exotic grasses among the hills. TheKongSang Sect disciples are specialized in both poison and medicine. Their medicine can bring the dead back to life,  while their poison can kill people without being noticed.
-Strange Poison Remedy
-Martial arts of Kongsang Sect encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_5>Kick, and <SpName=mousetip_gongfa_6>Hidden Weapon (Medicinal Cream) techniques. Rooted in the arts of poisons and toxins, they excel in using strange poisons and secret medicines to enhance their skills, even to the point of undergoing profound transformations, making them capable of almost anything.
+The Ranshan Sect's martial arts consist of the <SpName=mousetip_gongfa_4> finger technique, <SpName=mousetip_gongfa_7> sword technique, and <SpName=mousetip_gongfa_10> strange doors (talismans), mostly comprising secret arts of the Daoist school, mysterious and unbounded, capable of calling the wind and summoning thunder, controlling spirits and subduing ghosts; it is difficult for ordinary people to understand their principles。
+Xuan Nu School
+Xuan Nü Peak, also known as Jade Girl Peak, has玄冰 on its summit. Legend has it that a celestial maiden once descended upon the peak and left behind a remarkable skill known as Mingjue. Any woman who cultivates this skill can attain a refined and ethereal beauty, with a jade-like physique, and ascend to immortality。
+The mirror water is inverted
+The Xuan Nv faction's martial arts consist of <SpName=mousetip_gongfa_3> fist and palm techniques, <SpName=mousetip_gongfa_4> finger techniques, and <SpName=mousetip_gongfa_13> musical instruments. Their movements are light and graceful, exuding elegance, and each action is strikingly beautiful, reminiscent of light clouds emerging from the mountains, seemingly like a fairy descending to the mortal realm。
+Forge Sword Mountain Villa
+The Sword Casting Villa is located on Zhanlu Mountain, and it is said to have been established by the swordsmith ancestor Ou Yezi. The Sword Casting Villa has a long history, and most of the divine weapons and sharp tools in the world originate from this place, which is deeply admired by the people of the martial arts world。
+Copper produced sword testing
+The martial arts of the Sword Forging Villa consists of the Sword Technique, Blade Technique, Long Weapons (Staff Technique), and Archery (Mechanisms), passed down from the method of sword testing by the ancestor Ou, renowned for its craftsmanship throughout the world; when coupled with divine weapons and sharp tools, its power is unparalleled。
+Kong Sang Sect
+The Kong Sang School, also known as the Kong Sang Medicine King School, is located in Kong Sang Mountain. Although it is a snow-covered mountain, it has a unique paradise within. The mountain is filled with all kinds of rare treasures and extraordinary herbs. The disciples of Kong Sang are adept in both medicine and poison; their medicine can bring the dead back to life, and their poison can kill invisibly。
+Extraordinary Poison Formula
+The Kong Sang School of Martial Arts consists of fists, finger techniques, leg techniques, and hidden weapons, originating from the Yellow and White Arts, adept at using strange poisons and secret medicines to enhance strength, capable of transformation and achieving the impossible。
 Vajrayana
-The Immaculate Vajrayana is a secret branch of the ancient Zhang Zhung kingdom. With a large popularity of powerful disciples,  it is still regarded as a hostile school in Wulin world,  for acting fiercely and sinisterly.
-True Scriptures without words
-Martial arts of Vajrayana encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_7>Blade, and <SpName=mousetip_gongfa_10>Exotic Weapon (Pestle) techniques. Based on the principles of the Three Secrets Yoga, they aim for a harmonious integration, advancing like the wrathful eyes of a vajra, standing firm like an immovable wisdom king, and flowing smoothly like a revolving wheel of treasures.
-Five Immortals Cult
-The Five Immortals,  also known as The Five Venoms,  is a school located in Miao territory. Influnced by their extreme creeds,  the believers hold the spirit of “Eye for an Eye”. The school teaches the refining of poison,  raises a lot of horrible toxic creatures,  that Wulin people regardless good of evil,  all run a mile from its believers.
-Five Saints Heart Poison
-Martial arts of Five Immortals Cult encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_7>Sword, and <SpName=mousetip_gongfa_11>Soft Weapon (Whip) techniques. Rooted in the mystical practices of the Miao people, their techniques are elusive and unpredictable. Additionally, they are known for their unique skills in using poisonous insects and creatures, striking fear into the hearts of those who hear about them.
-Jieqing Gate
-The JieQing is commonly known as the place where “people and ghosts are on the same road”. The disciples work secretly,  and are the best at Stunt armors such as the flying needles. They are also described as skilled assassins.
-Good and Evil are Inanimate
-Martial arts of Jieqing Gate encompass <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_6>Hidden Weapon, and <SpName=mousetip_gongfa_7>Sword techniques. Their movements are silent and elusive, striking with swift and deadly precision. The sect emphasizes taking the opponent's life in the blink of an eye, showing no mercy or hesitation.
-Fulong Altar
-The Fulong Altar was built on the Chiming island on the East China Sea. The Fulong Altar school is divided into two sects: the Situ sect is famous for fierce blade skills,  while the Long sect is extremely sophisticated in Fist skills. It is said that there are volcanoes on the island,   that the disciples even practice their martial arts in them.
-Fu Long turns into a Feather
-Martial arts of Fulong Altar encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_6>Hidden Weapon, and <SpName=mousetip_gongfa_8>Blade techniques. Their movements often incorporate the power of alcohol, becoming most intense and robust when in a drunken state. The style exudes a powerful and overwhelming force, akin to overturning rivers and seas or swallowing the sun and moon.
+The Wuliang Vajra Sect is a branch of esoteric Buddhism that originated from the ancient Xiangxiong Kingdom. The disciples of the Vajra Sect are numerous, and their guardian deities possess unparalleled power, but their methods are ruthless and immoral, differing greatly from orthodox Esoteric Buddhism, making them a formidable enemy of the righteous martial arts community。
+True scriptures without words
+The martial arts of the Diamond School consist of <SpName=mousetip_gongfa_3> fist and palm techniques, <SpName=mousetip_gongfa_7> sword techniques, and <SpName=mousetip_gongfa_10> Qimen (short mace), with the efficacy of the Law being three secret yogas, integrated as one, advancing like the fierce gaze of a diamond, steadfast like the immovable king, and operating like a turning treasure wheel。
+Wuxian Sect
+The Miaojiang Five Poisons Sect, self-styled as the Five Immortals Sect, has extremely extreme doctrines, insisting on repaying恩仇. The sect practices poison crafting and raises various strange techniques, all of which are astonishingly horrifying. People in the martial arts world, regardless of good or evil, all avoid and keep their distance from it。
+Five Sacred Heart Poisons
+The martial arts of the Five Immortals Sect consist of fist techniques, finger techniques, sword techniques, and soft weapons (whip techniques), rooted in the mystical practices of the Miao region. Their techniques are enigmatic and unpredictable, and they possess a unique poisonous insect technique that strikes fear into all who hear of it。
+World Youth Gate
+The Boundary Blue Gate is commonly known as the place where humans and ghosts coexist, often harboring wicked individuals from the rivers and lakes. The disciples of this sect conduct their affairs secretly, rarely revealing their whereabouts. The gate's members excel in the art of Qi Men Dunjia and techniques such as flying needles and stone throwing; if murderous intent arises, they will surely cause death without a trace。
+Good and evil have no life
+The martial arts of the Boundary Green Gate consist of finger techniques, hidden weapons, and swordsmanship, moving quietly without a trace, with a swift and sudden start like lightning, launching attacks fiercely and decisively, aiming to take a life in an instant, with no hint of mercy。
+Fulong Platform
+The Fulong Altar is built on Chiming Island in the East China Sea. The Fulong Altar is divided into two schools: the Situ family's sword techniques are unmatched in strength, while the Long family's fist and palm techniques are profound and extraordinary. It is said that there is a volcano on the island, where disciples practice their skills。
+Flying Dragon Transforming into Wings
+The martial arts of the Fulong Altar consist of fist techniques, hidden weapons, and knife techniques. Many of its moves draw strength from alcohol; when inebriated, the power is at its most vigorous and rich, capable of overwhelming rivers and seas, and swallowing the sun and moon。
 Bloodhound Cult
-Since the troubled times of Xiangshu, evil people of the world have gradually gathered together and founded the Blood Cult. The evil kung fu of the sect disturbs human nature, and even Bodhisattva cannot save them. It is natural for decent Wulin people to stand against them.
-The Legacy of the Blood Tomb
-Martial arts of Bloodhound Cult encompass <SpName=mousetip_gongfa_3>Fist, <SpName=mousetip_gongfa_4>Finger, <SpName=mousetip_gongfa_5>Kick, and <SpName=mousetip_gongfa_6>Hidden Weapon (Poison Sand) techniques. All techniques are sinister and malicious, employing extreme methods, including blood sacrifices and delving into demonic practices to achieve undying dark power.
+Since the chaotic times, evil individuals have gradually gathered to establish the Blood Hound Sect. The demonic arts within the sect disrupt human nature, and even Bodhisattvas find it difficult to save them; thus, orthodox martial artists naturally stand opposed to them。
+The Blood Tomb's Miss
+The Bloodhound Sect's martial arts consist of <SpName=mousetip_gongfa_3> fist techniques, <SpName=mousetip_gongfa_4> finger techniques, <SpName=mousetip_gongfa_5> leg techniques, and <SpName=mousetip_gongfa_6> hidden weapons, all of which are sinister, treacherous, and vicious, employing every means possible, even resorting to the blood sacrifice of living beings, entering the path of demons, thereby achieving immortal evil skills。
 Taiwu Village
-Taiwu Village is the core of the region,  the residence of Taiwu and its people.
+Taiwu Village adheres to the way of transcending the world, making it an extremely austere place. In the village, the sounds of chickens and dogs can be heard, doors are not locked at night, and it has a peaceful atmosphere, unlike the human world。
 
 
-Outlaw 
-Treacherous and wicked outlaws.
+Heretics
+Treacherous and wicked villains, evil and unorthodox beings。
 
 
-Chivalrous
-Just and benevolent heroes.
+Chivalry
+Just persons, heroic and benevolent。
 
 
-Demonic Servant
-Born of brimstone, forever trapped in a pit of evil.
+Under the hinge's claws
+Born of dark stone, forever trapped in demonic barriers。
 
 
-Without a soul cannot escape from the demonic path.
+Mind and spirit lost, hard to escape the devil's path。
 
 
-Capital
-The Capital is the economic and political center of the Middle Kingdom,  croweded with the rich and powerful.
+Capital city
+The land of Gyeonggi is extremely affluent, with merchants and officials constantly coming and going from various places; it is the center of wealth and power in the Central Plains。
 
 
-Chengdu
-Chengdu,  known as “the land of abundance“,  has a mild climate fostering brilliant talents. Legend has it that celestial beings are living on the extraordinary Emei Mountain.
+Chengdu\n
+Chengdu has a mild climate, rich resources, and outstanding people, earning it the name 'the Land of Abundance.' Legend has it that the Emei Mountain in Shu is home to immortals, not of this earthly realm。
 
 
 Guizhou
-Guilin is a picturesque place.It is too beautiful to be appreciated all at once. “East or west,  Guilin landscape is the best“,  “The scenary of Guilin is the most adorable of all” are common compliments.
+Guizhou's mountains and waters are picturesque and breathtaking, known for the saying 'The scenery here surpasses that of the Central Plains' and 'Guilin's landscapes are the best under heaven。
 
 
 Xiangyang
-Xiangyang is located in the north of Xiang River.The majesty of the city is easily accesible from all around. Thus it is also of great strategic importance.
+Named 'Xiangyang' because it is located on the 'sunny side of the Xiang River', Xiangyang city has majestic city walls and convenient transportation by water and land, making it a place that has been a battleground for military strategists since ancient times。
 
 
 Taiyuan
-Taiyuan is surrounded by mountains on three sides. It is claimed to be the most important city in the north for its magnificance and prosperity.
+The so-called 'Huahua Zhen Dingfu, Jin Xiu Taiyuan City.' Taiyuan is surrounded by mountains on three sides, extremely magnificent, and is the first major town in the northern Central Plains。
 
 
-Guangzhou
-Guangzhou is an agglomeration of three minor cities. Many foreign merchants gathered in Guangzhou,  followed by various kinds of eccentric and bizarre people.
+Guangzhou\n
+Guangzhou has three cities: 'Yacheng', 'Zicheng', and 'Luocheng', where foreign merchants gather, and many exotic talents and oddities from abroad come and go。
 
 
 Qingzhou
-Qingzhou is one of “the nine ancient states“,  towering the east part of China. Qingzhou gets its name from Yin-Yang tradition,  which argues that “Wood represents the east and Qing or “green” represents the wood.“
+One of the ancient 'Nine Provinces' is an important place in the east. Because 'the east belongs to wood, and the color of wood is blue,' it is called 'Qingzhou”。
 
 
 Jiangling
-Jiangling sits on the pivot of transportation network,  known as “Capital of the First“. The superior education and literacy is nurtureing wisdom and attracting intelligent people.
+Jiangling is the 'ancient capital of emperors' that connects the northwest and southeast of the Central Plains. The land of Jingchu is rich in culture and education, a place where distinguished scholars and elegant talents gather。
 
 
 Fuzhou
-Fuzhou is flourishing because of its prosperous sea trade and large population. Since Banyan trees can be found everywhere,  Fuzhou is also named as “Banyan City“
+Fuzhou has a large population and a highly developed maritime trade, making it very prosperous. It is known as 'the Banyan City' due to the widespread planting of banyan trees”。
 
 
 Liaoyang
-Liaoyang,  the pearl of the north,  is towering a large territory. It is the most famous old capital in the north and reclaimed several times from northern kingdoms for its utmost strategic importance
+Liaoyang has a vast jurisdiction and is an important town in the north. As the most famous ancient capital in the north, it has repeatedly become a central area for various northern states。
 
 
 Qinzhou
-Qinzhou is located on the western border. Its uncivilized nature allows the manipulation of Vajrayana to turn it into the stepstone of the Old Zhangzhung Empire’s rejuvenation.
+Qinzhou is a border area, where the people are uncivilized. Under the control of the Diamond Sect, it has seemingly become a fundamental stronghold for the restoration of the ancient Nam kingdom。
 
 
 Dali
-People in Dali are unsophiscated and committed in Buddhism. Dali is comprised of a great number of clans. These clans have amicable relationships. Together they prosper.
+The national customs of Dali are simple and honest, and they have a deep faith in Buddhism. Although there are many clans and tribes in the country, they are all united and friendly, presenting a scene of prosperity。
 
 
 Shouchun
-Shouchun is the capital of the Huainan area and it is easy to control the surrounding area from there. Both the Chu people and Tofu originates there.
+Huainan takes Shouchun as its capital, and has long been known as the 'throat of the Central Plains.' Shouchun is not only the hometown of the Chu people but also the hometown of 'tofu。
 
 
 Hangzhou
-The most important state in the southeast is said to be Hangzhou,  which has been prosperous since ancient times.
+“The land is beautiful with lakes and mountains, this is the first state in the southeast," refers to Hangzhou. Hangzhou is a bustling city in the region of the three Wu areas, and has been prosperous since ancient times。
 
 
 Yangzhou
-The three cities of Yangzhou is filled by pleasure crafts afloat and songs at night. So good that a poet once declared that two thirds of the night’s beauty belongs here.
+In Yangzhou, there are three cities, with painted boats everywhere and singing and music every night. The saying goes, 'In the world, the bright moonlit night is divided into three parts, and Yangzhou accounts for two parts of the rascals”。
 
 
-Village
-Smoke rises in the village. The simple trimmed dirt path is scattered between the fields and the hedges.
+village
+Thin wisps of smoke rise from the village. Improvised dirt paths are scattered between the fields and low fences。
 
 
 Town
-A town with a large population. Connected to the main path,  it has a station.
+A town with a large population. It is well-connected to the main road, making it very prosperous。
 
 
-Mountain Fort
-A land that has been protected by walls and rivers with self-sufficient residents
+Shanzhai
+A water and land stronghold protected by walls and fortifications. Residents are self-sufficient and often occupy the land as rulers。
 
 

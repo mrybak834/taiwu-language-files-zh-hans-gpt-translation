@@ -1,206 +1,206 @@
-Bamboo Spike
+Green bamboo thorn
 Spike
-Miracle Drug
-Medicinal Cream
-Poison Sand
-Iron Mech. Bird
-Mech. Bird
-Wooden Mech. Bird
+Miraculous medicine
+Medicinal cream
+Poisonous sand
+Metal Mechanism
+Organ
+Wooden mechanism
 Jade Talisman
-Talisman
-Cloth Talisman
+ceremonial talisman
+Textile Order Symbol
 Iron needle case
-Needle
-Wooden Needle Case
-Stone Needle Case
-Gold&Silver Needle Box
+Needle box
+Wooden needle case
+Stone needle case
+Golden and Silver Needle Box
 Rattan needle case
-Jade Needle Case
-Iron Piercers
-Daggers
-Wooden Daggers
-Stone Daggers
-Gold&Silver Daggers
-Rattan Daggers
-Jade Daggers
-Iron concealed weapons
-Hidden·Wp
-W·Dart
-Stone concealed weapon
-Gold and silver concealed weapons
-Rattan Concealed Weapon
-Jade Concealed Weapon
+Jade needle case
+Iron stab
+Against the thorn
+Wooden stake
+Stone-tipped spear
+Gold and silver against the thorn
+Rattan against thorns
+Jade-made daggers
+Iron hidden weapon
+Hidden weapon
+Wooden hidden weapon
+Stone-made hidden weapon
+Golden and silver hidden weapons
+Bamboo-made hidden weapons
+Jade-made concealed weapon
 Iron flute
-Flute
-W·Flute
+Xiao and Dizi
+Wooden flute
 Stone flute
-Gold and silver flute
+Gold and Silver Bamboo Flutes
 Rattan flute
 Jade flute
-Iron palm cover
-Gloves
-Wooden Gloves
-Stone Gloves
-Fur Gloves
-Gold&Silver Gloves
-Rattan Gloves
-Jade Gloves
-Cloth Gloves
-Iron Club
-Club
-Wooden Club
-Stone Club
-Gold&Silver Club
-Rattan Club
-Jade Club
+Iron gauntlet
+Glove sleeve
+Wooden hand cover
+Stone Gauntlet
+Fur palm sleeves
+Golden and Silver Palm Gloves
+Rattan gloves
+Jade handguards
+Knitted glove
+iron short pestle
+Short pestle
+Wooden pestle
+Stone pestle
+Gold and silver short pestle
+Rattan pestle
+Jade short pestle
 Iron Sword
 Sword
-Wooden Sword
-Stone Sword
-Gold&Silver Sword
-Rattan Sword
-Jade Sword
-Iron Blade
-Blade
-Wooden Blade
-Stone Blade
-Gold&Silver Blade
-Rattan Blade
-Jade Blade
-Iron Blade
-Polearm
-Wooden Polearm
-Stone Polearm
-Gold&Silver Polearm
-Rattan Polearm
-Jade Polearm
-Iron Zither
-Zither
-Wooden Zither
-Stone Zither
-Gold&Silver Zither
+Wooden sword
+Stone sword
+Gold and Silver Sword
+Bamboo Sword
+Jade sword
+Iron knife
+Knife
+Wooden knife
+Stone knife
+Gold and Silver Knife
+Rattan knife
+Jade knife
+Iron long weapon
+Long weapon
+Wooden long weapon
+Stone long weapon
+Gold and silver long weapons
+Rattan long weapon
+Jade-made long weapon
+Iron-made Yaoqin
+Yaoqin
+Wooden Yaoqin
+Stone Yaoqin
+Gold and silver, precious qin
 Rattan Zither
-Jade Zither
-Wooden Duster
-Duster
-Fur Duster
-Rattan Duster
-Cloth Duster
-Wooden Duster
-Whip
-Fur Whip
-Rattan Whip
-Cloth Whip
-Iron Trinket
-Trinket
-Wooden Trinket
-Stone Trinket
-Fur Trinket
-Gold&Silver Trinket
-Rattan Trinket
-Jade Trinket
-Cloth Trinket
-Iron crown ornaments
-Headgear
-Wooden Headgear
-Stone Headgear
-Fur Headgear
-Gold&Silver Headgear
-Rattan Headgear
-Jade Headgear
-Cloth Headgear
-Iron Shoes
+Jade-crafted Yaoqin
+Wooden whisk
+whisk
+Fur duster
+Rattan broom
+Weaving a duster
+Wooden whip
+long whip
+Fur long whip
+Rattan whip
+Weaving a long whip
+Iron treasure
+Treasure
+Wooden treasure
+Stone treasures
+Fur Treasure
+Gold and silver treasures
+Rattan treasure
+Jade treasures
+Textile treasures
+Iron crown ornament
+Crown decoration
+Wooden crown ornament
+Stone crown ornament
+fur crown adornment
+Gold and silver crown ornaments
+Woven crown decoration
+Jade crown ornament
+weaving crown decorations
+Iron shoes
 Shoes
-Wooden Shoes
-Stone Shoes
-Fur Shoes
-Gold&Silver Shoes
-Rattan Shoes
-Jade Shoes
-Weaving Shoes
-Iron Armor
+Wooden shoes
+Stone shoes
+Fur shoes
+Gold and silver shoes
+Rattan shoes
+Jade shoes
+Weaving shoes
+Iron armor
 Armor
 Wooden Armor
 Stone Armor
-Fur Armor
-Gold&Silver Armor
+Fur armor
+Gold and Silver Armor
 Rattan armor
-Jade Armor
-Cloth armor
-Iron Armguard
-Armguard
-Wooden Armguard
+Jade armor
+Weaving Armor
+Iron arm guard
+Arm guard
+Wooden arm guard
 Stone Armguard
-Fur Armguard
-Gold&Silver Armguard
-Rattan Armguard
-Jade Armguard
-Cloth Armguard
-Fur Clothing
-Clothes
-Woven Clothing
-Wooden Mount
-Mount
-Rattan Mount
-Pocket
+Fur arm protector
+Gold and silver arm guards
+Rattan arm guard
+Jade arm guard
+Weaving cuffs
+Fur coat
+Costume\n
+Weaving garments
+Wooden mobility
+Transportation
+Bamboo-made mobility
+Pockets
 Rope
-Chicken Egg
+Egg
 Dish
-Coquelet
-Duck
-Goose
-Silkie
-Quail
-Blue Peacock
-Rabbit
-Boar
-Goat
-Rat Snake
-Deer
-Geoduck
-Black Bear
-F·Wheat
-F·Soya bean
-F·Mushroom
-F·Asparagus
-F·Lotus
-F·Ginkgo
-F·Hericium
-F·Grass fish
-F·Shrimp
-F·Carp
-F·Crab
-F·Weever
-F·Abalone
-F·Dragonfish
-Acritoxin Drug
-Medicine
-Umbritoxin Drug
-Cryotoxin Drug
-Pyrotoxin Drug
-Necrotoxin Drug
-Oneirotoxin Drug
-H·Sambucus
-H·Purple grass
-H·Millennium green
-H·Tiger bone
-H·Ginseng
-H·Snake gallbladder
-H·Storesin
-H·Frangipani
-H·Red honey
-H·Snake bone
-H·Lily
-H·Milkvetch Root
-H·Snowy
-H·Pearl core
-H·Pepper
-H·Wild ginger
-H·Ruby fruit
-H·Lead pill
-H·Hibiscus
-H·Crushed magnet
-H·Calamus
-H·Bezoar
-H·Musk
-H·Parasite
+Yun Ying Chicken
+Shaoxing hairy duck
+Wild Goose
+Silkie chicken
+Delicate Quail
+Blue Peafowl
+Wild rabbit
+Wild boar
+East Mountain Goat
+Thousand Flowers Brocade Snake
+Platalea
+Elephant trunk
+Black bear
+Wheat
+Soybean\n
+Shiitake mushroom
+Jade Asparagus
+Tribute Lotus
+Ginkgo biloba
+Monkey Head Mushroom
+grass carp
+Green shrimp
+Rock carp
+Red crab
+Four-gilled bass
+Two-headed net abalone
+Sturgeon
+Severe Poison
+Elixir
+Yudu Poison
+Cold poison
+Red poison
+Poisonous drug
+Phantom Poison
+Bone-setting grass
+Purple Pearl Grass
+Millennium Health
+Tiger bone
+Ginseng
+Green snake gall
+Suhexiang
+Jasmine flower
+Red honey
+Black snake bone
+Longevity Lily
+Soft Astragalus
+Snow frog
+Mother of pearl
+Fragrant everywhere
+Wild Immortal Ginger
+Zhu Guo
+Red lead
+Drunken Hibiscus
+Broken silver and kind stone
+Nine-sectioned flag iris
+Rhinoceros horn
+Musk
+寄生虫

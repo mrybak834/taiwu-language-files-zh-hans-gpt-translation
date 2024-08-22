@@ -1,54 +1,54 @@
-Reconsider
-You can place a question horizontally, vertically or diagonally 1 tile away from the opponent's argument with lower value
-Direct
-You can place a question on any horizontal or vertical tile from your argument (can't go over higher value arguments)
-Jumping
-You can place a question diagonally from your argument to any tile (can't go over higher value arguments)
-Layout
-Your arguments increase the value of all your arguments on the horizontal, vertical and diagonal tiles
+Re-discuss
+You can place the opposing argument with low evidence horizontally, vertically, or diagonally
+Direct expression
+You can place the questions on your own arguments in any horizontal or vertical position (but you cannot cross over the opponent's higher arguments）
+Break free
+You can place the questions diagonally on your own points (you cannot cross over the opponent's points that are higher in argument）
+Elaboration
+The argument on our side can increase the argument value of all our placed pieces in horizontal, vertical, and diagonal lines
 Chain
-Whenever you answer opponent's Question and Doubt, increase value of this argument
-Implementing
-Your argument increases the value of all of your arguments in any horizontal or vertical tile (can be obstructed by opponent's argument)
-Balance
-If your opponent chooses to answer their own Question or Doubt, reduce the value of the opponent's argument for this answer
-Surprise
-Your argument can reduce value of all of your opponent's tiles 1 tile away on horizontal, vertical and diagonal tiles
-Sideswipe
-Your argument can reduce value of all of your opponent's tiles anywhere on horizontal and vertical tiles from it
+Increase the value of the argument for this move when answering or countering the other party's questions
+Implement
+Our side's argument can increase the argument value of all our pieces placed on any horizontal or vertical grid (blocked by the opponent's argument）
+Checks and balances
+If the other party chooses to answer their own questions or counter-questions, it reduces the evidential value of their response
+Indirectly hinting
+Our arguments can reduce the opponent's evidence for placing pieces in all horizontal, vertical, and diagonal directions by one space
+Side attack
+Our argument can reduce all the opponent's moves in any horizontal and vertical square
 Intimidation
-When your Question or Doubt turns into your argument, eliminate the opponent's Horiz. Vert. and Diag. arguments with lower value
-Defamation
-Can be used to eliminate 1 lower value argument of the opponent that's within 1 tile range of your argument Horiz. Vert. or Diag.
+When our side's questions and counterquestions transform into our own arguments, we eliminate the low-lying opposing arguments in the horizontal, vertical, and diagonal grid
+Slander
+It can be used on one's own argument to specify the elimination of an opposing argument that is lower than one's own argument in a horizontal, vertical, or diagonal position
 Reprimand
-When your Question or Doubt turns into your argument, eliminate the lower value argument of the opponent that are Horiz. or Vert. (can't go over higher value arguments)
-Gotcha
-When your Question or Doubt is answered, the cooldown of the manual used by the opponent for the answer is increased by 1 turn.
-Exaggerate
-When you Question or Doubt, 3 more books are displayed to enter the cooldown
-Humble
-When you Question or Doubt, 3 less books are displayed to enter the cooldown
+When our side's questions and counter-questions are turned into our own arguments, eliminate the opposing arguments with arbitrary low ground in both horizontal and vertical formats (do not cross over the opposing arguments with high ground）
+Foreshadowing
+When answering questions or responding to counter-questions from our side, the other party's books used for answers are subjected to an additional round of cooldown
+exaggerate
+When our side asks or retorts, show 3 more books to enter cooldown
+Partially ajar
+When asking or counter-questioning, show fewer than 3 books entering cooldown
 Insight
-Can be used on the opponent's argument with a strategy to directly eliminate all strategies on that tile.
+It can be used against arguments where the other party has employed strategies, directly eliminating the effects of all strategies in this square
 Misinterpretation
-When your Question or Doubt turns into your argument, eliminate all of your opponent's strategies on tiles horizontally, vertically, and diagonally in 1 tile range
+When our side's questions and counter-questions transform into our own arguments, the strategy effect of eliminating all opposing viewpoints in the same horizontal, vertical, or diagonal grid
 Understanding
-When your Question or Doubt turns into your argument, eliminate all of your opponent's strategies on tiles horizontally and vertically to it.
-Thoughtful
-Reduce the cooldown for random 3 of books by 1 turn
-Enrage
-Increase the cooldown of the opponent's random 3 books by 1 turn.
+When your side's questioning or counter-questioning transforms into your argument, eliminate the strategic effects of all opposing arguments in any format
+Deep thought
+Randomly reduce the cooldown of three of your own books that are currently on cooldown by one turn after use
+infuriate
+After use, randomly increase the opponent's cooldown by three turns for books
 Inspiration
-You can select a book that is on cooldown to completely restore cooldown.
-Quote
-When your Question or Doubt turns into your argument, draw strategies depending on how many arguments you have horizontally, vertically, and diagonally in 1 tile range
-Citation
-Draw strategies based on the difference in score
-Lead
-When your Question or Doubt turns into your argument, draw strategies depending on how many arguments you have horizontally and vertically (can be obstructed by opponent's argument)
-Compound
-You can replace your argument, and reclaim any strategies used on it
+You can designate a book of your own that is currently cooling down to fully restore its cooling
+Citing extensively
+When the party's questions and counter-questions are transformed into their own arguments, a strategy for extracting based on the number of arguments in the horizontal, vertical, and diagonal grids is applied
+Side reference
+It can be used on one's own argument, extracting an equivalent number of strategies based on this score
+Direct引用
+When the opposing party's questions and counterquestions transform into our own arguments, adopt a strategy for extracting our argument quantity based on horizontal or vertical criteria (obstructed by the opposing party's arguments）
+Re-discussion
+You can place a piece on your own argument, retrieve all your strategies related to this argument, and replace this argument with the current placement state
 Conclusion
-Books won't go on a cooldown when used.
-Theory
-You can Question opponent's arguments pf lower value, and directly turn them into your own argument.
+The book used for our placement this time will not increase the cooldown rounds
+Strong Argument
+One can directly translate the opponent's argument, which has low supporting evidence, into one's own argument

@@ -1,16 +1,16 @@
-Food
-Common grains, poultry, etc.
+Ingredients\n
+Common grains, mixed grains, poultry, and livestock。
 Wood
-Common wood, bamboo branches, vines, etc.
-Ore
-Precious metals such as gold, iron, copper, etc.
+Common wood, bamboo branches, vines, etc。
+Golden Iron
+Common gold, silver, copper, iron, etc。
 Jade
-Precious jades and stones
+Common jade materials, stone materials, etc。
 Fabric
-Common plants, silk, fur, etc.
-Herbs
-Common medicinal materials from various types of vegetation, ore, insects, beasts, etc.
-Money
-Coins made in a style of the previous dynasty.
+Common plants, silk cocoons, fur, etc。
+Herbal medicine
+Common medicinal materials derived from various plants, minerals, insects, and animals。
+Silver and money
+The coin is made of a brass and silver alloy in the style of the previous dynasty's currency。
 Prestige
-The prestige brought about by the admiration and awe of others.
+Authority gathered from the admiration and fear of common people, martial artists, and even malevolent outsiders。

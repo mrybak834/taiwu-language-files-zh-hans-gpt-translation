@@ -2,37 +2,37 @@
 
 
 
-Empty Body
-<color=#pinkyellow>Internal Energy gained from Cultivation <color=#brightblue>+100%</color></color>
+Body Empty
+<color=#pinkyellow>Weekly rotation of internal energy acquisition<color=#brightblue>+100%</color></color>\n>
 
 
-Cleanse Impurities
-<color=#pinkyellow>Direct External, Internal, Daze, and Poison damage received from those who haven't reached <color=#ffffff>Cleanse Impurities</color> <color=#brightblue>reduced by 33%</color>\nDirect External, Internal, Daze, and Poison damage dealt to those who haven't reached <color=#ffffff>Cleanse Impurities</color> <color=#brightblue>increased by 33%</color>\nCharacter's Daze HP <color=#brightblue>+10%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+10%</color></color>
+Wash away the turbidity
+<Direct external injuries, internal injuries, spirit loss, and poisoning caused to those below <color=#ffffff>Uncleansed</color> are reduced by <color=#brightblue>33%</color>\\nDirect external injuries, internal injuries, spirit loss, and poisoning inflicted on those below <color=#ffffff>Uncleansed</color> are increased by <color=#brightblue>33%</color>\\nCharacter's mental strength increased by <color=#brightblue>+10%</color>\\nCharacter's resilience against heavy injuries increased by <color=#brightblue>+10%</color>
 
 
 Regulate Qi
-<color=#pinkyellow>Experience gained <color=#brightblue>+100%</color></color>
+<color=#pinkyellow>Gain Experience<color=#brightblue>+100%</color></color>\\n>
 
 
-Breathe Qi
-<color=#pinkyellow>Success rate during breakthroughs <color=#brightblue>+25%</color></color>
+Out of breath
+<color=#pinkyellow>Success rate when breaking through功法<color=#brightblue>+25%</color></color>\n>
 
 
-Divine Step
-<color=#pinkyellow>Direct External, Internal, Daze, and Poison damage received from those who haven't reached <color=#1abac8>Divine Step</color> <color=#brightblue>reduced by 33%</color>\nDirect External, Internal, Daze, and Poison damage dealt to those who haven't reached <color=#1abac8>Divine Step</color> <color=#brightblue>increased by 33%</color>\nCharacter's Daze HP <color=#brightblue>+15%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+15%</color></color>
+Divine Foot
+<Direct injuries, internal injuries, insanity, and poisoning received from those who have not reached <color=#1abac8>Divine Foot</color> are reduced by <color=#brightblue>33%</color>\\nDirect injuries, internal injuries, insanity, and poisoning caused to those who have not reached <color=#1abac8>Divine Foot</color> are increased by <color=#brightblue>33%</color>\\nCharacter mental strength <color=#brightblue>+15%</color>\\nCharacter heavy injury resilience <color=#brightblue>+15%</color>
 
 
-Primary Breath
-<color=#pinkyellow>True Qi gained from Cultivation <color=#brightblue>+100%</color></color>
+Nayuan
+<color=#pinkyellow>Weekly energy circulation acquisition<color=#brightblue>+100%</color></color>\\n>
 
 
-Entranced
-<color=#pinkyellow>Talent limit in breakthroughs <color=#brightblue>+6</color></color>
+Lost in thought
+<Limit of innate talent when breaking through martial arts techniques <color=#brightblue>+6</color>
 
 
-Naturalization
-<color=#pinkyellow>Direct External, Internal, Daze, and Poison damage received from those who haven't reached <color=#c16927>Naturalization</color> <color=#brightblue>reduced by 33%</color>\nDirect External, Internal, Daze, and Poison damage dealt to those who haven't reached <color=#c16927>Naturalization</color> <color=#brightblue>increased by 33%</color>\nCharacter's Daze HP <color=#brightblue>+20%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+20%</color></color>
+Entering transformation
+<Direct external injuries, internal injuries, confusion, and poisoning caused to those who have not reached <color=#c16927>Innate Transformation</color> are reduced by <color=#brightblue>33%</color>\\nDirect external injuries, internal injuries, confusion, and poisoning caused by those who have not reached <color=#c16927>Innate Transformation</color> are increased by <color=#brightblue>33%</color>\\nCharacter's mental strength <color=#brightblue>+20%</color>\\nCharacter's critical vitality <color=#brightblue>+20%</color></color>\\n>
 
 
-Return To Start
-<color=#pinkyellow>Character's Daze HP <color=#brightblue>+25%</color>\nCharacter's Fatal Wound HP <color=#brightblue>+25%</color></color>
+Return to Emptiness
+<color=#pinkyellow>Character Spirit Strong <color=#brightblue>+25%</color>\\nCharacter Heavy Injury Strong <color=#brightblue>+25%</color></color>\\n>

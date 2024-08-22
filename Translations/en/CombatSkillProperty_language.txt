@@ -1,74 +1,74 @@
-Current Power
-Power Cap
-Cast Speed
-Stance/Inhale Cost
-Ext/Int Ratio
-Inner Conversation Rate
-Total Internal Force
-Gain Internal Force
-Elemental Convertion
-Universal Slots
-Mobility Cost
-MOV·Spd
-Increase Might
-Increase Finesse
-Increase Swiftness
-Increase BRE
-Weaken Footwork
-Footwork Cost
-Increase Ext. Def.
-Increase Int. Def.
-Increase Diversion
-Increase Parry
-Increase Evasion
-Increase Focus
-Counterattack Power
-Ph Reflect
-Qi Reflect
-Reflect Range
+Current power
+Power Limit
+Display speed
+Momentum consumption
+Internal skill ratio
+Inner skill transformation
+Total internal energy
+Acquire inner strength
+Five Elements Transfer
+Universal grid number
+Foot strength consumption
+Moving speed
+Increase intensity
+Increase the exquisite
+Increase rapidly
+Increase feelings of attraction
+Body technique decay
+Body technique consumption
+Increase royal body
+Increase Qi Control
+Increase unloading force
+Increase dismantling moves
+Increase evasion
+Increase mindfulness
+Counterattack power
+Traumatic recoil
+Internal injury reaction
+Aftershock range\n
 Duration
-Increase ATK
-Increase Accuracies
-Might Ratio
-Finesse Ratio
-Swiftness Ratio
-Attack Range
-Attack Chest
-Attack Waist
-Attack Head
-Attack Arms
-Attack Legs
-Severity of sealed acupoints
-Severity of flaws
-Apply Acritoxin
-Apply Umbritoxin
-Apply Cryotoxin
-Apply Pyrotoxin
-Apply Necrotoxin
-Apply Oneirotoxin
-Requirements
-Break Row
-Quick Row
-Aegis Row
-Nadis Row
-Requires Throw Style
-Requires Shot Style
-Requires Drive Style
-Requires Hack Style
-Requires Stab Style
-Requires Slash Style
-Requires Punch Style
-Requires Point Style
-Requires Hold Style
-Requires Sound Style
-Requires Wrap Style
-Requires Spell Style
-Requires Ware Style
-Requires Drug Style
-Requires Toxic Style
-Requires Sweep Style
-Jump Speed
-Sealing Chance
-Sealing Duration
-Increase ATK
-Increase Accuracy
+Increase attack
+Increase hit rate
+Strength to Number
+Exquisite numbers
+Swiftly becomes a number
+Attack range\n
+Attack the chest and back
+Attack the waist and abdomen
+Attack the head\n
+Attack with both hands
+Attack Bipedal
+Sealing degree
+Degree of flaw
+Apply potent poison
+Apply toxic gloom
+Apply cold poison
+Apply Red Poison
+Applying corruption poison
+Apply Illusionary Poison
+Leverage demand
+Break the barrier
+Light and agile position
+Guardrail position
+Special Trick Column
+Need to roll
+Need to be弹式
+Need imperial style
+Need to split type
+Need刺式
+Need to flirt
+Need to collapse style
+Need dot style
+Need to take style
+Need sound style
+Needs to be wrapped
+Need spell format
+Need mechanical type
+Need prescription
+Need poison style
+Need to scan\\n
+Charging time
+Ban Probability
+Ban duration\n
+Increase attack
+Increase hit rate

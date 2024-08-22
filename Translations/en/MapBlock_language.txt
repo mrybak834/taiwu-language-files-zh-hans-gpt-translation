@@ -1,363 +1,363 @@
 Taiwu Village
-Taiwu Village is the core of the region,  the residence of Taiwu and its people.
-Capital
-The Capital is the economic and political center of the Middle Kingdom,  croweded with the rich and powerful.
-Capital Northwest
-Capital North
-Capital Northeast
-Capital West
-Capital Centre
-Capital East
-Capital Southwest
-Capital South
-Capital Southeast
-Chengdu
-Chengdu,  known as “the land of abundance“,  has a mild climate fostering brilliant talents. Legend has it that celestial beings are living on the extraordinary Emei Mountain.
-Northwest Chengdu
-North Chengdu 
+Taiwu Village strictly adheres to the way of seclusion; it is an extremely simple and austere place. In the village, the sounds of chickens and dogs can be heard, doors are left unlatched at night, creating a peaceful atmosphere, unlike the human world。
+Capital City
+The land of Gyeonggi is extremely wealthy, with merchants and officials constantly coming and going from various places, making it the center of wealth and power in the Central Plains。
+Northwest of the capital
+Beijing North
+Northeast of the capital
+West of the capital
+In the capital city
+East of the capital
+Southwest of the capital
+South of the Capital
+Southeast of the capital
+Chengdu\n
+Chengdu has a mild climate, with outstanding people and resources, and is known as the 'Land of Abundance.' It is said that there are immortals living on Mount Emei in Shu, a place beyond the mundane world。
+Northwest of Chengdu
+Chengdu North
 Northeast Chengdu
-West Chengdu 
-Chengdu Centre
+Chengdu West
+Chengdu
 Chengdu East
-Chengdu Southwest
+Southwest Chengdu
 Chengdu South
 Chengdu Southeast
 Guizhou
-Guizhou is a picturesque place.It is too beautiful to be appreciated all at once. “East or west,  Guizhou landscape is the best“,  “The scenary of Guizhou is the most adorable of all” are common compliments.
-Guizhou Northwest
+The mountains and waters of Guizhou are picturesque and breathtaking, famously known for the sayings 'The scenery here surpasses that of the Central Plains' and 'Guilin's mountains and waters are the best under heaven。
+Northwest of Guizhou
 Guizhou North
-Guizhou Northeast
-Guizhou West
-Guizhou Centre
+Northeast of Guizhou
+Gui Prefecture West
+Guizhou Central
 Guizhou East
-Guizhou Southwest
+Southwest of Guizhou
 Guizhou South
-Guizhou Southeast
+Southeast of Guizhou
 Xiangyang
-Xiangyang is located in the north of Xiang River.The majesty of the city is easily accesible from all around. Thus it is also of great strategic importance.
-Xiangyang Northwest 
-Xiangyang North
-Xiangyang Northeast
+Due to its location at the 'Yang of the Xiang River', it is named 'Xiangyang'. The city of Xiangyang has magnificent city walls, and its water and land transportation are convenient, making it a place that has been fought over by military strategists since ancient times。
+Northwest of Xiangyang
+North Xiangyang
+Northeast of Xiangyang
 Xiangyang West
-Xiangyang Centre
+Xiangyang
 Xiangyang East
-Xiangyang Southwest
+Southwest of Xiangyang
 Xiangyang South
-Xiangyang Southeast
+Southwest of Xiangyang
 Taiyuan
-Taiyuan is surrounded by mountains on three sides. It is claimed to be the most important city in the north for its magnificance and prosperity.
-Taiyuan Northwest
+The so-called 'Flourishing Jinzhengfu, Beautiful Taiyuan City.' Taiyuan is surrounded by mountains on three sides, exceptionally magnificent, and is the foremost stronghold in northern Central China。
+Northwest of Taiyuan
 Taiyuan North
-Taiyuan Northeast
+Northeast of Taiyuan
 Taiyuan West
-Taiyuan Centre
+Taiyuan Central
 Taiyuan East
-Taiyuan Southwest
+Southwest of Taiyuan
 Taiyuan South
 Taiyuan Southeast
 Guangzhou
-Guangzhou is an agglomeration of three minor cities. Many foreign merchants gathered in Guangzhou,  followed by various kinds of eccentric and bizarre people.
-Guangzhou Northwest
+Guangzhou has three cities: 'Yacheng', 'Zicheng', and 'Luocheng', where foreign merchants gather and many extraordinary people from overseas come and go。
+Northwest Guangzhou
 Guangzhou North
-Guangzhou Northeast
+Northeast Guangzhou
 Guangzhou West
-Guangzhou Centre
+Guangzhou Central
 Guangzhou East
-Guangzhou Southwest
+Southwest Guangzhou
 Guangzhou South
 Guangzhou Southeast
 Qingzhou
-Qingzhou is one of “the nine ancient states“,  towering the east part of China. Qingzhou gets its name from Yin-Yang tradition,  which argues that “Wood represents the east and Qing or “green” represents the wood.“
-Qingzhou Northwest
-Qingzhou North
-Qingzhou Northeast
+One of the ancient 'Nine Provinces', it is an important city in the East. Because 'the East belongs to wood, and the color of wood is green', it is called 'Qingzhou”。
+Northwest of Qingzhou
+North of Qingzhou
+Northeast of Qingzhou
 Qingzhou West
-Qingzhou Centre
+Middle of Qingzhou
 Qingzhou East
-Qingzhou Southwest
-Qingzhou South
-Qingzhou Southeast
+Southwest of Qingzhou
+South of Qingzhou
+Southeast of Qingzhou
 Jiangling
-Jiangling sits on the pivot of transportation network, known as “Capital of the First“. The superior education and literacy is nurtureing wisdom and attracting intelligent people.
-Jiangling Northwest
-Jiangling  North
-Jiangling Northeast
-Jiangling West
-Jiangling Centre
+Jiangling is the 'ancient capital of emperors' that connects the northwest and southeast of the Central Plains. The land of Jingchu is culturally prosperous, a place where literati and elegant gentlemen gather。
+Northwest of Jiangling
+Jiangling North
+Northeast of Jiangling
+Xiangling West
+Jiangling
 Jiangling East
-Jiangling Southwest
+Southwest of Jiangling
 Jiangling South
-Jiangling Southeast
+Southwest of Jiangling
 Fuzhou
-Fuzhou is flourishing because of its prosperous sea trade and large population. Since Banyan trees can be found everywhere,  Fuzhou is also named as “Banyan City“
-Fuzhou Northwest 
+Fuzhou has a large population and a thriving maritime trade, making it very prosperous. It is called 'Rongcheng' because of the many banyan trees planted everywhere”。
+Northwest Fuzhou
 Fuzhou North
-Fuzhou Northeast
+Northeast of Fuzhou
 Fuzhou West
-Fuzhou Centre
+Fuzhou Central
 Fuzhou East
-Fuzhou Southwest
+Southwest Fuzhou
 Fuzhou South
 Fuzhou Southeast
 Liaoyang
-Liaoyang,  the pearl of the north,  is towering a large territory. It is the most famous old capital in the north and reclaimed several times from northern kingdoms for its utmost strategic importance
-Liaoyang Northwest
+Liaoyang has a vast area under its jurisdiction and is a major town in the north. As the most famous ancient capital in the north, it has repeatedly become a key region in the capitals of various northern countries。
+Northwest of Liaoyang
 Liaoyang North
-Liaoyang Northeast
+North-east of Liaoyang
 Liaoyang West
-Liaoyang Centre
+Liaoyang Middle
 Liaoyang East
-Liaoyang Southwest
+Southwest of Liaoyang
 Liaoyang South
-Liaoyang Southeast 
+Liaoyang Southeast
 Qinzhou
-Qinzhou is located on the western border. Its uncivilized nature allows the manipulation of Vajrayana to turn it into the stepstone of the Old Zhangzhung Empire’s rejuvenation.
-Qinzhou Northwest 
-Qinzhou North
-Qinzhou Northeast
-Qinzhou West
-Qinzhou Centre
+Qinzhou is a border region, and its people are uncivilized. Under the control of the Vajrayana sect, it has seemingly become the foundational stronghold for the restoration of the ancient Shionghun Kingdom。
+Northwest of Qinzhou
+North of Qinzhou
+Northeast of Qinzhou
+Xizhou, Qin Prefecture
+Qinzhou Middle
 Qinzhou East
-Qinzhou Southwest
+Southwest of Qinzhou
 Qinzhou South
-Southeast Qinzhou
-Five Immortals
-People in Dali are unsophiscated and committed in Buddhism. Dali is comprised of a great number of clans. These clans have amicable relationships. Together they prosper.
-Northwest of Dali
+Southeast of Qinzhou
+Dali
+The culture of the Dali Kingdom is simple and honest, deeply believing in Buddhism. Although there are many clans and tribes within the country, they are all united and friendly, presenting a scene of prosperity。
+Dali Northwest
 Dali North
-Dali Northeast
+Northeast Dali
 Dali West
-Dali Centre
+Dali Central
 Dali East
-Dali Southwest
+Southwest of Dali
 Dali South
 Dali Southeast
 Shouchun
-Shouchun is the capital of the Huainan area and it is easy to control the surrounding area from there. Both the Chu people and Tofu originates there.
-Shouchun Northwest
-Shouchun North
-Shouchun Northeast
-Shouchun West
-Shouchun Centre
-Shouchun  East
-Shouchun Southwest
+Huainan takes Shouchun as its capital and is known as the 'throat of Zhongzhou'. Shouchun is not only the homeland of the Chu people but also the 'hometown of tofu。
+Northwest of Shouchun
+North of Shouchun
+Northeast of Shouchun
+West of Shouchun
+Shouchun Middle
+Shouchun East
+Southwest of Shouchun
 Shouchun South
-Shouchun Southeast
+Southeast of Shouchun
 Hangzhou
-The most important state in the southeast is said to be Hangzhou,  which has been prosperous since ancient times.
-Hangzhou Northwest
+“The land is beautiful with lakes and mountains; it is Hangzhou, the foremost state in the southeast." Hangzhou has been a prosperous city since ancient times。
+Northwest of Hangzhou
 Hangzhou North
-Hangzhou Northeast
+Northeast of Hangzhou
 Hangzhou West
-Hangzhou Centre
+Hangzhou Central
 Hangzhou East
-Hangzhou Southwest
+Southwest of Hangzhou
 Hangzhou South
-Hangzhou Southeast
+Southeast Hangzhou
 Yangzhou
-The three cities of Yangzhou is filled by pleasure crafts afloat and songs at night. So good that a poet once declared that two thirds of the night’s beauty belongs here.
-Yangzhou Northwest
+Yangzhou has three cities, with painted boats everywhere and songs every night. The saying goes, 'In the world, on a bright moonlit night, two parts are wastrels, and one part is Yangzhou”。
+Northwest of Yangzhou
 Yangzhou North
-Yangzhou Northeast
+Northeast of Yangzhou
 Yangzhou West
-Yangzhou Zhong
+Yangzhou
 Yangzhou East
-Yangzhou Southwest
+Southwest of Yangzhou
 Yangzhou South
-Yangzhou Southeast
-Hidden Village
-Hidden in a small mountain village outside a deep valley.
-Bamboo Hut
-A tiny bamboo hut. The bamboo walls already lost its original color and become darker and darker.
-A tiny bamboo hut.
-ShaoLin
-The Shaolin school is the titan of the formal martial arts school. Bodhidharma's ancestor entered the martial arts with Zen and faced the wall in Shaolin Temple for nine years, creating the 'Seventy-two Perfect Techniques', all of which are the best in the world.\n<color=#lightgrey>(Shaolin is an <color=#lightblue>Upright</color> sect; Main standpoint is <color=#lightblue>Kind</color>, most people in the sect are <color=#lightblue>Kind</color>. They will not pass their knowledge to people with a negative Fame.) </color>
-Shaolin School Dharma Cave
-Shaolin School Back Mountain
-Shaolin's Pagoda Forest
-Shaolin School Zen Temple
+Yankou Southeast
+Secret Small Village
+A small village hidden outside the deep valley。
+Bamboo Cottage
+A very small bamboo hut is nestled in the mountain creek. The bamboo strips on the walls of the hut have long since turned yellow and dark。
+A tiny bamboo cottage is nestled in the mountain stream。
+Shaolin Sect
+The Shaolin school is the pinnacle of the righteous martial arts world. Master Bodhidharma entered martial arts through Zen, meditating against a wall at Shaolin Temple for nine years and created the 'Seventy-two Unique Skills', all unparalleled in the world.\\n<color=#lightgrey>(The Shaolin school is a <color=#lightblue>righteous</color> prestigious sect; it primarily upholds <color=#lightblue>benevolence</color> and kindness, with many <color=#lightblue>benevolent</color> individuals in the temple; martial arts will not be taught to those of low reputation.)</color>\\n>
+Shaolin Sect's Dharma Cave
+Shaolin Sect Back Mountain
+Shaolin Temple Pagoda Forest
+Shaolin Sect Zen Monastery
 Emei Sect
-Emei is the most famous martial art in the world. Emei is one of the three most famous sects in the martial arts. The school is just like its name - 'the world's most beautiful'. The martial arts of Emei are both Just and flexible, with a blend of Taoism and Buddhism and a dual cultivation of determination and wisdom.\n<color=#lightgrey>(Emei is an <color=#lightblue>Upright</color> sect; Main standpoint is <color=#lightblue>Kind</color>, most people in the sect are <color=#lightblue>Kind</color>; They will not pass their knowledge to people with a negative Fame.)</color>
-Emei School Golden Peak
-Emei School Shenyang Cliff
-Emei School Thousand Buddha Temple
-Emei School White Dragon Pond
-Flowers Valley
-Hundred Flowers Valley is famous for its medical skills, and the technique of moxibustion by the Royal Needle is incomparable. The disciples of the valley are known for their benevolence and righteousness, and are admired by the world.\n<color=#lightgrey>(Hundred Flowers Valley is an <color=#lightblue>Upright</color> sect; Main standpoint is <color=#lightblue>Kind</color>, most people in the sect are <color=#lightblue>Kind</color>; They will not pass their knowledge to people with a negative Fame.)</color>
-Flowers Valley White Deer Cave
-Flowers Valley Floating Building
-Flowers Valley Hundred Flowers Cottage
-Flowers Valley Valley entrance
+The world's martial arts come from Emei. Emei is one of the three major renowned schools in the martial arts world. The school lives up to its name — 'The Elegance of the World.' Emei's martial arts combine hardness and softness, merging Daoism and Buddhism, cultivating both wisdom and enlightenment.  \n(Emei School is a reputable orthodox school; its stance is primarily based on benevolence, and it has many benevolent individuals within the sect; it will not teach martial arts to those with low reputations>
+Emei Sect Golden Summit
+Emei Sect's She Shen Cliff
+Emei Sect Thousand Buddha Temple
+Emei Sect White Dragon Pool
+Baihua Valley
+Baihua Valley is famous for its medical skills, and the techniques of acupuncture and moxibustion are unparalleled. The disciples help the world with their skills, displaying unmatched benevolence and righteousness, and are greatly admired by many.\\n<color=#lightgrey>(Baihua Valley is a <color=#lightblue>righteous</color> sect; it is primarily guided by <color=#lightblue>benevolence and kindness</color>, and there are many <color=#lightblue>benevolent and kind</color> individuals in the valley; they do not teach martial arts to those of low reputation.)</color>\\n>
+Baihua Valley, White Deer Cave
+Floating Pavilion in the Valley of a Hundred Flowers
+Baihua Valley, Baihua Village
+Baijia Valley Entrance
 Wudang Sect
-Together with Shaolin and Emei, it is one of the three most famous martial arts schools in the world. The Wudang Sect is a profound and sophisticated school of martial arts, with the greatest emphasis on the cultivation of internal martial arts. The founding ancestor of the school, Zhenjun, is a profound Daoist master, and his Taiji Shen Gong is famous all over the world, and is known as the best internal martial art in the world.\n<color=#lightgrey>(Wudang is an <color=#lightblue>Upright</color> sect; Main standpoint is <color=#white>Even</color>, most people in the sect are <color=#white>Even</color>; They will not pass their knowledge to people with a negative Fame.)</color>
-Wudang Sect Back Peak
-Wudang Sect True Martial Hall
-Wudang Sect Tianzhu Peak
-Wudang Sect Bamboo Forest
-YuanShan
-There are many disciples in the Yuanshan Sect , and they take the responsibility of maintaining the righteousness of the martial world. The great Yuanshan sect has a sword mound, and the small Yuanshan sect has a sword mound. The great and small Yuanshan sects are united in the same spirit, and they use the magic skill of combining swords and knives to eliminate the devil and defend the way, and their fame spreads far and wide.\n<color=#lightgrey>(Yuanshan is an <color=#lightblue>Upright</color> sect; Main standpoint is <color=#yellow>Just</color>, most people in the sect are <color=#yellow>Just</color>; They will not pass their knowledge to people with a negative Fame.)</color>
-YuanShan Sect Great Wonsan
-YuanShan Sect Monument Forest
-YuanShan Sect Stone House
-YuanShan Sect Little Wonsan
-Lion-Face Clan
-The Lion's Face Clan is a strong and domineering martial arts school, although it does not pay attention to the cultivation of internal strength, but the horizontal practice of hard qigong is unique in the world, can open gold and break stones, swords and spears can not enter, which can be called the ultimate in external martial arts.\n<color=#lightgrey>(Lion-Face Clan is a <color=#white>Neutral</color> sect; Main standpoint is <color=#darkpurple>Rebel</color>, most people in the sect are <color=#darkpurple>Rebels</color>.)</color>
-Lion-Face Clan Lion Dance Hall
-Lion-Face Clan Golden Lion Hall
-Lion-Face Clan Sleeping Lion Hall
-Lion-Face Clan School Ground
-Ranshan Sect
-The Ransan Sect specializes in the doctrine of traveling and learning to leave the world. Study: extensive memory and knowledge, clear reasoning and examination of the situation, out of the words spit arguments, ten thousand mouths can not be. The world: cultivate the truth and nourish the nature, take food and guidance, dispel diseases and prolong the life, and be ready to move.\n<color=#lightgrey>(Ranshan is a <color=#white>Neutral</color> sect; Main standpoint is <color=#white>Even</color>, most people in the sect are <color=#white>Even</color>.)</color>
-Ranshan Sect Qinglang Cliff
-Ranshan Sect Taoist Temple
-Ranshan Sect Genji Meilin
-Ranshan Sect Immortal Stones
-XuanNyu
-XuanNyu Peak is also known as Jade Nui Peak, on which there is Xuan ice. Legend has it that a celestial woman descended on the peak and left behind a mystical art, which, when practiced by women, will make them handsome, icy and immortal.\n<color=#lightgrey>(Xuannyu is a <color=#white>Neutral</color> sect; Main standpoint is <color=#yellow>Just</color>, most people in the sect are <color=#yellow>Just</color>. <color=#red>Disciples are strictly forbidden from marrying!</color>)</color>
-XuanNyu Sect Jade Lady Peak
-XuanNyu Sect Tian Yin Pavilion
-XuanNyu Sect Cold Pool
-XuanNyu Sect Jade Steps
-Sword Manor
-Sword Manor is located in Zhanlu Mountain, which is said to have been founded by Ou Ye Zi, the ancestor of sword casting. Sword Manor  has a long history, and most of the world's weapons come from here, and are highly admired by martial artists.\n<color=#lightgrey>(Sword Manor is a <color=#white>Neutral</color> sect; Main standpoint is <color=#white>Even</color>, most people in the sect are <color=#white>Even</color>.)</color>
-Sword Manor  Back Peak
-Sword Manor Training Platform
-Sword Manor Courtyard
-Sword Manor Workshop
-KongSang Sect
-The Kongsang Sect is also known as 'Kongsang School of Toxicology'. Although the Kongsang Mountain is a snow-capped mountain, it has a special place where exotic plants are found. Disciples of the Kongsang Sect's medicine can bring back the dead, and create murderous toxins second to none\n<color=#lightgrey>(Kongsang is a <color=#white>Neutral</color> sect; Main standpoint is <color=#red>Egoist</color>, most people in the sect are <color=#red>Egoistic</color>.)</color>
-The Secret Realm of the Kongsang Sect
-Kongsang Den
-Kongsang Medicine Garden
-Kongsang Toju
+Together with Shaolin and Emei, it is one of the three major sects of martial arts. Wudang sect's martial arts are profound and extensive, emphasizing internal cultivation. The founding master Zhenjun has profound Taoist principles, and the reputation of Taiji's divine skill is known throughout the world, making it the foremost internal martial art. <color=#lightgrey>(The Wudang sect is a <color=#lightblue>orthodox</color> sect; its stance is primarily based on <color=#white>moderation</color>, with many practitioners of <color=#white>moderation</color> within the sect; it does not teach martial arts to those with a low reputation.)</color>\\n>
+Wudang Sect Back Mountain
+Wudang Sect Zhenwu Hall
+Wudang Sect, Tianzhufeng
+Wudang Sect Bamboo Grove
+Wonshan School
+The Yuan Shan Sect has many disciples, dedicated to upholding the righteous path of the martial world. In the Great Yuan Mountain, there is a Blade Tomb for Taoist cultivation; in the Small Yuan Mountain, there is a Sword Tomb for Buddhist practice. The Great and Small Yuan Mountains are interconnected, utilizing the divine skill of combining blades and swords to eliminate evil and defend the righteous path, earning a far-reaching reputation for chivalry.\\n<color=#lightgrey>(The Yuan Shan Sect is a renowned <color=#lightblue>righteous sect</color>; its stance is primarily <color=#yellow>upright</color>, with many <color=#yellow>upright</color> individuals within the sect; it will not teach martial arts to those of low reputation.)</color>\\n>
+Yuan Mountain School of Great Yuan Mountain
+Yuan Mountain School Stele Forest
+Yuan Mountain School Stone House
+Yuanshan School - Little Yuanshan
+Shixiang Gate
+The Lion's Gate martial arts are powerful and domineering. Although they do not emphasize internal skills, their external training is unparalleled, capable of breaking gold and stone, impervious to blades and spears, and can be considered the pinnacle of external martial arts.\\n<color=#lightgrey>（The Lion's Gate is a <color=#white>neutral</color> sect; its stance is primarily <color=#darkpurple>rebellious</color>, and it is home to many <color=#darkpurple>rebellious</color> individuals.）</color>\\n>
+Lion's Gate Crazy Lion Hall
+Shixiangmen Jinshitang
+Sleeping Lion Hall of the Lion Sculpture Gate
+Shixiangmen School Ground
+Ran Mountain Sect
+The Ranshan Sect specializes in the teachings of travel and study as a way to transcend the mundane. Travel and study: broad knowledge and vast experiences, clarity of understanding and sound judgment, articulate expression and discourse, unmatched by a thousand mouths. Transcend the mundane: cultivating true self and nurturing one's nature, proper diet and guidance, disease prevention and longevity, waiting for enlightenment.  \n(Ranshan Sect is a neutral faction; its stance is primarily based on moderation, with many moderate individuals within the sect>
+Then Mountain Sect, Qinglang Cliff
+Ran Mountain Taoist Temple
+Ran Mountain School, Xuan Character, Plum Forest
+Ran Mountain Sect Asks the Immortal Stone
+Xuan Nü Sect
+Xuannü Peak, also known as Jade Girl Peak, has mysterious ice on its summit. Legend has it that a celestial maiden descended upon the peak and left behind a remarkable skill known as the Bright Gem, which allows any woman who cultivates it to attain graceful beauty, with an ice-like physique and jade-like bones, ultimately ascending to become an immortal.\\n<color=#lightgrey>(The Xuannü Sect is a <color=#white>neutral</color> sect; its stance is primarily <color=#yellow>upright</color>, with many <color=#yellow>upright</color> individuals in the sect. <color=#red>This sect strictly prohibits disciples from marrying!</color>)</color>\\n>
+Xuan Nu Sect - Jade Maiden Peak
+Xuan Female Sect Tianyin Pavilion
+Xuan Nv School Cold Pool
+Xuan Nu sent jade steps
+Zhu Jian Mountain Villa
+The Sword Forging Villa is located on Zhanlu Mountain, and is said to have been founded by the sword-forging master Ouyang Zi. The Sword Forging Villa has a long history, and most of the legendary weapons and sharp tools in the world are produced here, earning the admiration of martial artists. \\n<color=#lightgrey> (The Sword Forging Villa is a<color=#white> neutral</color> sect; its position is primarily based on<color=#white> moderation</color>, and there are many<color=#white> moderate</color> individuals within the sect.)</color> \\n>
+Back Mountain of Sword Casting Villa
+Zhu Jian Mountain Villa Sword Testing Platform
+Zhu Jian Mountain Villa
+Forging Workshop of the Sword Casting Villa
+Empty Mulberry Faction
+The Kong Sang Sect, also known as the Kong Sang Medicine King Sect. Although Kong Sang Mountain is a snowy mountain, it has its own hidden world, full of rare treasures and extraordinary herbs. The disciples of Kong Sang excel in both medicine and poison; their medicine can bring the dead back to life, and their poison can kill silently.  \n<color=#lightgrey>(The Kong Sang Sect is a <color=#white>neutral</color> sect; its stance is primarily <color=#red>self-centered</color>, with many members being <color=#red>self-centered</color> individuals.)</color>
+Empty Mulberry Sect Secret Realm
+Empty Mulberry Sect Dan Room
+Empty Mulberry Medicine Garden
+Empty Mulberry School Land Residence
 Vajrayana
-The Vajrayana Sect is a branch of Tantric Buddhism transmitted from the ancient kingdom of Xiangxiong. The Vajra Sect has many disciples, and its divine power is incomparable, but it acts viciously and viciously, and is very different from the orthodox Tantric sects, and is the great enemy of the martial artists.\n<color=#lightgrey>(Vajrayana is an <color=#red>Evil</color> sect; Main standpoint is <color=#red>Egoist</color>, most people in the sect are <color=#red>Egoistic</color>; They will not pass their knowledge to people with a positive Fame.)</color>
-Vajrayana Sect Temple
-Vajrayana Sect Elephant Park
-Vajrayana Sect Guardian Jinshan
-Vajrayana Sect Kaji Hall
-Five Immortals
-Miaojiang five poisonous religion, called the Five Immortals, doctrine is very extreme, revenge must be retaliated. In the church in the refining of poison, breeding Gu many strange and bizarre techniques, all appalling, martial arts people, whether good or evil, all avoid it.\n<color=#lightgrey>(Five Immortals Cult is an <color=#red>Evil</color> sect; Main standpoint is <color=#darkpurple>Rebel</color>, most people in the sect are <color=#darkpurple>Rebels</color>; They will not pass their knowledge to people with a positive Fame.)</color>
-Five Immortals Church Gu Cave
-Five Immortals Snake Valley
-Five Immortals Church Poison Spring
-Five Immortals Miao Village
-JieQing
-Jieqing Gate is commonly known as the place where people and ghosts travel together, and it often accepts villains from all over the Jianghu. The sect's disciples act in secret, and rarely show their tracks. The disciples are best at Exotic Weapons and the technique of flying needle and stone throwing. If they show a killing intent, there will definitely be a person who dies without a trace.\n<color=#lightgrey>(Jieqing Gate is an <color=#red>Evil</color> sect; Main standpoint is <color=#darkpurple>Rebel</color>, most people in the sect are <color=#darkpurple>Rebels</color>; They will not pass their knowledge to people with a positive Fame.)</color>
-JieQing Sect Stargazing Cliff
-JieQing Sect Ghost Cave
-JieQing Sect Gate Abyss
-JieQing Sect Forgotten Life Stage
-Fulong Altar
-The Fulong Altar was built on the East China Sea on the island of Chi Ming. It is divided into two lines: the Szeto's line of swordsmanship is fierce and fierce, and the Dragon's line of fist and palm is profound and outstanding. It is said that there is a volcano on the island, and the disciples all practice their kung fu in the volcano.\n<color=#lightgrey>(Fulong Altar is an <color=#red>Evil</color> sect; Main standpoint is <color=#yellow>Just</color>, most people in the sect are <color=#yellow>Just</color>; They will not pass their knowledge to people with a positive Fame.)</color>
-Fulong Altar Volcano
-Fulong Altar Golden Dragon Hall
-Fulong Altar Fire Pond
-Fulong Altar Flowing Fire Golden City
-Blood Cult
-Since the troubled times of Xiangshu, all evil people gradually gathered together and founded the Bloodhound Cult. The demonic power in the religion messes with people's nature, and decent martial arts people are naturally incompatible with them.\n<color=#lightgrey>(Bloodhound Cult is an <color=#red>Evil</color> sect; Main standpoint is <color=#red>Egoist</color>, most people in the sect are <color=#red>Egoistic</color>; They will not pass their knowledge to people with a positive Fame.)</color>
-Blood Hind Cult Blood Hind Temple
-Bloodhound Church Corral
-Bloodhound Cult Hollow
-Blood Hind Cult Blood Hind Pool
-Village
-Smoke rises in the village. The simple trimmed dirt path is scattered between the fields and the hedges.
-Town
-A town with a large population. Connected to the main path,  it has a station.
-Camp
-A land that has been protected by walls and rivers with self-sufficient residents
-Station
-You can use the post route to travel around the world in areas where there are post stations.
-Abandoned Stages
-It is possible to travel around the world by using the post route in areas where there is a post station. However, this post station is deserted and not functional...
+The Wuliang Vajra Sect is a branch of esoteric Buddhism that originated from the ancient Xiangxiong Kingdom. The disciples of the Vajra Sect are numerous, and their protective divine powers are unmatched, but their methods are ruthless and depraved, making them vastly different from the orthodox Esoteric Buddhism, and they are a great enemy of the righteous martial arts community.  \n<color=#lightgrey>(The Vajra Sect is an <color=#red>evil</color> sect; their stance is <color=#red>egoistic</color>, with many <color=#red>egoists</color> in the sect; they will not teach martial arts to those of high reputation.)</color>
+Vajrayana Vajra Hall
+Vajrayana Elephant Park
+Vajra Sect Guardian Jingshan
+Vajrayana Empowerment Hall
+Five Immortal Teachings
+The Miaojiang Five Poisons Sect, self-styled as the Five Immortals Sect, has extremely radical teachings, with a strict code of vengeance and retribution. The sect practices poison cultivation and various strange and terrifying techniques involving raising puppets, all of which are shocking to hear. People in the martial world, whether righteous or evil, avoid it at all costs.  \n(The Five Immortals Sect is an <color=#red>evil sect</color> from outside the mainstream; its stance is primarily <color=#darkpurple>rebellious</color>, and there are many <color=#darkpurple>rebels</color> within the sect; they do not teach martial arts to those with overly high reputations>
+Five Immortals Sect Gu Cave
+Five Immortal Sect Snake Valley
+Five Immortals Sect Poison Spring
+Wuxianjiao Miao Village
+Boundary Youth Gate
+The Qingjimen is commonly known as a place where humans and ghosts traverse together, often harboring unruly figures from the rivers and lakes. The disciples of this sect act secretly, rarely revealing their whereabouts. The members excel in the art of Qimen Dunjia and the techniques of flying needles and throwing stones. When the intent to kill arises, they can ensure a person's death without a trace.  \n<color=#lightgrey> (The Qingjimen is an <color=#red>evil sect</color> of heretical ways; it stands primarily on the side of <color=#darkpurple>rebellion</color>, with many <color=#darkpurple>rebels</color> among its ranks; they will not teach martial arts to those with excessively high reputations.) </color>
+Observing the Stars from the Starry Cliff of the Gateway to the World
+Boundary Youth Door Ghost Cave
+Boundary Blue Gate Abyss
+Forgotten life at the blue gate of the world
+Fulong Terrace
+The Fulong Altar is built on Chiming Island in the East China Sea. The Fulong Altar is divided into two branches: the Situ family has a powerful and unmatched saber technique, while the Long family excels in profound and exceptional fist and palm techniques. It is said that there is a volcano on the island, and disciples practice martial arts in the volcano. \n(Fulong Altar is an evil sect; its position is primarily just and upright, with many just and upright individuals in the sect; they do not teach martial arts to those with overly high reputations>
+Fulongtan Volcano
+Fulongtan Golden Dragon Hall
+Fulongtan Fire Pool
+Fulongtan Flowing Fire Gold City
+Blood Hound Cult
+Since the chaotic era, evil individuals have gradually gathered and established the Blood Hound Sect. The demonic powers in the sect disrupt human nature, making it difficult for even Bodhisattvas to save them. Naturally, righteous martial artists stand opposed to them. \n<color=#lightgrey>(The Blood Hound Sect is an <color=#red>evil sect</color>; their stance is primarily <color=#red>self-centered</color>, and there are many <color=#red>self-centered</color> individuals within the sect; they will not teach martial arts to those with high reputations.)</color>\n>
+Blood Hound teaches the Blood Hound Temple
+Blood hound teaching livestock pen
+Blood Wolf teaches Wolf Valley
+Blood Wolf teaches at Blood Wolf Pool
+village
+Smoke is rising gently from the village. Roughly repaired dirt paths wind through the fields and low hedges。
+town
+A densely populated town. Connected to the main road, it is well-connected and quite prosperous。
+Barrier Gate
+A land and water stronghold protected by walls and fortifications. Residents are self-sufficient and often claim land as their own。
+Post station
+You can use the courier path to travel to various places in the world in areas with relay stations。
+Abandoned station
+You can use the relay routes to travel to various places in areas with relay stations. But this station has been abandoned and cannot function……
 Farmland
-The farmland reclaimed by the local people has its own rules and regulations for each household. Wheat, rice, and other agricultural products grow in the farmland, to name a few.
+The farmland cultivated by the local people has its own regulations for each household. The farmland grows various crops, including wheat and rice, among others。
 Garden
-This place is surrounded by mountains and water, with infinite scenery, flat forests and indifference, and flowing water, all of which form a wilderness of their own.
+This place is nestled by the mountains and by the water, with limitless scenery; the trees are sparse, and the water flows gently, all creating a unique rustic charm。
 Stone Forest
-Here the rocks are in a continuous flow, there are a thousand shapes and forms, vertical and horizontal into a forest. There is no grass or trees in the stone forest, only gold and stones everywhere.
-Mulberry Garden
-A small garden where local people grow mulberry trees, which are lined up side by side in rows, with a hut for raising silkworms in between.
-Medicine Garden
-The herb gardens cultivated by the local people are full of herbs that grow naturally and can be picked by those who need them urgently.
+The mountains and rocks here are continuous and varied, forming a forest in all directions. There are no grass or trees in the stone forest, only gold and stone scattered everywhere。
+Mulberry garden
+The local people plant mulberry trees in small gardens, where the mulberry trees stand tall and are arranged in rows, with a small shed for raising silkworms in between。
+Pharmaceutical Garden
+The herbal gardens cultivated by local people have a variety of herbs growing naturally, and those in urgent need can pick them themselves。
 Yushan
-This place is connected to the stone peaks, jade everywhere, the mountain is always the light of China. There are many mining caves in the jade mountain, or hide strange treasures.
+The stone peaks are connected here, and jade is everywhere; the mountain is bathed in light all year round. There are often mines in the jade mountain, which may contain rare treasures。
 Mountain
-This mountain range is continuous, undulating, and the peak towers into the clouds and sky. Grass and trees in the mountains are thin, and boulders and ore are predominant.
-Mountains
-This area is connected to the mountains, the mountains undulate like a vein, across the land. The climate in the mountains is very variable, and people are rare.
+The mountains here are continuous and undulating, with peaks soaring into the sky. The vegetation in the mountains is sparse, with many large rocks and mineral soil。
+mountain range
+The mountains here are interconnected, with their peaks and valleys rising and falling like veins, stretching across the land. The climate in the mountain range is variable, and human footprints are rare。
 Canyon
-The mountains on both sides of the river are sandwiched by the water, and the walls of the river are rolled. The canyon is rich in plants, perhaps growing some hard to see plants.
-Natural hazards
-Fear of the way the wind and rocks, high unclimbable, the birds are difficult to cross, the monkeys are difficult to climb, so called the sky danger. Heavenly danger mountain range stretches high, the terrain is difficult and strange, it is difficult for ordinary people to cross.
-Hilly
-The mounds here are undulating, winding and gentle, with rugged roads. There are some fruit trees and rice growing in the mounds, which look vibrant.
-Highlands
-A mound covering a vast area and more than 100 feet high, with winding terrain and rugged roads. Some common shrubs and flowers grow on the high ground, and sometimes animals such as hares and goats can be seen on it.
-Wilderness
-The plain terrain is open and flat, endless, with many flowers and plants growing on it, and there are views to be seen in all seasons.
+Mountains on both sides stand by the water, towering thousands of meters high, with rivers rolling by. In the canyon, the vegetation is lush, perhaps harboring some rare plants。
+Tianxian
+The path is fraught with steep cliffs, towering and unscalable, while flying birds find it hard to cross and monkeys find it difficult to climb, hence it is called a natural barrier. The mountain ridges stretch high and steep, and the terrain is perilous and extraordinary, making it difficult for ordinary people to surpass。
+Hills
+The earth mounds here are undulating, winding gently, and the road is rugged and uneven. Some fruit trees and rice grow among the hills, looking vibrant and full of life。
+Highland
+A vast earth mound that rises over a hundred feet tall, with a winding terrain and rugged paths. The high ground is home to some common shrubs and flowers, and sometimes one can see animals like wild rabbits and goats on it。
+Plains
+The open plains are vast and flat, stretching as far as the eye can see, and are filled with many flowers and grasses, providing beautiful scenery in every season。
 Plain
-The plains cover a vast area, boundless, low and flat, with an open view. Its fertile soil is conducive to the growth of all things.
+The plains cover a vast area, boundless and flat, with an open landscape. The soil is fertile, conducive to the growth of all things。
 Woodland
-The woodland has a wide variety of trees, not only trees, bamboo, shrubs and other trees, but perhaps even rarer woods can be found here.
+The forest contains a wide variety of tree species, including tall trees, bamboo, shrubs, and perhaps even rarer timber。
 Forest
-The forest is vast and endless, with a vast array of trees and grasses, and although there are many fierce beasts and pythons in its depths, there are often rare spiritual plants.
-River Beach
-At the beach winding along the river, occasionally the river raises waves, and the fish and shrimp and jade in the river are carried to the beach by the water waves.
-River Valley
-This place is a green hill sandwiched between the shore, the blue water winding, beautiful scenery, like a paradise. In the river valley, there are not only many plants and animals, but also many rare fish and shrimps can be seen.
-Lake
-The water of the lake is clear and the fish, shrimps and crabs grown in it are very delicious, so there are often people around the lake who come to catch fish and shrimps.
-Jungle
-The place is shaded by giant trees and is impermeable to the wind. Hundreds of beasts lurk in the dense forest, poison stings, ordinary people dare not easily enter.
+The forest is vast and boundless, immense and endless, with towering trees and lush grasses. Although there are often fierce beasts lurking in its depths and snakes wandering about, there are also often rare and precious spiritual plants present。
+riverbank
+On the winding beach by the river, occasional waves rise, and the fish, shrimp, and jade in the river are brought to the shore by the water。
+valley
+The green mountains flank the banks, and the azure water meanders, creating a beautiful landscape that resembles a paradise beyond this world. In the river valley, not only do many plants and animals thrive, but one can often see many rare fish and shrimp。
+Lakes
+The water quality of the lake is clear, and the fish, shrimp, and crabs that grow in it are very delicious, so there are often many people around the lake catching fish and shrimp。
+Dense forest
+The towering trees here provide dense shade, impenetrable by the wind. In the thick forest, numerous beasts lurk, and venomous creatures lie in wait, making it a place that ordinary people do not dare to enter easily。
 Cave
-Naturally formed caves, the terrain is bumpy, undulating canals, access are very difficult, but there may be other caves inside.
+The naturally formed caves have rugged terrain, with undulating passages that make entering and exiting quite difficult; however, there may be another world inside。
 Swamp
-Swamp mud and water sticky, weeds, it is difficult to walk, if you encounter the mud and heavy places, more danger of being trapped in the swamp.
-Wonderland
-Peach and plum on both sides of the shore, falling flowers by the water, the occasional fish jump out, scrambling to eat petals. When you enter this place, you can't feel that your worries are gone and you can only smell the peach fragrance.
-Gorge
-The water of the stream flows into the mountain. The valley is full of moss and vines, so people need to be careful when walking through it.
-Wilderness
-Overgrown place...
-Destroyed Land
-The horrible, abominable place full of blood and ash and basalt...
+The swampy mud is sticky, with weeds growing wildly, making it difficult to walk. If one encounters areas with heavy mud, there is an even greater danger of being trapped in the swamp。
+Peach Blossom Spring
+Peach and plum trees on both sides, fallen blossoms drift on the water, and occasionally fish leap out, competing to snatch the flower petals. One who enters this scene finds all worries fading away, only the scent of peaches remains。
+Valley
+The water from the stream flows into the mountains and rivers. In the valley, stones, moss, and vines are everywhere; one must walk carefully if passing through。
+Wasteland
+Desolate land…
+Damaged plot
+A place filled with blood and ash, a terrifying and loathsome land of dark stones…
 Dark Abyss
-An unfathomable abyss that is extremely hard to travel through.\n\n<color=#red>Attention! Not only does traveling through the Deep Abyss take a lot of time, but it also leads to injuries for everyone who travels through it. You should avoid traveling through it if possible.</color>
-Blocking
+An extremely difficult to cross profound abyss.\\n\\n<color=#red>Warning! Passing through the dark abyss not only requires a significant amount of time but also risks injury to the adventurer. It should be avoided whenever possible.</color>\\n>
+Block
 
 
 
 Scenic Spot 1
 
 Scenic Spot 2
-Scenic Spot 3
-Scenic Spot 4
-Sword Tomb - Weaving of Mo Nyu
-Numerous flying birds of various shapes and colors hovered above the sword mound - Mo female clothes, from time to time issued a sad sound...
-Sword Tomb - Vanquish Evil
-An invisible fury will be all the anger stopped in the sword mound - Fuxie iron dozens of miles around...
-Sword Tomb - Glacial Vassal
-Sword Mound - Great Xuan condensation issued a white light, surrounded by a thick layer of ice and snow has been formed...
-Sword Tomb - Phoenix Cocoon
-Sword Mound - Phoenix cocoon surrounded by dazzling golden light from time to time...
-Sword Tomb - Spirit Smelting
-Sword Mound - Burning God Alchemy outside all the peach trees full of peach blossoms, there are some ghostly blue fire from time to time in the peach blossoms jump...
-Sword Tomb - Draconic Anima
-Sword mound - solving the dragon spirit color tragic white, the bones of some kind of giant things spread inside and outside the sword mound...
-Sword Tomb - Anchorite
-The grass, trees, mountains and rocks near the Sword Mound-Soluble Dust Hidden all appear and disappear, sometimes in the front, sometimes in the back...
-Sword Tomb - Infernal Acerjail
-Sword Mound - Prisoner of the Devil Wood is located in the middle of a fiery red maple forest, and the sound of killing can occasionally be heard from the forest...
-Sword Tomb - Wonderglow
-The sun and moon simultaneously appear above the sword mound - Ghost God Xia, showering the sword mound with a land of luster...
-Thunder Pond
-The White Dragon lurks, divine power spreading, thunder resounding, black clouds drifting with lightning...
-Flood Pond
-The Black Dragon lurks, divine power spreading, poisonous mists and evil vapors, a pervasive miasma covering the heavens...
-Wind Pond
-The Green Dragon lurks, divine power spreading, winds strong as mountain removal, roaring in fury, shaking the heavens...
-Flame Pond
-The Red Dragon lurks, divine power spreading, red flames burning the clouds, the heat haze steaming the sky...
-Sand Pond
-The Yellow Dragon lurks, divine power spreading, sands churning like waves, a yellow mist covering the sky...
+Scenic spots 3\n
+Scenic Spots 4
+Jianzhong: Mo Nü's Clothes
+Numerous birds of various shapes and colors are circling above the Sword Tomb and Mo Nuyi, occasionally emitting mournful cries……
+Blade Tomb: Lurking Evil Iron
+A formless hostile aura has blocked all vitality from within several dozen miles of the Sword Tomb: Fuxie Iron……
+Sword Tomb · Great Profound Condensation
+The Sword Tomb · The Great Mystery emitted a white light, and thick ice and snow had already formed all around……
+Sword Tomb · Phoenix Cocoon
+The area around the Sword Tomb · Phoenix Cocoon occasionally sparkled with dazzling golden light……
+Sword Tomb: God-Consuming Alchemy
+The Sword Tomb·The God-Burning Refinery is filled with peach trees in full bloom, and some幽蓝-colored异火 occasionally dances among the peach blossoms……
+Sword Tomb: 解龙魄
+Sword Tomb · The dragon's soul is pale, the skeleton of some giant creature is spread throughout the inside and outside of the Sword Tomb……
+Jianzhong · Rongchen Yin
+The grass, trees, and stones near the Sword Tomb and the Hidden Dust appear and disappear, sometimes in front, sometimes behind……
+Sword Tomb · Prison Demon Wood
+The Sword Tomb · Prison Demon Wood is located in a fiery red maple forest, where the sounds of battle can occasionally be heard from within the woods……
+Sword Tomb · Ghost God Cloud
+The sun and moon appeared simultaneously above the Sword Tomb · Demon God Xia, shedding a myriad of brilliant lights upon the Sword Tomb……
+Leize
+The white dragon coils, divine power spreads, thunder rumbles heavily, black clouds drift with lightning……
+Hongze
+The black dragon hovers, divine power spreads, toxic floods and malevolent mist, miasma fills the sky……
+Wind and Grace
+The Azure Dragon is coiled, divine power spreads, the wind pulls mountains, roaring and deafening the sky……
+Yan Ze
+The red dragon coils, divine power spreads, red flames burn the clouds, and the fiery atmosphere steams the air……
+Shaze
+The Yellow Dragon looms, divine power spreads, sand rolls like waves, yellow mist stretches across the sky……

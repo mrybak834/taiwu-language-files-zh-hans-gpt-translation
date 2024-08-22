@@ -1,4 +1,4 @@
-Normal
-Hard
-Harder
-Deadly
+Ordinary
+Difficulty
+Extremely difficult\n
+Must die

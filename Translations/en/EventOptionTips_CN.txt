@@ -1,46 +1,46 @@
-Amount of Taiwu's teammates is less than {0}
-Amount of Taiwu's teammates is not less than {0}
-Time required: {0}
-{0} is not Taiwu's teammate
-Cooldown after using: {0} months
-Favor required: {0}
-{0}'s Regional Favor is at: {1}%
-Money required: {0}
-Prestige required: {0}
-Taiwu has less than {0} sworn siblings
-When the secret news happened, {0}'s Fame was positive.
-When the secret news happened, {0}'s Fame was negative.
-When the secret news happened, {0} and {1} were close
-When the secret news happened, {0} and {1} were lovers
-When the secret news happened, {0} was a victim
-Taiwu's standpoint is {0}
-{0}'s Regional Favor is at: {1}%
-Experience required: {0}
-{0}'s purity is not lower than Taiwu's
-Amount of Taiwu's teammates is less than {0}
-{0} isn't a Taiwu villager
-{0} needs to be a member of the sect
-Aspiration's Seniority is high enough to use aspiration's skill
-Aspiration's Seniority has to reach {0}'s identity to use this skill
-{0} doesn't Despise Taiwu
-Taiwu has the resources needed to use aspiration's skill and it's not on cooldown
-{0} needs to be Enthralled by Xiangshu
-Taiwu needs to have {0}
-{0} Qi Disorder needs to be lower than {1}
-Taiwu's Qi Disorder needs to be lower than {0}
-{0}'s standpoint has to be {1} or {2}
-Favor required: {0}
-{0} cannot be a monk
-{0} must be a city lord
-{0} can't be Possessed or Enthralled by Xiangshu
-{0} can't be an owner of a Legendary Manual
-{0} can't be affected by an effect that temporarily changes their standpoint
-Experience required: {0}
-{0} has to be either injured, poisoned, or have a Qi Disorder
-{0} needs to be an adult
-{0} needs to have a free consumption slot
-Taiwu needs to have a free consumption slot
-Obtained support of upper three tiers of Shaolin
-Taiwu's {0} is not less than {1}
-Cooldown after using: {0} months
-This Jiao can be tamed only once per month
+The number of Taiwu companions is less than {0}\n}
+The number of Taiwu companions is not less than {0}\\n}
+The action power available to Taiwu is not less than {0}\\n}
+{0} does not join the same path as Taiwu\\n
+You still need to wait until the {0} season to use it\\n
+Reach or exceed {0} in mutual affection}
+{The regional benefit of {0} is not less than {1}%\\n}%
+The amount of silver in Taiwu is not less than {0}\\n}
+The prestige of Taiwu is no less than {0}\\n}
+The number of sworn brothers in Taiwu is less than {0}\\n}
+The reputation of {0} was just at the time the secret occurred
+The reputation of {0} was tarnished when the secret incident occurred
+When the secret happened, {0} was a relative of {1} \\n
+When the secret incident occurred, {0} was {1}'s lover
+The secret incident occurred when {0} was the victim
+The stance of Taiwu in dealing with the world is {0}\\n}
+{The regional merits of {0} are not less than {1}%\\n}%
+Taiwu's experience is not less than {0}\\n}
+{The purity of {0} is not lower than Taiwu
+The number of Taiwu companions is less than {0}\\n}
+{0} is not for the villagers of Taiwu
+{0} needs to support the people in the sect\\n
+The aspirations of Taiwu have reached the qualifications required to use that aspirational ability
+The ambition of Taiwu has met the requirements for using this ambition ability on {0
+{0} cannot hate Taiwu\\n
+Tai Wu has the resources to use this aspiration ability and the aspiration ability is not on cooldown
+{0} needs to bear the burden of the person who has fallen into evil
+Taiwu needs to carry {0}\n}
+{0} internal breath disorder needs to be below {1}\\n}
+The internal breath disorder of Taiwu needs to be below {0}\\n}
+{0}'s way of dealing with the world needs to accommodate {1} or {2}\\n}
+Reach or exceed the goodwill towards the other party {0}\\n}
+{0} cannot be a monk\\n
+{0} must be the city lord\\n
+{0} cannot be a person who enters evil through the pivot or enters magic through the pivot\\n
+{0} cannot be someone who becomes obsessed with strange books and falls into evil or madness
+{0} cannot be temporarily affected by special effects in their stance on life
+The training of Taiwu is no less than {0}\\n}
+{0} requires injury or illness not yet healed, suffering from poisoning or internal disturbance
+{0} requires to be an adult\n
+{0} needs a medication administration slot\\n
+Taiwu needs a food and drink slot
+Has obtained the support of senior figures from the Shaolin sect
+The {0} of Taiwu is not less than {1}\\n}
+You still need to wait for season {0} to use it\\n
+This dragon can only be tamed once a month

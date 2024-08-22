@@ -1,139 +1,139 @@
-Metal·Devil-subduing Vajra
-"Vajra subdues devils, cleaning pagodas of their filth".\n\nThe power limit of "Metal" techniques is increased by 30%.\nThe power limit of "Wood" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
-"Vajra subdues devils, cleaning pagodas of their filth"
-The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Wood·Purple Clouds From East
-"Purple Clouds come from East, eliminating evil spirits".\n\nThe power limit of "Wood" techniques is increased by 30%.\nThe power limit of "Earth" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
-"Purple Clouds come from East, eliminating evil spirits"
-The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Water·Ice-Cold Yin
-"Yin is Ice-Cold, Kun Hides in the Northern Sea".\n\nThe power limit of "Water" techniques is increased by 30%.\nThe power limit of "Fire" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
-"Yin is Ice-Cold, Kun Hides in the Northern Sea"
-The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Fire·Pure Yang Flame
-"Pure Yang is like a flame, innocent children have no doubts".\n\nThe power limit of "Fire" techniques is increased by 30%.\nThe power limit of "Metal" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
-"Pure Yang is like a flame, innocent children have no doubts"
-The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Earth·Return to the Origin
-"Return to the origin to find inner strength, and you'll be able to carry the sky."\n\nThe power limit of "Earth" techniques is increased by 30%.\nThe power limit of "Water" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
-"Return to the origin to find inner strength, and you'll be able to carry the sky"
-The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 30%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Hunyuan·Man and Heaven as One
-"Man and Heaven as One, Origin of all Qi"\n\nUsage requirements of all techniques of the user are reduced by 20%.
-"Man and Heaven as One, Origin of all Qi"
-All techniques' <color=#brightblue>usage requirements are reduced by 20%</color>.
-Metal·Shaped Gold
-"Water supports Metal, making it shaped."\n\nThe power limit of "Metal" and "Water" techniques is increased by 20%.\nThe power limit of "Wood" and "Fire" techniques is reduced by 20%.
-"Water supports Metal, making it shaped"
-The power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>
-Metal·Blunted Edge
-"When strong Metal meets Water, its edge will become blunt".\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Metal meets Water, its edge will become blunt"
-The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Metal·Gold Deficiency
-"When strong Wood meets Metal, it certainly will be broken."\n\nThe power limit of "Metal" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Wood meets Metal, it certainly will be broken"
-The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Metal·Chopped Wood
-"When weak Wood meets Metal, it will be cut and broken".\n\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When weak Wood meets Metal, it will be cut and broken"
-The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Metal·Ore Veins
-"Earth generates Metal, allowing it to become a mound of diffused ore veins".\n\nThe power limit of "Metal" and "Earth" techniques is increased by 20%.\nThe power limit of "Wood" and "Water" techniques is reduced by 20%.
-"Earth generates Metal, allowing it to become a mound of diffused ore veins"
-The power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>
-Metal·Buried in the Ground
-"When strong Metal meets Earth, it's preciousness will be hidden."\n\nThe power limit of "Metal" techniques is increased by 20%.\nThe power limit of "Wood" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Metal meets Earth, it's preciousness will be hidden"
-Wood·Sprouting Trees
-"Fire supports Wood, allowing sprouting trees to be strong."\n\nThe power limit of "Wood" and "Fire" techniques is increased by 20%.\nThe power limit of "Earth" and "Metal" techniques is reduced by 20%.
-"Fire supports Wood, allowing sprouting trees to be strong"
-The power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>
-Wood·Quenched Woods
-"When strong Wood meets Fire, it will defeat it through stubbornness".\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Wood meets Fire, it will defeat it through stubbornness"
-The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Wood·Impenetrable Soil
-"When strong Earth meets Wood, it will be hard for Wood to thrive".\n\nThe power limit of "Wood" techniques is <color=#brightred>reduced by 30%</color>.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Earth meets Wood, it will be hard for Wood to thrive"
-The power limit of <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Wood·Sapped Earth
-"When weak Earth meets Wood, it will be sapped of nutrients."\n\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When weak Earth meets Wood, it will be sapped of nutrients"
-The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Wood·Prosperous Forest
-"Water generates Wood, making it into a prosperous forest."\n\nThe power limit of "Wood" and "Water" techniques is increased by 20%.\nThe power limit of "Earth" and "Fire" techniques is reduced by 20%.
-"Water generates Wood, making it into a prosperous forest"
-The power limit of <color=#fiveelementtype_zixia>"Wood"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>
-Wood·Moistened Branches
-"When strong Wood meets Water, its branches will be moistened."\n\nThe power limit of "Wood" techniques is increased by 20%.\nThe power limit of "Earth" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Wood meets Water, its branches will be moistened"
-Water·Clean Lake
-"Wood supports Water, improving its quality."\n\nThe power limit of "Water" and "Wood" techniques is increased by 20%.\nThe power limit of "Fire" and "Earth" techniques is reduced by 20%.
-"Wood supports Water, improving its quality"
-The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>
-Water·Drained Water
-"When strong Water meets Wood, it will be drained."\n\nThe power limit of "Water" techniques is increased by 20%.\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Water meets Wood, it will be drained"
-The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Water·Boiling Water
-"When strong Fire meets Water, it will be boiled."\n\nThe power limit of "Water" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Fire meets Water, it will be boiled"
-The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Water·Drowned Flame
-"When weak Fire meets Water, it will be drowned out."\n\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When weak Fire meets Water, it will be drowned out"
-The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Water·Flooding Rivers
-"Metal generates Water, allowing rivers to thrive."\n\nThe power limit of "Water" and "Metal" techniques is increased by 20%.\nThe power limit of "Fire" and "Wood" techniques is reduced by 20%.
-"Metal generates Water, allowing rivers to thrive"
-The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>
-Water·Condensed Droplets
-"When strong Water meets Metal, it will start condensing on it."\n\nThe power limit of "Water" techniques is increased by 20%.\nThe power limit of "Fire" techniques is reduced by 20%.\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Water meets Metal, it will start condensing on it"
-Fire·Warm Earth
-"Earth supports Fire, allowing it to burn longer."\n\nThe power limit of "Fire" and "Earth" techniques is increased by 20%.\nThe power limit of "Metal" and "Water" techniques is reduced by 20%.
-"Earth supports Fire, allowing it to burn longer"
-The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>
-Fire·Weak Flame
-"When strong Fire meets Earth, its flames will be weakened."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Fire meets Earth, its flames will be weakened"
-The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Fire·Extinguished Fire
-"When strong Metal meets Fire, it will be extinguished."\n\nThe power limit of "Fire" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Fire" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Metal meets Fire, it will be extinguished"
-The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_chunyang>"Fire"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Fire·Melting Metal
-"When weak Metal meets Fire, it will be melted."\n\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Metal" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When weak Metal meets Fire, it will be melted"
-The power limit of <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_jingang>"Metal"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Fire·Intense Tree Fire
-"Wood generates Fire, making a fierce fire."\n\nThe power limit of "Fire" and "Wood" techniques is increased by 20%.\nThe power limit of "Metal" and "Earth" techniques is reduced by 20%.
-"Wood generates Fire, making a fierce fire"
-The power limit of <color=#fiveelementtype_chunyang>"Fire"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_jingang>"Metal"</color> and <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 20%</color>
-Fire·Damp Fire Starter
-"When strong Fire meets Wood, it will waste its energy."\n\nThe power limit of "Fire" techniques is increased by 20%.\nThe power limit of "Metal" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Fire meets Wood, it will waste its energy"
-Earth·Solid Earth
-"Metal supports Earth, making it firm and strong."\n\nThe power limit of "Earth" and "Metal" techniques is increased by 20%.\nThe power limit of "Water" and "Wood" techniques is reduced by 20%.
-"Metal supports Earth, making it firm and strong"
-The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_zixia>"Wood"</color> techniques <color=#brightred>is reduced by 20%</color>
-Earth·Rocky Ground
-"When strong Earth meets Metal, it will be obstructed."\n\nThe power limit of "Earth" techniques is increased by 20%.\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Earth meets Metal, it will be obstructed"
-The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_zixia>"Wood"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Earth·Rushing River
-"When strong Water meets Earth, it will wash it away."\n\nThe power limit of "Earth" techniques is <color=#brightred>reduced by 30%.</color>\nWhen using "Earth" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Water meets Earth, it will wash it away"
-The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> techniques <color=#brightred>is reduced by 30%</color>;\n<color=#brightred>When using <color=#fiveelementtype_guiyuan>"Earth"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Earth·Silted Stream
-"When weak Water meets Earth, it will be silted up."\n\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Water" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When weak Water meets Earth, it will be silted up"
-The power limit of <color=#fiveelementtype_xuanyin>"Water"</color> techniques <color=#brightred>is reduced by 20%</color>;\n<color=#brightred>When using <color=#fiveelementtype_xuanyin>"Water"</color> techniques, you will suffer backlash damage and gain Qi Disorder.</color>
-Earth·Rich Soil
-"Fire generates Earth, allowing it to thrive."\n\nThe power limit of "Earth" and "Fire" techniques is increased by 20%.\nThe power limit of "Water" and "Metal" techniques is reduced by 20%.
-"Fire generates Earth, allowing it to thrive"
-The power limit of <color=#fiveelementtype_guiyuan>"Earth"</color> and <color=#fiveelementtype_chunyang>"Fire"</color> techniques <color=#brightblue>is increased by 20%</color>;\nThe power limit of <color=#fiveelementtype_xuanyin>"Water"</color> and <color=#fiveelementtype_jingang>"Metal"</color> techniques <color=#brightred>is reduced by 20%</color>
-Earth·Fired Clay
-"When strong Earth meets Fire, it will be refined."\n\nThe power limit of "Earth" techniques is increased by 20%.\nThe power limit of "Water" techniques is reduced by 20%.\nWhen using "Wood" techniques, you will suffer backlash damage and gain Qi Disorder.
-"When strong Earth meets Fire, it will be refined"
+Vajra · Vajra Subduing Demons
+“Vajra subdues demons, the building reaches to break filth.” \n\nThe power limit of "Vajra" type techniques increases by 30%.  \nThe power limit of "Purple Glow" type techniques <color=#brightred>decreases by 30%</color>.  \nEach time "Pure Yang" type techniques are used, there will be backlash damage and internal energy disturbance。
+“Vajra Subduing Demons, the Tower Breaks Filth”。
+<The maximum power limit of the <color=#fiveelementtype_jingang>"Vajra"</color> type of skill is <color=#brightblue>increased by 30%</color>.\\nThe maximum power limit of the <color=#fiveelementtype_zixia>"Purple Dawn"</color> type of skill is <color=#brightred>decreased by 30%</color>.\\nEach time the <color=#fiveelementtype_chunyang>"Pure Yang"</color> type of skill is used, it will <color=#brightred>suffer backlash damage and internal energy disruption</color>.\\n>。
+Purple haze · Purple aura comes from the east
+“Purple Qi comes from the East, overcoming seven catastrophes." \n\n"The power limit of 'Purple Clouds' type techniques is increased by 30%. \nThe power limit of 'Returning to the Source' type techniques is <color=#brightred>decreased by 30%</color>. \nEvery time 'Vajra' type techniques are used, there will be backlash damage and internal energy disturbance。
+“Purple energy comes from the east, seven elements overcome adversity”。
+<The power limit of the <color=#fiveelementtype_zixia>„Purple Cloud”</color> type of martial arts is <color=#brightblue>increased by 30%</color>.\\nThe power limit of the <color=#fiveelementtype_guiyuan>„Returning to Origin”</color> type of martial arts is <color=#brightred>decreased by 30%</color>.\\nEach time the <color=#fiveelementtype_jingang>„Vajra”</color> type of martial arts is used, it will <color=#brightred>suffer backlash damage and internal energy disturbance</color>.\\n>。
+Profound Yin · Profound Yin Ice Cold
+“Dark Yin Ice Cold, Kun Hides in the Northern Abyss.” \n\nThe power limit of 'Dark Yin' type methods increases by 30%. \nThe power limit of 'Pure Yang' type methods <color=#brightred>decreases by 30%</color>. \nEach time 'Return to Origin' type methods are used, there will be backlash damage and internal energy disturbance。
+“Profound Yin, icy cold, the Kun hides in the Northern Sea”。
+<The power limit of "<color=#fiveelementtype_xuanyin>‘Xuan Yin’</color> type techniques is <color=#brightblue>increased by 30%</color>.\\nThe power limit of "<color=#fiveelementtype_chunyang>‘Chun Yang’</color> type techniques is <color=#brightred>decreased by 30%</color>.\\nEach use of "<color=#fiveelementtype_guiyuan>‘Gui Yuan’</color> type techniques will <color=#brightred>suffer backlash damage and internal energy disorder</color>.\\n>。
+Pure Yang · Pure Yang Fiery Fire
+“Pure Yang blazing fire, the innocent child is not confused."  \n\n"The power limit of 'Pure Yang' type skills is increased by 30%.  \nThe power limit of 'Vajra' type skills is <color=#brightred>decreased by 30%</color>.  \nEvery time 'Profound Yin' type skills are used, there will be backlash damage and internal energy disturbance。
+“Pure Yang blazing fire, the innocent child remains unconfused”。
+<The power limit of the "<color=#fiveelementtype_chunyang>Pure Yang</color>" type techniques is <color=#brightblue>increased by 30%</color>.\\nThe power limit of the "<color=#fiveelementtype_jingang>Diamond</color>" type techniques is <color=#brightred>decreased by 30%</color>.\\nEvery time <color=#fiveelementtype_xuanyin>"Xuan Yin"</color> type techniques are used, there will be <color=#brightred>backlash damage and internal energy disturbance</color>.\\n>。
+Return to the Origin · Transformation of the Essence
+“Returning to the origin, bearing heaven and supporting the earth.”\\n\\nThe power limit of 'Returning to Origin' related techniques is increased by 30%.\\nThe power limit of 'Mysterious Yin' related techniques is <color=#brightred>reduced by 30%</color>.\\nEach time 'Purple Mist' related techniques are used, backlash damage and internal energy disturbance will occur。
+“Return to the essence, supporting heaven and carrying the earth”。
+<The power limit of <color=#fiveelementtype_guiyuan>“Guiyuan”</color> type skills is <color=#brightblue>increased by 30%</color>.\\nThe power limit of <color=#fiveelementtype_xuanyin>“Xuanyin”</color> type skills is <color=#brightred>decreased by 30%</color>.\\nEach use of <color=#fiveelementtype_zixia>“Zixia”</color> type skills will <color=#brightred>result in backlash damage and internal energy disorder</color>.\\n>。
+Primordial Unity: The Oneness of Heaven and Man
+“Heaven and humanity are one, the primordial chaos is unified.’ \n\nThe usage requirement of all techniques is reduced by 20%。
+“Heaven and humanity are one, and the primordially unified qi”。
+All skill usage requirements are reduced by 20>。
+Vajra · Gold sinks, then lives
+“More water, more gold sinks, and shape is maintained." \n\n"The power cap of 'Vajra' and 'Dark Yin' type techniques is increased by 20%. The power cap of 'Purple Clouds' and 'Pure Yang' type techniques is reduced by 20%。
+“Too much water can sink gold, only by being firm can one survive”。
+<The power limit of 'Vajra' and 'Profound Yin' type skills is increased by 20%. The power limit of 'Purple Mist' and 'Pure Yang' type skills is decreased by 20>。
+Vajra: To dull the edge is to strengthen
+“Strong metal needs water to temper its edge.’ \\n\\nThe power limit of 'Diamond' class techniques increases by 20%. \\nThe power limit of 'Purple Cloud' class techniques decreases by 20%. \\nEach use of 'Pure Yang' class techniques will result in backlash damage and internal energy turbulence。
+“Strong gold needs water to temper its edge”。
+<The power limit of the "<color=#fiveelementtype_jingang>Diamond</color>" type skills is <color=#brightblue>increased by 20%</color>.\\nThe power limit of the "<color=#fiveelementtype_zixia>Purple Clouds</color>" type skills is <color=#brightred>decreased by 20%</color>.\\nEach time the "<color=#fiveelementtype_chunyang>Pure Yang</color>" type skills are used, there will be <color=#brightred>backlash damage and internal energy disorder</color>.\\n>。
+Vajra: Lacking in gold, it becomes weak
+“Too much wood and a deficiency of metal will inevitably lead to weakness." \n\nThe power limit of "Vajra" type methods is <color=#brightred>reduced by 30%</color>. \n\nEvery time a "Vajra" type method is used, backlash damage and internal energy disorder will occur。
+“Too much wood and a lack of metal will surely lead to weakness”。
+<The power limit of the "Vajra" type techniques is reduced by 30%. Each time a "Vajra" type technique is used, it will suffer backlash damage and internal energy disorder>。
+Vajra - cut and it will break
+“Wood meets metal, it must be cut down.’  \nThe upper limit of the power for 'Purple Dawn' type skills is reduced by 20%.  \nEach time a 'Purple Dawn' type skill is used, it will incur backlash damage and internal energy disorder。
+“Wood that is weak encounters metal, and it will surely be cut”。
+<The power limit of the <color=#fiveelementtype_zixia>"Purple Mist"</color> type of martial arts is <color=#brightred>reduced by 20%</color>.\\nEach time the <color=#fiveelementtype_zixia>"Purple Mist"</color> type of martial arts is used, it will <color=#brightred>suffer backlash damage and internal energy disturbance</color>.\\n>。
+Vajra: The more earth there is, the more it multiplies
+“More earth produces more gold, forming mounds and cultivating veins." \n\n"The power ceiling of 'Diamond' and 'Return to Origin' type techniques is increased by 20%. The power ceiling of 'Purple Cloud' and 'Mysterious Yin' type techniques is decreased by 20%。
+“More soil produces gold, forming hills and extending veins”。
+<The power limit of "Vajra" and "Return to Origin" type skills is increased by 20%.  \nThe power limit of "Purple Mist" and "Mystic Yin" type skills is decreased by 20>。
+Diamond · Treasures of the Earth
+“Jin de tu cang, qi gui zi yun”. \n\nThe power limit of 'Vajra' class methods is increased by 20%. \nThe power limit of 'Purple Cloud' class methods is decreased by 20%. \nEach time 'Pure Yang' class methods are used, backlash damage and internal energy disturbance will be suffered。
+“Gold and earth hidden, their value is inherent”。
+Purple Haze: Burning Wood Results in Intensity
+“Too much fire will burn the wood, only then will its intensity be revealed."  \n\n"The power limit of 'Purple Twilight' and 'Pure Yang' type skills is increased by 20%.  \nThe power limit of 'Return to Origin' and 'Vajra' type skills is decreased by 20%。
+“The more the fire, the more the wood burns, which shows its intensity”。
+<The power limit of the 'Purple Mist' and 'Pure Yang' type techniques is increased by 20%. The power limit of the 'Returning to Origin' and 'Vajra' type techniques is decreased by 20>。
+Purple Cloud: Transforming the Stubborn
+“Strong wood must receive fire to transform its stubbornness."  \n"The power ceiling of 'Purple Twilight' type techniques is increased by 20%.  \nThe power ceiling of 'Returning to Origin' type techniques is reduced by 20%.  \nEach use of 'Diamond' type techniques will incur backlash damage and internal energy disorder。
+“Strong wood needs fire to transform its stubbornness”。
+<The power ceiling of the "<color=#fiveelementtype_zixia>Zi Xia</color>" type of methods is increased by <color=#brightblue>20%</color>.\\nThe power ceiling of the "<color=#fiveelementtype_guiyuan>Gui Yuan</color>" type of methods is decreased by <color=#brightred>20%</color>.\\nEach use of the "<color=#fiveelementtype_jingang>Jin Gang</color>" type of methods will <color=#brightred>receive backlash damage and internal energy disruption</color>.\\n>。
+Purple Clouds · Broken Wood Loses
+“With too much earth and broken wood, there must be damage." \n\nThe power limit of "Purple Cloud" type techniques is <color=#brightred>reduced by 30%</color>. \n\nEach use of "Purple Cloud" type techniques will incur backlash damage and internal energy disturbance。
+“The more soil, the more wood breaks, there will surely be harm”。
+<The power limit of the <color=#fiveelementtype_zixia>“Purple Mist”</color> type of skill is <color=#brightred>reduced by 30%</color>.\\nEach time the <color=#fiveelementtype_zixia>“Purple Mist”</color> type of skill is used, it will <color=#brightred>suffer backlash damage and internal energy disturbance</color>.\\n>。
+Purple Mist · Falling deeply hurts
+“Those with weak earth with wood will surely collapse."  \n"The upper limit of the power of 'Returning to Origin' type techniques is reduced by 20%.  \nEach time 'Returning to Origin' type techniques are used, there will be backlash damage and internal energy disruption。
+“When earth weakly encounters wood, it will surely collapse”。
+<The upper limit of the power of <color=#fiveelementtype_guiyuan>“Return to Origin”</color> type techniques is <color=#brightred>reduced by 20%</color>.\\nEach time <color=#fiveelementtype_guiyuan>“Return to Origin”</color> type techniques are used, there will be <color=#brightred>recoil damage and internal energy disturbance</color>.\\n>。
+Purple Mist · Water gathers when it flows
+“Water nourishes wood, and gathering wood forms a forest." \n\nThe power cap of "Purple Cloud" and "Mysterious Yin" type techniques is increased by 20%.  \nThe power cap of "Returning to Origin" and "Pure Yang" type techniques is decreased by 20%。
+“Water nourishes wood, and gathering wood forms a forest”。
+<The power limit of 'Purple Twilight' and 'Profound Yin' type techniques is increased by 20%.\\nThe power limit of 'Returning to Origin' and 'Pure Yang' type techniques is decreased by 20%.\\n>。
+Purple Mist · Fine and Moist for Longevity
+“Without water, the branches can only grow straight."  \n\nThe power limit of "Zixia" type techniques is increased by 20%.  \nThe power limit of "Guiyuan" type techniques is decreased by 20%.  \nEach time "Vajra" type techniques are used, there will be backlash damage and internal energy disturbance。
+“Without moisture, the branches cannot grow”。
+Xuan Yin: Water contracts and brings life
+“More wood, less water, and one can live its essence." \n\nThe power ceiling of "Xuan Yin" and "Zi Xia" type techniques is increased by 20%. The power ceiling of "Chun Yang" and "Gui Yuan" type techniques is decreased by 20%。
+“The more wood, the more water shrinks, and thus the quality lives”。
+<The power limit of "Xuanyin" and "Zixia" type techniques is increased by 20%.  \nThe power limit of "Chunyang" and "Guiyuan" type techniques is decreased by 20>。
+Profound Yin · Release the Qi and it will flow
+“Strong water requires wood to unleash its power.’\\n\\nThe upper limit of the power for ‘Xuan Yin’ type techniques is increased by 20%.\\nThe upper limit of the power for ‘Pure Yang’ type techniques is decreased by 20%.\\nEach time ‘Return to Origin’ type techniques are used, there will be backlash damage and internal energy disorder。
+“Strong water requires wood to channel its force”。
+<The power limit of "Xuan Yin" type techniques is increased by 20%.  \nThe power limit of "Chun Yang" type techniques is decreased by 20%.  \nEach time "Gui Yuan" type techniques are used, there will be backlash damage and internal energy disturbance>。
+Profound Yin · Water dries and disappears
+“Too much fire and not enough water will surely lead to dissolution." \n\nThe power limit of "Xuan Yin" type techniques is <color=#brightred>reduced by 30%</color>. \n\nEach use of "Xuan Yin" type techniques will incur backlash damage and internal energy disruption。
+“Where there is much fire and little water, it will surely lead to dissolution”。
+<The power limit of the "<color=#fiveelementtype_xuanyin>‘Xuan Yin’</color>" type of martial arts is <color=#brightred>reduced by 30%</color>. Each time the <color=#fiveelementtype_xuanyin>‘Xuan Yin’</color> type of martial arts is used, it will <color=#brightred>suffer backlash damage and internal energy disturbance</color>。
+Yin of Dark: When extinguished, there is nothing
+“When fire meets water, it will definitely be extinguished.’\\n\\nThe power limit of ‘pure Yang’ type techniques is reduced by 20%.\\nEach use of ‘pure Yang’ type techniques will incur backlash damage and internal energy disruption。
+“When fire meets water, it will surely be extinguished”。
+<The upper limit of the power of <color=#fiveelementtype_chunyang>“Pure Yang”</color> type martial arts is <color=#brightred>reduced by 20%</color>.\\nEach time <color=#fiveelementtype_chunyang>“Pure Yang”</color> type martial arts is used, it will <color=#brightred>suffer backlash damage and internal energy disturbance</color>.\\n>。
+Xuan Yin · More Gold Means Accumulation
+“When gold gathers, water accumulates; rivers converge.’  \n\nThe power limit of ‘Xuan Yin’ and ‘Jingang’ type methods is increased by 20%.  \nThe power limit of ‘Chun Yang’ and ‘Zi Xia’ type methods is decreased by 20%。
+“Where there is more gold and water accumulates, rivers and lakes converge”。
+<The power limit of 'Xuan Yin' and 'Jingang' type techniques is increased by 20%.\\nThe power limit of 'Chun Yang' and 'Zi Xia' type techniques is decreased by 20%.\\n>。
+Xuan Yin · When encountering gold, it凝
+“Water requires the assistance of gold to transform energy into form."  \nThe power limit of "Xuan Yin" type methods is increased by 20%.  \nThe power limit of "Pure Yang" type methods is reduced by 20%.  \nEach use of "Return to Origin" type methods will incur backlash damage and disturb internal energy。
+“Water gains support from gold, transforming gas into form”。
+Pure Yang · When Fire Darkens, Life Extends
+“Too much earth and the fire dims, one prolongs their lifespan." \n\nThe power ceiling of "Pure Yang" and "Returning to Origin" type techniques is increased by 20%. \n\nThe power ceiling of "Vajra" and "Profound Yin" type techniques is decreased by 20%。
+“Too much earth and dim fire, only then can it prolong its life”。
+<The power limit of "Pure Yang" and "Returning to Origin" type techniques is increased by 20%.  \nThe power limit of "Diamond" and "Mystic Yin" type techniques is reduced by 20>。
+Pure Yang · Stopping the Flame Illuminates
+“Strong fire needs earth to stop its flame." \n\nThe power cap of "Pure Yang" type techniques is increased by 20%.  \nThe power cap of "Vajra" type techniques is decreased by 20%.  \nEach time "Profound Yin" type techniques are used, there will be backlash damage and internal energy disorder。
+“Only with strong fire can the earth stop its flames”。
+<The power limit of "Pure Yang" type techniques is increased by 20%.  \nThe power limit of "Vajra" type techniques is reduced by 20%.  \nEach time the "Mysterious Yin" type technique is used, it will suffer backlash damage and internal energy disturbance>。
+Pure Yang: The fire extinguishes and then perishes
+“With too much gold, the fire will die, leading to destruction." \n\nThe power limit of "Pure Yang" type techniques is <color=#brightred>reduced by 30%</color>. \n\nEach time "Pure Yang" type techniques are used, there will be backlash damage and internal energy disturbance。
+“When gold is abundant and fire is extinguished, it will surely lead to destruction”。
+<The power cap of <color=#fiveelementtype_chunyang>“Pure Yang”</color> type techniques is <color=#brightred>reduced by 30%</color>.\\nEach time a <color=#fiveelementtype_chunyang>“Pure Yang”</color> type technique is used, it will <color=#brightred>suffer backlash damage and internal energy disruption</color>.\\n>。
+Pure Yang · Dissolution Leads to Resolution
+“Gold is weak against fire and will inevitably melt.’ \n\nThe power limit of ‘Vajra’ type techniques is reduced by 20%. \n\nEach time a ‘Vajra’ type technique is used, it will incur backlash damage and disrupt internal energy。
+“Gold is weak when it meets fire; it will surely melt”。
+<The power limit of the <color=#fiveelementtype_jingang>"Vajra"</color> type of technique is <color=#brightred>reduced by 20%</color>.\\n Every time the <color=#fiveelementtype_jingang>"Vajra"</color> type of technique is used, it will <color=#brightred>receive backlash damage and internal energy disorder</color>.\\n>。
+Pure Yang: The More Wood, The More Intense
+“With plenty of wood, the fire must be fierce."  \nThe power limit of "Pure Yang" and "Purple Mist" type techniques is increased by 20%.  \nThe power limit of "Vajra" and "Return to Origin" type techniques is reduced by 20%。
+“Too much wood will cause a fierce fire”。
+<Pure Yang" and "Purple Twilight" type cultivations have their power ceiling increased by 20%.  \n"Diamond" and "Return to Origin" type cultivations have their power ceiling decreased by 20>。
+Pure Yang · Adding Wood to Ignite
+“Adding wood to the fire only fuels its own burn."  \n\n"The power limit of 'Pure Yang' type techniques increases by 20%.  \nThe power limit of 'Vajra' type techniques decreases by 20%.  \nEach use of 'Profound Yin' type techniques will incur backlash damage and internal energy disruption。
+“Add wood to the fire, and it will burn itself”。
+Return to the Origin: The Earth Changes and Becomes Solid
+“Gold becomes strong when it is mixed with earth." \n\nThe power limit of 'Return to Origin' and 'Vajra' type practices is increased by 20%. \nThe power limit of 'Mystical Yin' and 'Purple Cloud' type practices is decreased by 20%。
+“Gold increases, soil changes, only then is it strong”。
+<The power ceiling of the "Guiyuan" and "Vajra" type techniques is increased by 20%.  \nThe power ceiling of the "Xuan Yin" and "Zi Xia" type techniques is decreased by 20>。
+Return to the Source: Blockage is Opening
+“A strong earth gains gold, and a square shape seals its obstruction.”\n\nThe power limit of 'Guiyuan' type techniques is increased by 20%.\nThe power limit of 'Xuanyin' type techniques is decreased by 20%.\nEvery use of 'Zixia' type techniques will result in backlash damage and internal energy disorder。
+“Strong soil gains gold, and one can shape its obstructions”。
+<The power limit of <color=#fiveelementtype_guiyuan> "Guiyuan" </color> type skills increases by <color=#brightblue> 20% </color>.\\nThe power limit of <color=#fiveelementtype_xuanyin> "Xuanyin" </color> type skills decreases by <color=#brightred> 20% </color>.\\nEach time <color=#fiveelementtype_zixia> "Zixia" </color> type skills are used, <color=#brightred> backlash damage and internal energy disruption </color> will be <color=#brightred> received </color>.\\n>。
+Returning to the Origin · The Earth Flows and Scatters
+“Where there is much water, soil will flow away, and it will inevitably dissipate.’ \n\nThe power limit of 'Returning to Origin' type techniques is <color=#brightred>reduced by 30%</color>. Each use of 'Returning to Origin' type techniques will incur backlash damage and internal energy disturbance。
+“Too much water will wash away the soil; it will surely disperse”。
+<The power limit of "Guiyuan" type skills is reduced by 30%. Every time "Guiyuan" type skills are used, there will be backlash damage and internal energy disturbance>。
+Return to the Origin: Stagnation Leads to Defeat
+“Water weakly encounters earth, it must be blocked."  \n"The power limit of 'Xuan Yin' type techniques is reduced by 20%.  \nEach use of 'Xuan Yin' type techniques will incur backlash damage and internal energy disturbance。
+“When water meets earth, it is bound to become dammed”。
+<The power limit of 'Xuan Yin' type techniques is reduced by 20%. Each time 'Xuan Yin' type techniques are used, backlash damage and internal energy disorder will be inflicted>。
+Return to the Origin: When the Fire is Extinguished, Life is Born
+“Earth is burned by fire, and when the fire is gone, the earth is born again."  \n"The power limit of 'Return to Origin' and 'Pure Yang' type techniques is increased by 20%.  \nThe power limit of 'Profound Yin' and 'Vajra' type techniques is decreased by 20%。
+“The earth is burned by fire, and when the fire is extinguished, the earth is born again”。
+<The power limit of 'Guiyuan' and 'Chunyang' type skills is increased by 20%.\\nThe power limit of 'Xuanyin' and 'Jingang' type skills is decreased by 20%.\\n>。
+Back to Origin: Fire Moxibustion Leads to Conclusion
+“Fire moxibustion and earth binding, refining quality and forging form." \n\nThe power limit of "Return to Origin" type skills is increased by 20%.  \nThe power limit of "Dark Yin" type skills is decreased by 20%.  \nEach use of "Purple Haze" type skills will incur backlash damage and internal energy disturbance。
+“Burning the clay and refining its quality and form”。

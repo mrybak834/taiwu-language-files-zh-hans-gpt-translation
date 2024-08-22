@@ -95,46 +95,46 @@
 
 
 
-Cattle Caravans
+Serve the cattle
 
 
-WenShan Bookstore
+Wenshan Shuhai Pavilion
 
 
-Penta-Lake Commerce
+Wuh Lakes Chamber of Commerce
 
 
-Champion Shop
+Great Wukuai Merchants
 
 
 Rejuvenation Hall
 
 
-Master Square
+Public Works Workshop
 
 
-House of Odd
+Rare Goods Lodge
 
 
-Mo Nyu
-Shao Nu
-Dayue 
-Yaochang
-Shao Nian
+Mo Girl
+Girl
+Mount Tai
+Yao Chang
+Young man
 
-Jiu Han
-Jin 
-Huang'er
-Yi 
-Yihou
-Wei 
-Qi
+Nine cold
+Gold
+Phoenix
+Clothes
+By Hou
+卫
+Rise
 
-Yi Xiang
+to
 
-Xue Feng
+Blood Maple
 
-Shu Fang
+Prescription
 
 
 
@@ -391,19 +391,19 @@ Shu Fang
 Monkey
 
 
-Eagle
+Evil Eagle
 
 
-Boar
+Wild boar
 
 
-Brown Bear
+Brown bear
 
 
-Buffalo
+Bison
 
 
-Huge Snake
+giant snake
 
 
 Leopard
@@ -412,22 +412,22 @@ Leopard
 Lion
 
 
-Tiger
+Tiger\n
 
 
-Spiritual Monkey
+Langur
 
 
-Golden Roc
+Golden Falcon
 
 
-Black Hog
+Mystical Pig
 
 
-White Bear
+Polar bear
 
 
-Wild Ox
+Kuiniu
 
 
 Python
@@ -442,259 +442,259 @@ Golden Lion
 White Tiger
 
 
-Sick Beggar
+Sick beggar
 
 
-Evil Beggar
+evil beggar
 
 
-Furious Beggar
+Beggar
 
 
-Snake Charmer
+Making snakes and bad beggars
 
 
-Beggar Leader
+Ruffian leader
 
 
-Small Thief
+Little thief
 
 
-Habitual Thief
+habitual thief
 
 
-Pervert
+Flower thief
 
 
-Cat Burglar
+Female Thief
 
 
 Great Thief
 
 
-Ruffian
+Local hoodlum
+
+
+Mountain bandit
+
+
+bully
+
+
+Fierce criminal
 
 
 Mountain Bandit
 
 
-Thug
+Shaolin Abandoned Disciple
 
 
-Bandit
+Emei Abandoning Disciple
 
 
-Mountain King
+The Hundred Flowers Abandon the Disciple
 
 
-Shaolin Outcast
+Wudang Disciples Abandonment
 
 
-Emei Outcast
+Yuan Mountain Abandoned Disciple
 
 
-Flowers Valley Outcast
+The lion's minister abandons his disciple
 
 
-Wudang Outcast
+Then the mountain abandons its disciples
 
 
-Yuanshan Outcast
+Xuan Girl Abandons Her Disciple
 
 
-Lion-Face Outcast
+Forging swords and abandoning disciples
 
 
-Ranshan Outcast
+Empty mulberry abandoned apprentice
 
 
-Xuannyu Outcast
+Vajra Abandoning Disciple
 
 
-Sword Manor Outcast
+Five Immortals Abandon Their Disciples
 
 
-Kongsang Outcast
+World Youth Abandoned Disciple
 
 
-Vajrayana Outcast
+Fulong abandons his disciples
 
 
-Five Immortals Outcast
+Blood hound abandoned by its owner
 
 
-Jieqing Outcast
+Desperado
 
 
-Fulong Outcast
+Hua Monk
 
 
-Blood Hou Outcast
-
-
-Fugitive
-
-
-Rapist Monk
-
-
-Demonic practitioner
+Devil Way
 
 
 Man-eating ghost
 
 
-Culprit
+Mastermind
 
 
-Charming Fox
+vixen
 
 
-Witch
+Enchantress
 
 
-Black Widow
+Venomous Widow
 
 
-Acacia Fairy
+Silk Tree Fairy
 
 
-Jade-Faced Empress
+Jade-faced Goddess
 
 
-Ghost Servant
+Ghost servant
 
 
-Corpse Refiner
+Corpse Cultivator
 
 
-Clawing Corpse
+Corpse Claw Man
 
 
-Demon Doctor
+Ghost Doctor
 
 
-Living Dead
+Living dead
 
 
-Demonic Musician
+Yao Le Shi
 
 
-Yin-Yang Creature
+Yin and Yang give birth
 
 
-Scarlet Scribe
+Blood Letter Guest
 
 
-Evil Painter
+Bad Color Old Man
 
 
-Futureless
+Seed of Ignorance
 
 
-Exotic Freak
+Strange People from Other Lands
 
 
-Poisoner
+Poison Hand Guest
 
 
-Demonic Scholar
+wicked man
 
 
-Childlike old monster
+Childish old monster
 
 
-Demonic Path Master
+Master of Evil Path
 
 
-Fallen Warrior
+Heartless Knight
 
 
-Fiend
+evil spirit
 
 
-Lost Soul
+Lost soul
 
 
-Blood-clad Ghost
+Blood-clad War Demon
 
 
-Heart Refiner
+Heart Refinement Master
 
 
-Mad Demon
+Crazy Madness
 
 
-Flame Demon
+Fire Pit Guest
 
 
-Frozen Demon
+Cold Pool Girl
 
 
-Hellbringer
+Abhijñā
 
 
-Venerable Gautama
+Moro Zunzh主
 
 
-Desperate person
+Desperate Traveler
 
 
-Non-human
+Non-human crowd
 
 
-Faceless Monk
+Formless old monk
 
 
-Nameless Monk
+Unnamed Old Daoist
 
 
-Passed away Elder
+Old Man Abandoning the World
 
 
-Corrupted
+Smell the bad voices
 Nameless Monster
 
-Demoniac
+Remove good
 
 
-Cultist
+Call of the Eye
 
 
-Demonic Heart
+Showing the demon's heart
 
 
-Evil Incarnate
+Hundred Evils
 
 
-Hellish Demon
+Fallen Heart Nine Sects
 
 
-The Allbeing
+All things arise from one another
 
 
-Fallen God
+Divine Judgment Guardian
 
 
-Hell Master
+Xuan Yu Jiu Lao
 
 
-Righteous
+Heroic person
 
 
 Patrolling Warrior
 
 
-Young Hero
+Young hero
 
 
 Bodyguard
 
 
-Famous Escort
+Famous Bodyguard
 
 
-Eccentric Vagrant
+Strange figures in the jianghu
 
 
 Nameless Hero
@@ -703,28 +703,28 @@ Nameless Hero
 Famous Hero
 
 
-Famous Hermit
+Secluded Master
 
 
-Retired Shaolin senior
+The reclusive Shaolin elder
 
 
-Abbot
+Elder
 
 
-18·Arhats
+Eighteen Arhats
 
 
-Preceptor
+Monk who observes precepts
 
 
-BodhiHall
+Disciples of the Bodhi Institute
 
 
-Prajna·H
+Bodhi Hall disciples
 
 
-ArhatHall
+Disciples of Luohan Hall
 
 
 Bhikkhu
@@ -733,322 +733,322 @@ Bhikkhu
 Retired Emei senior
 
 
-Head·D
+Disciple of the Sect Leader
 
 
-Direct·D
+True disciple
 
 
-Lineal·D
+Eight Doors of Succession
 
 
-Formal·N
+Eight Doors of Righteous Disciples
 
 
-Novice
+Disciples of the Miscellaneous School
 
 
-Formal·A
+Inner Door Disciples
 
 
-Audience
+Outside the door, scattered disciples
 
 
-Retired Flower Valley senior
+Retired Senior Baihua
 
 
-DeerEnvoy
+Deer Robe
 
 
-GoodHand
+Skillful hands
 
 
-RedCase·D
+Zhu Xia's disciple
 
 
-Jade·CD
+Disciple of the Jade Box
 
 
-Gold·CD
+Golden Box Disciple
 
 
-Flower·CD
+Flower Box Disciple
 
 
-Deerherd
+Deer Herding Boy
 
 
-Retired Wudang senior
+The reclusive martial arts master
 
 
 
 
 
 
-ZhenWu·D
+Disciples of Zhenwu Hall
 
 
-Cloud·D
+Disciples of Zixiao Palace
 
 
-TaiHe·D
+Disciples of the Taihe Palace
 
 
-Guide·P
+Guide Messenger
 
 
-Amateur
+Outer sect disciple
 
 
-Retired YuanShan senior
+Retired Master Yuanshan
 
 
-Exorciser
+Subduing Demons
 
 
-Preacher
+Transmit the Dharma to the masses
 
 
-Friar
+Austere practitioners
 
 
-Vanguard
+Protecting the Dharma disciples
 
 
-Guard
+Stone prison disciple
 
 
-Novice
+Beginner disciple
 
 
-Follower
+Vowed servant
 
 
-Retired LionFace senior
+Retired Lion Mentor
 
 
-Raging Ace
+Fierce Lion Strongman
 
 
-Proud Ace
+Jin Lion Strong Hand
 
 
-Slumbering Ace
+Sleeping Lion Strong Hand
 
 
-RageLion
+Crazy Lion Disciples
 
 
-ProudLion
+Jinshi Hall Disciples
 
 
-Slumber·L
+Sleeping Lion Hall Disciple
 
 
-Cub
+lion cub
 
 
-Retired RanShan senior
+Retired Senior Ran Mountain
 
 
-Guardian
+Qinglang Protector
 
 
-Successor
+Descendant of the Three Schools
 
 
-T·Ranger
+Jade Talisman Sect Wanderer
 
 
-DS·Ranger
+Divine Sword Sect Wanderer
 
 
-YY·Ranger
+Yin Yang Sect Wanderer
 
 
-SwordBearer
+Sword Slave
 
 
-Wanderer
+Sparse person
 
 
-Retired XuanNyu senior
+Retired Senior Xuan Girl
 
 
-Feather·E
+Feathered Garment Envoy
 
 
-SilkEnvoy
+Rainbow Dress Envoy
 
 
-JadeGuard
+Guardian of Jade
 
 
-SkyMelody
+Disciples of the Tianyin Pavilion
 
 
-Disciple
+Inner disciple
 
 
 
 
-Servant
+servant
 
 
-Retired Sword Manor senior
+The reclusive swordsmith elder
 
 
-Sky·Smith
+Seven Star Craftsman
 
 
-Mystic·S
+Xuán Hóng Jiàng
 
 
-Treasure·S
+Town Mountain Craftsman
 
 
-Season·S
+Master Craftsman
 
 
-Bamboo·S
-
-
-Novice
-
-
-Stoker
-
-
-Retired KongSong senior
-
-
-
-
-Dragonor
-
-
-Head·D
-
-
-Furnance·H
-
-
-DragonHall
-
-
-ProbeHall
+Qingjun Craftsman
 
 
 Apprentice
 
 
-Retired Vajrayana senior
+Pyrotechnics
 
 
-Elder
+Retired elder Kong Sang
 
 
-Gardian
 
 
-Fighter
+Dragon soldier
 
 
-SilentHall
+Holding the tripod master
 
 
-VajraHall
+Disciple of Xuánlú Courtyard
 
 
-Rakshasa·H
+Disciples of the Jiao Wang Institute
 
 
-Labor
+Disciple of Zhu Jian
 
 
-Retired 5-Immotals senior
+Pharmacy Boy
 
 
-Counsellor
+The reclusive senior Vajra
 
 
-Patriach
+Respectfully
 
 
-Brooder
+Protector Venerable
 
 
-VenomEnvoy
+Vajra Warrior
 
 
-BrooderCrew
+Disciples of the Immovable Hall
 
 
-VenomCrew
+Disciples of the Diamond Temple
 
 
-Cultist
+Disciples of the Rakshasa Academy
 
 
-Retired JieQing senior
+Pure Fire Child
 
 
-SevenStar
+Retired Elder Wuxian
 
 
-ArchCulprit
+Witch Doctor
 
 
-DeathSworn
+Patriarch
+
+
+Fairy Maiden
+
+
+Wudu Master
+
+
+Flower Gu sect
+
+
+Five Poisons Sect
+
+
+Followers
+
+
+Retired elder Jieqing
+
+
+Seven Ghosts
+
+
+Leader
+
+
+Death warrior
 
 
 Killer
 
 
-Gatekeeper
+Disciple
 
 
 Guide
 
 
-OuterGate
+Outer gate crowd
 
 
-Retired FuLong senior
+Retired Senior Fulong
 
 
-DragonElder
+Longtou Elder
 
 
-Head·D
+First Disciple
 
 
-Seawatcher
+Coastal Commander
 
 
-Titled·D
-
-
-
-
-Outer·D
-
-
-Islander
-
-
-Retired Blood Hou senior
+Bestowed surname disciple
 
 
 
 
-Messenger
+Disciples with different surnames
 
 
-Protector
+The Island Crowd
 
 
-BloodChild
+Retreating Blood Hound Senior
+
+
+
+
+Hound Mother Saint Messenger
+
+
+Protect the law
+
+
+Blood Boy
 
 
 Elite
@@ -1056,135 +1056,116 @@ Elite
 
 
 
-Servant
+Auxiliary duties
 
 
-Young Monk
+Little monk
 
 
-XiangShu
-
-
-
-
-Giant Shadow
-
-
-Black Shadow
-
-
-Ran Chenzi
-Weirdo
-
-The White Swordsman
+Joint hub
 
 
 
-Huan Xin
-Lass
+
+巨大黑影" translates to "huge shadow
 
 
-Long
- Yufu
-Lady in Red
-Zi
-Wuxiao
+The Bound Shadow
+
+
+Yarn-Dust Child
+Freak
+
+White-clothed Swordsman
+
+
+
+Renewed heart
+Girl\n
+
+
+Dragon
+Language and Fu
+Red-clothed woman
+Purple
+Without yarn
 
 Xu
-Xiangong
-A wooden puppet that can talk
+Immortal Master
+Talking wooden man
 
-Woman
-Necromancer
+woman
+Alchemist
 
-Shi Shufu
-Elder Monk
+Room description
+Old monk
 
-“Adoptive Father”
-A nameless elder
+“Adoptive father”
+Nameless Old Man
 
-“Elderly”
-
-
-Dated Wooden Puppet
+“The old man”
 
 
-Bamboo Hands
-Wooden Puppet
-
-Bamboo Stick
-
-Bamboo Darts
-
-Kua-E Bronze Puppet
+Old wooden man
 
 
-Monkey
+Bamboo-handed wooden person
+Wooden man
+
+Bamboo staff and wooden man
+
+Bamboo dart wooden man
+
+Statue of Kua'e
+
+
+Monkeys in the Valley
 
 
 
 
-King of Monkeys
+Monkey King
 
 Guo
 Yan
 Middle-aged person
-Xiaomao
-Young Urchin
-A
-Niu
-Young Man
-Situ
-Huanyue
-Elder
-Taoist
+Kitten\n
+Little Rascal
+Ah
+Ox
+Robust young man
+Si Tu
+Return the moon
+Old
+Taoist priest
 
-Chui Xing
-Graves
+Hang the stars
+Tomb
 
 Nameless
-Nameless mother and child
+Unnamed Mother and Son
 
-Unknown parent
+Unnamed Parents
 
-Coachman
+coachman
 
 Feng
-Granny
-Old lady
+mother-in-law
+Old woman
 
-Old lady
-
-
-King
+woman
 
 
-Hu Ji
+Great King
 
 
-Cui E
+Lady Hu
 
 
-The Man in Black
+Emerald Beauty
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Person from Wanqu
-
-
-Heart Curtain Sky Curtain
+Men in black
 
 
 
@@ -1200,8 +1181,27 @@ Heart Curtain Sky Curtain
 
 
 
+The people of Wanqu
 
-Kongsang Traitor
+
+The curtain of the heart's sky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Empty Mulberry Traitor
 
 
 
@@ -1232,15 +1232,15 @@ Kongsang Traitor
 
 
 Liao
-Wuming
+Without destiny
 
 
 
 
 
-Somber Monk
-Hong Yi
-Elder
+The gloomy sorcerer
+Red Clothes
+Old man
 
 
 
@@ -1258,45 +1258,45 @@ Elder
 
 
 Ji
-Xi
-Girl
+fissue
+girl
 
-Old Monk
-
-
-
-
-
-
-Disheveled Daoist
-Taoist
-
-
-
-
-
-Quicksilver Fire Snake
+Old monk
 
 
 
 
 
 
-Warp Beetle
+Slovenly Taoist Priest
+Daoist
+
+
+
+
+
+Flowing golden fire snake
 
 
 
 
 
 
-Slayer of Evil
+Bookworm
 
 
 
 
 
 
-Sun Soul Zhu Jing
+Cut off evil
+
+
+
+
+
+
+Sun Soul Red Scene
 
 
 
@@ -1310,54 +1310,54 @@ Zhu Yan
 
 
 
-Xuanzhou Golden Snake
+Xuan Prefecture Golden Snake
 
 
 
 
 
 
-Tian Zhu
+Sky Candle
 
 
 
 
 
 
-Nine-spotted Snake
+Nine-striped tree viper
 
 
 
 
 
 
-Razor Snake
+Fortunate Snake
 
 
 
 
 
 
-Wind Snake
+Qi Snake
 
 
 
 
 
 
-Yun'er
+Jun'er
 Person in the Mirror
 
 
 West
-Wu Fen
+No share
 Man
-Shi
-Weizhi
-He
-Youyuan
+Stone
+Veitch
+Why
+Fate
 
-Mirrored Illusion
+Phantom in the Mirror
 
 Heavenly Demon
 
@@ -1365,7 +1365,7 @@ Heavenly Demon
 Earth Demon
 
 
-Human Demon
+Human demon
 
 
 Heavenly Demons
@@ -1379,7 +1379,7 @@ Heavenly Demons
 
 
 
-Earth Demons
+Earth Demon Crowd
 
 
 
@@ -1390,7 +1390,7 @@ Earth Demons
 
 
 
-Human Demons
+Demons and monsters
 
 
 
@@ -1400,11 +1400,11 @@ Human Demons
 
 
 
-Lei
+Thunder
 Kun
 Hall Master
 
-Disciples of Flying Lion Hall
+Flying Lion Disciples
 
 
 
@@ -1415,7 +1415,7 @@ Disciples of Flying Lion Hall
 
 
 
-Foreign Master
+Expert of a different race
 
 
 
@@ -1426,7 +1426,7 @@ Foreign Master
 
 
 
-Vajrayana Treasure-searching Disciple
+King Kong Searching for Treasure Disciples
 
 
 
@@ -1437,27 +1437,27 @@ Vajrayana Treasure-searching Disciple
 
 
 
-Western Monk
+High Monk of the Western Region
 
 
-GuiGu Zi
+Guiguzi
 
 Zhang
-Ling
+Mausoleum
 
 
-Tomb Remains
-
-
-
+Ancient tomb bones
 
 
 
 
 
 
-Ran
-Xindu
+
+
+
+lingering
+Heart poison
 
 
 
@@ -1466,58 +1466,58 @@ Xindu
 
 White Ape
 
-Houjiu
-Mysterious Person
-Bai
-Ao Tian
-Young Gentleman
-Wan
-Kind Father
-Evil Old Man
-Evil Father
-Kind Old Man
+Waiting for wine
+Mysterious person
+White
+Aotian
+Young gentleman
+ten thousand
+Good Elder
+Evil old man
+Evil Elder
+Good old man
 
-Xuan Huangzi
-Glowering Elderly
+Xuanhuangzi
+Angry Old Man
 
 Kun Wuzi
-Languid Elderly
+Lazy old man
 
-You Mingzi
-Grim Elderly
+Yumingzi
+Cold-faced old man
 
 Huaju
 
 
-Xuanzhi
+Transcendental quality
 
 
-Yingjiao
-Nameless Woman
+Welcome, beautiful
+Unnamed Woman
 
-Candle Immortal
-
-
-
-
-
-
-Dark River Serpent
-
-
-Liao Family's Ancient Cauldron
+Candle Fairy
 
 
 
 
 
 
+Dark River Giant Snake
 
 
-Little Black Snake
+Liao Clan Ancient 鼎
 
 
-Divine Tree
+
+
+
+
+
+
+Little black snake
+
+
+Divine Wood
 
 
 
@@ -1541,10 +1541,10 @@ Angry Emei Disciple
 
 
 
-FuYu Hilt
+Fuyujian handle
 
 
-Taiwu Shadow
+Old Shadow of Taiwu
 
 
 White Dragon
@@ -1553,7 +1553,7 @@ White Dragon
 Black Dragon
 
 
-Green Dragon
+Azure Dragon
 
 
 Red Dragon
@@ -1562,79 +1562,79 @@ Red Dragon
 Yellow Dragon
 
 
-Small White Dragon
+Little White Dragon
 
 
-Small Black Dragon
+Little Black Dragon
 
 
-Small Green Dragon
+Little Green Dragon
 
 
-Small Red Dragon
+Little Red Dragon
 
 
-Small Yellow Dragon
+Little Yellow Dragon
 
 
 White Jiao
 
 
-Black Jiao
+Black eel
 
 
-Green Jiao
+Qingjiao
 
 
-Red Jiao
+Red Dragon
 
 
-Yellow Jiao
+Yellow dragon
 
 
-Yin-Yang Jiao
+Yin Yang Jiao
 
 
-Flying Lightning Jiao
+Flying Electric Dragon
 
 
-Thunder Fire Jiao
+Thunder Fire Dragon
 
 
-Golden Eye Jiao
+Golden-eyed dragon
 
 
-Green Pool Jiao
+Qingze Jiao
 
 
-Burnt Cloud Jiao
+Burning Cloud Dragon
 
 
-Clay Pool Jiao
+mud pool dragon
 
 
-Flame Horn Jiao
+Flame Dragon
 
 
-Leaning Mountain Jiao
+伏山蛟" translates to "Fushan Jiao
 
 
-Refined Bone Jiao
+Bone Refining Dragon
 
 
-Disturbed Ocean Jiao
+Sea monster
 
 
-Draped Clouds Jiao
+Unveiling the clouds and the dragon
 
 
-Deep Depth Jiao
+The Abyssal Jiao
 
 
-Heaven Thunder Jiao
+Heavenly Thunder Dragon
 
 
-Desolate Road Jiao
+Desolate Path Dragon
 
 
 Qilin Jiao
@@ -1643,40 +1643,40 @@ Qilin Jiao
 Ghost Prison Jiao
 
 
-Immortal Mountain Jiao
+Immortal Mountain Flood Dragon
 
 
-Flaming Pond Jiao
+Fire Pool Dragon
 
 
-Burning Hill Jiao
+Burning Mountain Dragon
 
 
-Four Changes Jiao
+Four Modernizations
 
 
-Hundred Jewels Jiao
+Treasure Dragon
 
 
-Calm Sea Jiao
+Zhenhai Jiao
 
 
-Heaven-swallowing Jiao
+Sky-Devouring Jiao
 
 
-Mixed Scale Jiao
+Chaotic Scale Serpent
 
 
-Rainbow Jiao
+Five-colored dragon
 
 
-Qiuniu
+Qiúniú
 
 
-Yazi
+vengeance
 
 
-Chaofeng
+Mocking the Wind
 
 
 Pulao
@@ -1685,22 +1685,22 @@ Pulao
 Suanni
 
 
-Baxia
+Dominance
 
 
-Bian
+Bi'an
 
 
-Fuxi
+Negative Li
 
 
-Chiwen
+Qilin
 
 
-Huanlong Clan
+Huàn Lóng Shì
 
 
-Sacred Nun
+Saint Lady
 
 
 
@@ -1711,7 +1711,7 @@ Sacred Nun
 
 
 
-Skeleton Monk
+Shitalin Skeleton Monk
 
 
 
@@ -1722,48 +1722,48 @@ Skeleton Monk
 
 
 
-"Clothes" Borrowing Monk
-Mysterious Monk
-Eminent Monk
-Hun Ling
+Borrowing 'clothes' from a monk
+Mysterious monk
+High monk
+Soul
 
 
-Dai Fawang
+Substitute Dalai Lama
 
 
-Suspicious Monk
+The suspicious monk from the Central Plains
 
 
-Hesitant Monk
+Hesitant Central Plains Monk
 
 
-Disturbed Monk
+Restless monks of the Central Plains
 
 
-Bewildered Monk
+Confused monk of the Central Plains
 
 
-Courteous Monk
+Polite monks from the Central Plains
 
 
-Boorish Monk
+Rude monk of the Central Plains
 
 
-Fanatical Monk
+Fanatical Central Plains Monk
 
 
-Obstinate Monk
+Stubborn Central Plains Monk
 
 
-Apathetic Monk
+Numb monks of the Central Plains
 
 
-Calm Monk
+Calm monk of the Central Plains
 
 
-Zhuo Ma
+Zhuoma
 
-Foreign Bandit
+Foreign bandits
 
 
 
@@ -1774,83 +1774,83 @@ Foreign Bandit
 
 
 
-Elder·A
+First seat
 
 
 
 
-CaseHolder
+Palm box person
 
 
-V·Leader
+Acting Sect Leader
 
 
 
 
-GreatBeta
+Vice Sect Leader
 
 
-Celestial
+Immortal Master
 
 
-G·Mistress
+Senior Sister
 
 
-M·Smith
+Master Artisan
 
 
-HerbKing
+King of Medicine
 
 
-WisdomKing
+Ming Wang
 
 
 Saint
 
 
-Shadowless
+Shadowless Person
 
 
-ViceLord
+Deputy Moderator
 
 
-V·Hierarch
+Deputy Sect Leader
 
-Wuyang
-Girl in White Clothes
-Xuan
-Wuyou
-Youngster in Black Clothes
+Safe and sound
+White-clothed girl
+Mystery
+Carefree
+Dark-clothed youth
 
-Resurrected Person
-
-
-
-
-Crazy Person
-Night Watchman
+Revived Person
 
 
 
+
+Madman
+Night watchman
 
 
 
 
 
 
-Vice Valley Lord
+
+
+
+Substitute Valley Master
 
 Lu
-Chijing
+Deviate from the classics
 
 Li
-Shidao
+Seems like a way
 
-Yan
-Feiran
+Strict
+Not so
 
-Tian
-Buhui
+Field
+Not shy
 
 
 
@@ -1862,5 +1862,5 @@ Buhui
 White Deer
 
 
-Black Owl
+Black-crowned Night Heron
 

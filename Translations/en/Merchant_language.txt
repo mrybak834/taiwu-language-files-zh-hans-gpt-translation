@@ -1,49 +1,49 @@
-Cattle Feed I
-Cattle Feed II
-Cattle Feed III
-Cattle Feed IV
-Cattle Feed V
-Cattle Feed VI
-Cattle Feed VII
-Bookstore I
-Bookstore II
-Bookstore III
-Bookstore IV
-Bookstore V
-Bookstore VI
-Bookstore VII
-Penta-Lake I
-Penta-Lake II
-Penta-Lake III
-Penta-Lake IV
-Penta-Lake V
-Penta-Lake VI
-Penta-Lake VII
-Military Chief I
-Military Chief II
-Military Chief III
-Military Chief IV
-Military Chief V
-Military Chief VI
-Military Chief VII
-Rejuvenation I
-Rejuvenation II
-Rejuvenation III
-Rejuvenation IV
-Rejuvenation V
-Rejuvenation VI
-Rejuvenation VII
-Kung Fu I
-Kung Fu II
-Kung Fu III
-Kung Fu IV
-Kung Fu V
-Kung Fu VI
-Kung Fu VII
-Odd Goods I
-Odd Goods II
-Odd Goods III
-Odd Goods IV
-Odd Goods V
-Odd Goods VI
-Odd Goods VII
+Serving the Ox·One
+Serve the cow · Two
+Serve the cow·Three
+Serve the Ox · Four
+Serve the Cow · Five
+Serve the cow · Six
+Serve the cow·Seven
+Document · One
+Document · Two
+Document · Three
+Document · Four
+Documents · Five
+Documents · Six
+Documents · Seven
+Wuhu·One
+The Five Lakes · Two
+Wuh Lakes · Three
+Five Lakes · Four
+Five Lakes · Five
+Wuhulu·Liu
+Wuhu·Qi
+Wu Kui·One
+Wukui · Two
+Wu Kui · Three
+Wu Kui·Four
+Wukui · Five
+Wukui · Six
+Wu Kui · Seven
+Revival·One
+Revival·Two
+Revival·Three
+Revival · Four
+Revival·Five
+Revival · Six
+Revival · Seven
+Gongshu: One
+Public Works · Two
+Public Build·Three
+Gongshu · Four
+Gongshu · Five
+Gongshu · Six
+Public Works - Seven
+Rare Goods·One
+Strange Goods·Two
+Strange Goods · Three
+Rare Goods·Four
+Rare Goods · Five
+Strange Goods · Six
+Rare Goods·Seven

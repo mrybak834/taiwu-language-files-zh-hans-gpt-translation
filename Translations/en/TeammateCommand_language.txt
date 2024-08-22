@@ -1,87 +1,87 @@
-Swap
-Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time.
-I'm fully prepared, let me take your place!
-Haste
-Can use「Haste」order to increase cast progress of the main fighter's skill.
-Let me lend you my power to perform it!
-Push
-Can use「Push」order to bring main fighter closer to the opponent.
-Follow you heart, and quickly advance!
-Pull
-Can use「Pull」order to bring main fighter away from the opponent.
-The closer the enemy, the more dangerous it is!
-Attack
-Can use「Attack」order to attack the enemy.
-I have a move that will catch the enemy off guard!
-Defend
-Can use「Defend」order to protect main fighter using "Aegis" technique with increased power against enemy's attacks.
-Let me block it for you!
-Heal
-Can use「Heal」order to use Healing on the main fighter.
-Your injuries are urgent, let me treat you quickly!
-Detox
-Can use「Detox」order to use Detox on the main fighter.
-The poison is affecting you, let me detox you quickly!
-Mend
-Can use「Mend」order to remove Weak Points from the main fighter.
-With my care, your Weak Points will be solved!
-Release
-Can use「Release」order to remove Sealed Acupoints from the main fighter.
-Draw my qi to unblock your Sealed Acupoints!
-Guide
-Can use「Guide」order to increase main fighter's Might, Finesse, Swiftness, and Breath for a short amount of time.
-Let me guard the side, and you just do your best to attack! 
-Warn
-Can use「Warn」order to increase main fighter's Diversion, Parry, Evasion, and Focus for a short amount of time.
-I will be on guard from the side, leaving the enemy no chance to attack!
+Go into battle
+Can use the 'Deploy' command to temporarily increase attack, defense, accuracy, and resolve to fight instead of the main combatant。
+I am well-prepared, let me take action for you！
+Induce
+Can use the 'urge' command to increase the casting progress of the main combatant's skills。
+Let me use my power to assist you！
+Rapid progress
+The 'Advance' command can be used to close the distance between the main combatant and the enemy。
+Body follows the heart, charging forward rapidly！
+Pull back
+Can use the 'Pull Back' command to increase the distance between the main fighter and the enemy。
+When the enemy is close, it is dangerous; do not underestimate the enemy！
+Attack\n
+Can use the 'Attack' command to attack enemies。
+I have a move that can catch the enemy off guard！
+Defense\n
+The ability to use the 'Defense' command to enhance the power of protective techniques allows the main combatant to withstand enemy attacks。
+Let me block this attack for you！
+Healing
+Can use the 'Heal' command to heal the main fighter。
+Injuries are urgent, let me treat you quickly！
+Detoxify
+Can use the 'Detoxify' command to detoxify the main combatant。
+Toxic gas attacks the heart, let me quickly expel the poison for you！
+Still protect
+Can use the 'Huihu' command to eliminate flaws for the main attacker。
+With my care, the flaws can be resolved！
+Relieve the pressure points
+Can use the 'Unlock' command to unlock the seal for the main combatant。
+Guide my true energy to解穴 for you！
+Raid阵
+Can use the 'Flanking Formation' command to rapidly increase the strength, finesse, speed, and impact of the main combatant。
+Let me support you from the sidelines, and you do your best to attack！
+Warning\n
+Can use the 'Alert' command to quickly increase the main combatant's unloading force, countering moves, evasion, and mental defense。
+Let me stand guard from the side, so the enemy has no gaps to exploit！
 True Qi
-Can use「True Qi」order to transfer their own True Qi to the main fighter.
-I will transfer my True Qi into your body to help you fight the enemy!
-Sacrifice
-Can use「Sacrifice」order to share Injuries and Fatal Wounds of the main fighter.
+Can use the 'True Qi' command to transfer one's own True Qi to the main fighter。
+I use my vital energy to aid you in facing your enemies！
+Substitute life
+Able to use the 'Sacrifice' command to share injuries and severe wounds with the main combatant。
 
-Restrain
-Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time.
-Let me hold them back so that you won’t be distracted!
+Constraint
+Can use the 'Restraining' command to temporarily prevent the enemy from using assistance commands。
+I will distract them on both sides so that you won't be distracted！
 Break
-Can use「Break」order to attack enemy with a "Break" technique with increased power.
-I've prepared my technique, now watch this move!
-Can use「Swap」order to increase their ATK, Defense, Accuracy, and Resolve stats and swap with the main fighter for a short period of time. <color=#brightblue>When boosted by Lion War Drum, the ATK, Defense, Accuracy, and Resolve stat increases will be higher.</color>
-Can use「Haste」order to increase cast progress of the main fighter's skill. <color=#brightblue>When boosted by Lion War Drum, the increase in cast progress will be higher.</color>
-Can use「Push」order to bring main fighter closer to the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color></color> <color=#brightred>but its cooldown will be increased.</color>
-Can use「Pull」order to bring main fighter away from the opponent. <color=#brightblue>When boosted by Lion War Drum, it will only go on cooldown every 2nd use,</color> <color=#brightred>but its cooldown will be increased.</color>
-Can use「Attack」order to attack the enemy. <color=#brightblue>When boosted by Lion War Drum, will deal extra damage to enemy's Deflect.</color>
-Can use「Defend」order to protect main fighter using "Aegis" technique with increased power against enemy's attacks. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Aegis technique will be higher.</color>
-Can use「Heal」order to use Healing on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
-Can use「Detox」order to use Detox on the main fighter. <color=#brightblue>When boosted by Lion War Drum, this order will be finished much faster.</color>
-Can use「Mend」order to remove Weak Points from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Weak Points,</color> <color=#brightred>but its cooldown will be longer.</color>
-Can use「Release」order to remove Sealed Acupoints from the main fighter. <color=#brightblue>When boosted by Lion War Drum, it will remove more Sealed Acupoints,</color> <color=#brightred>but its cooldown will be longer.</color>
-Can use「Guide」order to increase main fighter's Might, Finesse, Swiftness, and Breath for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
-Can use「Warn」order to increase main fighter's Diversion, Parry, Evasion, and Focus for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its duration will be shorter.</color>
-Can use「True Qi」order to transfer their own True Qi to the main fighter. <color=#brightblue>When boosted by Lion War Drum, its effect will be stronger,</color> <color=#brightred>but its cooldown will be longer.</color>
-Can use「Restrain」order to prevent enemy's teammates from using Orders for a short amount of time. <color=#brightblue>When boosted by Lion War Drum, its duration will be greatly increased.</color>
-Can use「Break」order to attack enemy with a "Break" technique with increased power. <color=#brightblue>When boosted by Lion War Drum, the power increase of the Break technique will be higher.</color>
+Can use the 'Break' command to unleash a powerful Break technique to attack enemies。
+Having completed the exercise, let me show you this move！
+The 'Battle Command' allows for a short-term increase in attack, defense, hit rate, and evasion, allowing the substitute combatant to fight instead of the main combatant. <color=#brightblue>Under the inspiration of the Lion War Drum, the attacker’s attack, defense, hit rate, and evasion are further increased.</color>\\n>
+Can use the 'Urge' instruction to increase the progress of the primary combatant's martial arts casting. <color=#brightblue>Under the encouragement of the Lion Battle Drum, the progress of the martial arts casting increased by the 'Urge' instruction is further enhanced.</color>\n>
+Can use the 'Advance' command to close the distance between the main combatant and the enemy. <color=#brightblue>Inspired by the Lion War Drum, the 'Advance' command will only enter a cooldown after being used 2 times,</color><color=#brightred> but the cooldown is longer.</color>
+You can use the 'Pull Back' command to increase the distance between the main fighter and the enemy. <color=#brightblue>Under the inspiration of the Lion's War Drum, the 'Pull Back' command will enter a cooldown period only after being used twice,</color><color=#brightred> but the cooldown period is longer.</color>\n>
+You can use the 'Attack' command to attack enemies. <color=#brightblue>Under the encouragement of the Lion War Drum, the 'Attack' command can additionally damage the enemy's parry value.</color>\\n>
+Being able to use the 'Defend' command to cast protective techniques to shield the main combatant from enemy attacks. <color=#brightblue>Under the inspiration of the Lion War Drum, the power of the protective techniques is further enhanced.</color>\\n>
+Can use the 'Heal' command to heal the main fighter. <color=#brightblue>Under the inspiration of the Lion War Drum, the 'Heal' command can be completed very quickly.</color>\\n>
+It is possible to use the 'Detox' command to detoxify the main combatant. <color=#brightblue>Under the inspiration of the Lion's War Drum, the 'Detox' command can be completed very quickly.</color>
+It is possible to use the 'Counter Guard' command to eliminate vulnerabilities for the main fighter. <color=#brightblue>Under the encouragement of the Lion War Drum, the 'Counter Guard' command can eliminate more vulnerabilities for the main fighter,</color><color=#brightred> but with a longer interval for use.</color>\n>
+Using the 'Release Seal' command can unlock seals for the main fighter. <color=#brightblue>Under the encouragement of the Lion War Drum, the 'Release Seal' command can unlock more seals for the main fighter,</color><color=#brightred> but the cooldown period is longer.</color>
+The 'Flanking' command can temporarily enhance the strength, finesse, speed, and inspiration of the main combatants. <color=#brightblue>Under the encouragement of the Lion Battle Drum, the effect of the 'Flanking' command is even stronger,</color> <color=#brightred>but the duration is shorter.</color>
+The 'Alert' command can increase the main warrior's disengagement, parry, evasion, and focus in a short period of time. <color=#brightblue>Under the inspiration of the Lion's War Drum, the effect of the 'Alert' command is stronger,</color><color=#brightred> but the duration is shorter.</color>\\n>
+Can use the 'Vital Energy' command to transfer one's own vital energy to the main combatant. <color=#brightblue>Under the inspiration of the Lion War Drum, the effect of the 'Vital Energy' command is stronger,</color> <color=#brightred>but the use interval is longer.</color>
+The 'Control' command can temporarily prevent enemy allies from using assist commands. <color=#brightblue>Under the inspiration of the Lion's War Drum, the duration of the 'Control' command is greatly increased.</color>
+Ability to use the 'Break' command to unleash an attack with increased power against enemies. <color=#brightblue>Under the inspiration of the Lion War Drum, the power of the technique is further enhanced.</color>
 Interrupt
-Because of a grudge, they might wait for an opportunity to interrupt main fighter's technique.
-This will cause your technique to fail!
-Set Up
-Because of a grudge, they might wait for an opportunity to push or pull the main fighter into the enemy's attack range when the main fighter is no longer within the enemy's attack range.
-Let me put you in danger!
-Sneak Attack
-Because of a grudge, they might wait for an opportunity to launch a surprise attack on the main fighter using their weapons, causing Weak Points and Sealed Acupoints.
-Since you are not on guard, don't blame me for taking advantage of the opportunity to attack you!
-Scattering Qi
-Because of a grudge, they might wait for an opportunity to scatter main fighter's qi to remove their Aegis or Footwork technique.
-Here are all your weaknesses!
-Insidious Harm
-Because of a grudge, they might wait for an opportunity to use Medicine or Toxicology to cause damage or poison the main fighter.
-You and I have a deep hatred, so don't blame me for being ruthless!
-Distraction
-Because of a grudge, they might wait for an opportunity to reduce main fighter's Might, Finesse, Swiftness, Breath, Diversion, Parry, Evasion, and Focus for a period of time.
-Let me distract you and you will be defeated without even fighting!
+Due to a growing resentment, one may take the opportunity to interrupt the practitioner's technique when the main combatant is executing their skill。
+This will cause your spell to fail！
+frame
+Due to the arising grievances, when the main combatant is possibly outside the enemy's attack range, there may be an opportunity to push or pull the main combatant into the enemy's attack range。
+Let me put you in danger！
+Surprise attack
+Due to growing resentment, they may take the opportunity to launch a surprise attack on the main combatant, weaponizing against them and creating openings and sealing points。
+You are unguarded, so don't blame me for taking advantage and launching a sneak attack！
+Dispersing energy
+Due to the emergence of resentment, there may be an opportunity to eliminate the protective barrier and body technique used by the main fighter while they are cultivating their energy。
+The key points of guarding the body and movement are all here！
+Covert assassination
+Due to the rise of animosity, they may take the opportunity to harm or poison the main fighter using medical or poisonous techniques。
+You and I have deep grievances, so don't blame me for being ruthless！
+Entanglement\n
+Due to the emergence of resentment, it is possible to seize the opportunity to reduce the intensity, sophistication, speed, emotional impact, unbalancing, countering, evasion, and heart-preserving of the main combatants over a period of time。
+When I command you to be distracted, you will lose without fighting！
 Disturb
-Because of a grudge, they might wait for an opportunity to interrupt the main fighter while they're using items, Healing, Detoxing, doing Mount Attack, or Escaping.
-Wait till I throw you into disarray!
-Dispersing Qi
-Because of a grudge, they might wait for an opportunity to disperse True Qi of the main fighter.
-Disperse your True Qi and see how you can resist the enemy! 
+Due to a grudge arising in the heart, it is possible to seize the opportunity to interrupt actions such as using items, healing, detoxifying, controlling beasts, or fleeing from battle during the actions of the main combatant。
+Wait for me to throw your formation into chaos！
+Release air
+Due to the birth of animosity, one may seek an opportunity to dispel the true energy of the main combatant。
+Scatter your true energy, let's see how you defend against the enemy！

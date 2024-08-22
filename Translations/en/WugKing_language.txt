@@ -1,32 +1,32 @@
-The host's weapon attacks will have an additionally reduced chance of hitting the enemy.
-The host's weapon attacks will have an additionally increased chance of hitting the enemy.
-The host will lose a part of their items every month.
-It certainly will be born when <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color> consumption reaches 40%
-The host will receive 1 Daze Marker whenever host's Poison activates.
-The host will receive 1 Daze Marker whenever enemy's Poison activates.
-Every month, the host might start Hating the characters whose Favor has dropped significantly, and will more easily seek revenge on their enemies.
-It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color> consumption reaches 40%
-Level of Weak Points and Sealed Acupoints received by the host will increase by 1 level
-Level of Weak Points and Sealed Acupoints received by the host will reduced by 1 level
-The host's Inner Breath will become disordered based on the level of Injuries they have
-It certainly will be born when <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 40%
-Whenever the host's True Qi gets decreased, a random type of the host's True Qi will be decreased by 1 point.
-Whenever the host's True Qi gets increased, a random type of the host's True Qi will be increased by 1 point.
-Every month, the host's demonization value will be increased by 10 times.
-It certainly will be born if all types of poison consumption are within 10% of each other
-If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally increased, and whenever the host's Fatal Wound damage taken gets increased, the host's Health will also be reduced.
-If the host's Health is not lower than 50%, the host's Fatal Wound damage taken will be additionally decreased, but whenever the host's Fatal Wound damage taken gets decreased, the host's Health will also be reduced.
-Inner Breath state won't recover the host's Health every month.
-It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color>, and <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> consumption reaches 30% each
-Sealing chance of the host's techniques and weapons will be additionally increased.
-Sealing chance of the host's techniques and weapons will be additionally decreased.
-The host's Internal Energy will not be restored every month, and will instead be greatly depleted.
-It certainly will be born when <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color> consumption reaches 40%
-The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be reduced.
-The pure essence suppression effects of the host's Cleanse Impurities, Divine Step, and Naturalization pure essence realms will be increased.
-The Golden Silkworm Gu King will devour 1 random Mature Gu in the host's body every month to apply a large amount of Poisons to the host
-It certainly will be born when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color> consumption reaches 40%
-The positive effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's positive "Traits" will temporarily change to negative effects.
-The negative effects to Main Stats, Secondary Stats, Accuracy, Resolve, Attack, Defend, and Talent from the host's negative "Traits" will temporarily change to positive effects.
-All characters who spend a Spring Night with the host will be implanted with an untamed Premature Azure Marrow Gu.
-It certainly will be born when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color>, and <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxin</color> consumption reaches 30% each
+The host's weapon attack has a reduced chance to hit enemies。
+The host's weapon attack has an additional chance to hit the enemy。
+The host will lose some items during the change of months。
+<When the <SpName=sp_icon_poison_3><color=#redpoison>Red Poison</color> exceeds 40% of toxin consumption, it will inevitably be born
+Add 1 additional dazed marker to the host when host toxicity occurs。
+When the host's toxicity occurs, add an additional daze mark to the enemy。
+The host will inexplicably harbor resentment towards those whose likability has significantly decreased during the month change and will be more likely to seek revenge against enemies。
+<SpName=sp_icon_poison_1><color=#gloomypoison>Gloomy Poison</color> will inevitably be produced when the toxin consumption exceeds forty percent
+The host's vulnerabilities and sealing level increase by 1 level
+The host's vulnerabilities and sealing level are reduced by 1 level
+The host's internal energy will become chaotic during the change of months, depending on the severity of their injuries。
+<SpName=sp_icon_poison_4><color=#rottenpoison>Corruption</color> will inevitably be born when the toxin consumption exceeds 40%\\n
+When the host's true energy decreases, it reduces one point of a randomly selected type of true energy from the host。
+When the host's true energy increases, it causes a random type of true energy of the host to increase by 1 point。
+The increase in the degree of possession by evil or magic for the host during the change of months becomes ten times。
+When the difference in the consumption of all types of toxins is less than 10%, it will inevitably be born
+If the host's health is not below 50%, the host's severe damage taken is increased additionally, and the more the severe damage is increased, the more the host's health will decrease。
+If the host's health is not below 50%, the heavy damage received by the host will be additionally reduced, but the more the heavy damage is reduced, the more the host's health will also decrease。
+The host's health cannot be restored due to internal conditions when the months change。
+When <SpName=sp_icon_poison_0><color=#hotpoison>Fierce Poison</color><SpName=sp_icon_poison_3><color=#redpoison>Crimson Poison</color><SpName=sp_icon_poison_4><color=#rottenpoison>Rotten Poison</color> all exceed thirty percent of poison consumption, they will inevitably be born
+The probability of the host's martial arts and weapons being sealed is increased。
+The chance of the host's cultivation methods and weapons being sealed is further reduced。
+The host's internal energy cannot be restored during the change of months and will be greatly lost。
+<SpName=sp_icon_poison_2><color=#coldpoison>Cold Poison</color> will inevitably be born when the toxin consumption exceeds 40%\\n
+The purity suppression effect from the pure realm effects granted by the host's washing, divine feet, and entering transformation is reduced。
+The host's pure repression effect from the pure realm effects granted by washing away impurities, divine foot, and entering transformation is enhanced。
+The Golden Silkworm King Gu will randomly devour one complete Gu inside the host's body when the month changes, and inflict a large amount of toxins on the host。
+<When the intense poison exceeds 40% of toxin consumption, it will inevitably be born
+The host's positive 'traits' will temporarily change to negative influences on all of the host's main attributes, secondary attributes, hit, evasion, attack, defense, and aptitude。
+The host's negative 'traits' will temporarily change to positive effects on all of the host's main attributes, secondary attributes, hit, evasion, attack, defense, and qualifications。
+All characters that come into close contact with the host's skin will be planted with the unrecognized green essence like a curse。
+When <SpName=sp_icon_poison_1><color=#gloomypoison>Gloomy Poison</color><SpName=sp_icon_poison_2><color=#coldpoison>Cold Poison</color><SpName=sp_icon_poison_5><color=#illusorypoison>Illusory Poison</color> all exceed thirty percent of toxin consumption, it will inevitably give rise to \\n

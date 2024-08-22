@@ -1,20 +1,20 @@
-Sunny
+Clear sky\n
 
 Hail
 
 Sandstorm
 
-Burning Sun
+Scorching sun
 
 Thunderstorm
 
-Shower
+Light Rain
 
-Snow
+Light Snow
 
 Blizzard
 
-Hurricane
+Strong wind
 
-Misty
+Fog
 

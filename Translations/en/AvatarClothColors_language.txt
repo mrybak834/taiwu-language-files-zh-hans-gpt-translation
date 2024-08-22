@@ -4,7 +4,7 @@ Yellow
 Green
 Cyan
 Blue
-Violet
+Purple
 White
-Grey
+Gray
 Black

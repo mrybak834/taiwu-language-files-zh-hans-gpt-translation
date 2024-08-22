@@ -1,13 +1,13 @@
+slender
 Thin
-Scrawny
-Middling
+Moderate
 Moderate
 Robust
-Well Developed
+plump
 Lean
-Slim
+Slender
 Chubby
-Round
+Round round
 
 
 

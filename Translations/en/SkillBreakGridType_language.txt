@@ -1,48 +1,48 @@
 Start
-Start of this Breakthrough.
+Starting point of breakthrough。
 End
-End of this Breakthrough.\nAll progress will be lost if you cannot reach this cell.
-Summary
-No Description
-Normal
-No special effect.
-Succession
-After connecting to this cell, <color=#brightblue>Success Rate of all surrounding cells will be increased by 30%</color>.
-Flexibility
-For every successfully connected cell around this cell, <color=#brightblue>this cell's Success Rate will be increased by 30%</color>.
-Perseverence
-For every failed connection around this cell, <color=#brightblue>this cell's Success Rate will be increased by 60%</color>.
-Foundation
-This cell's <color=#brightred>Success Rate is decreased by 100%</color>.\n<color=#brightblue>Success Rate of all cells surrounding this cell will be increased by 60%</color>.
-Transition
-After connecting to this cell, <color=#brightblue>1 next connection will always be successful</color>.
+The endpoint of the breakthrough.\\nThe breakthrough can only succeed when this cell is connected. Otherwise, no breakthrough rewards can be obtained.\\n。
+General Outline
+No description
+As usual
+Step-by-step breakthrough。
+Heritage
+When connecting this cell, the connection success rate of all surrounding cells is increased by <color=#brightblue>30%</color>.\\n>。
+Concealed Sea
+For every successfully connected grid around this grid, the connection <color=#brightblue>success rate increases by 30%</color>。
+Few gatherings
+For each adjacent grid with a connection failure, the connection <color=#brightblue>success rate increases by 60%</color>。
+Break and establish
+The connection rate of this tile <color=#brightred>decreases by 100%</color>.\\nThe connection rate of all tiles around this tile <color=#brightblue>increases by 60%</color>.\\n>。
+Incessantly
+The next cell connected to this cell <color=#brightblue>can definitely connect successfully</color>。
 Inspiration
-Connecting to this cell <color=#brightblue>won't increase attempt count</color>.
-Refreshment
-This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 1</color>.
-Reversal
-This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>will reduce attempt count by 2</color>.
-Steady
-This cell's <color=#brightblue>Success Rate is increased by 60%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 1</color>.
-Hard Work
-This cell's <color=#brightblue>Success Rate is increased by 100%</color>.\nConnecting to this cell <color=#brightred>will increase attempt count by 2</color>.
-Clarity
-Connecting to this cell <color=#brightblue>will reveal multiple undiscovered cells</color>.
-Challenge
-This cell's <color=#brightred>Success Rate is decreased by 60%</color>.\nConnecting to this cell <color=#brightblue>restores all failed surrounding cells</color>.
-Simplify
-This cell's <color=#brightred>Success Rate is decreased by 30%</color>.\nConnecting to this cell will turn all "special cells" around this cell into "basic cells"
-Support
-When you connect to this cell, 1 unconnected "golden" cell will be transferred to one of the "basic" cells around it.
-Culmination
-Connecting to this cell <color=#brightblue>will reduce attempt count by 3</color>.\nBut <color=#brightred>1 unconnected "golden cell" will turn into a "basic cell"</color>.
-Humility
-The higher the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
-Ambition
-The lower the attempt count is than half of the Talent limit, the more <color=#brightblue>Success Rate of this cell and all surrounding cells will increase</color>.
-Advice
-Connecting to this cell <color=#brightred>will increase attempt count by 1</color>.\nConnecting to this cell <color=#brightblue>will immediately connect 1 unconnected "golden cell"</color>.
+Connecting this cell <color=#brightblue>will not increase the breakthrough count</color>.\\n>。
+Forget myself
+The connection of this square <color=#brightred>reduces the success rate by 30%</color>.\\nConnecting to this square can <color=#brightblue>reduce the number of breakthroughs by 1</color>.\\n>。
+Against the flow
+The connection to this grid <color=#brightred>reduces the success rate by 60%</color>.\\nConnecting to this grid can <color=#brightblue>reduce the number of breakthrough attempts by 2</color>.\\n>。
+Step by step
+The connection success rate of this grid has increased by 60%.\\nConnecting to this grid will additionally <color=#brightred>increase the breakthrough count by 1</color>.\\n>。
+hard work
+The connection to this slot <color=#brightblue>increases the success rate by 100%</color>.\\nConnecting to this slot will additionally <color=#brightred>increase the number of breakthrough attempts by 2</color>.\\n>。
+Transparent
+When connecting this cell, <color=#brightblue>reveals multiple undisplayed cells</color>。
+Strange Calamity
+The connection success rate of this cell is reduced by 60%.\\nWhen connecting to this cell, multiple cells that have failed to connect will be <color=#brightblue>restored to a connectable state</color>.\\n>。
+Return of the Heart
+The connection success rate of this cell <color=#brightred>decreases by 30%</color>.\\nWhen connecting to this cell, all 'special breakthrough cells' around it change to 'normal”。
+Wedding dress
+When connecting this cell, randomly transfer one unconnected 'Bonus Breakthrough Cell' to the surrounding 'Normal' cells that can be connected。
+Nirvana
+Connecting this cell can <color=#brightblue>reduce the number of breakthroughs by 3 times</color>.\\nRandomly <color=#brightred>change 1 unconnected 'Bonus Breakthrough Cell' to 'Normal'</color>.\\n>。
+Burning heart
+The more the number of breakthroughs exceeds half of the talent limit, the higher the <color=#brightblue>success rate of connections for this grid and all surrounding grids</color> will increase>。
+Lofty aspirations
+The fewer the number of breakthroughs is below half of the talent limit, the higher the connection success rate of this grid and all surrounding grids will be>。
+Tip
+Connecting this grid will additionally <color=#brightred>increase the breakthrough count by 1 time</color>.\\nWhen connecting this grid, immediately <color=#brightblue>consider 1 unconnected 'bonus breakthrough grid' as connected</color>.\\n>。
 Complete
-You are already familiar with the key points of this technique.\nThis cell <color=#brightblue>will always connect successfully</color>.
-Mistake
-Already suffered setbacks on this cell.\nThis cell's <color=#brightblue>Success Rate will be increased by 100%</color>.\nBut <color=#brightred>you will always lose Health when connecting to this cell, regardless of it's success or failure</color>.
+Already familiar with the essentials of this pattern.\\nThis pattern will definitely <color=#brightblue>connect successfully</color>.\\n>。
+retrace a mistake
+Once faced setbacks in this position.\\nThe connection success rate for this position has increased by 100%, but connecting to this position will result in a <color=#brightred>certain amount of health loss</color> regardless of success or failure.\\n>。

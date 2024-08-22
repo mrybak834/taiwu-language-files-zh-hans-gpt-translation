@@ -1,10 +1,10 @@
 Red
 Brown
-Gold
+Golden
 Green
-Cyan
+Blue-green
 Blue
 Purple
 White
-Grey
+Gray
 Black

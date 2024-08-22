@@ -1,1541 +1,1541 @@
-Chirping Cricket
-Adoptive Father asked to capture <color=#orange>Crickets</color> 
-Move to a tile with a <color=#orange>Cricket Icon</color> on it and click it. Then consume <color=#orange>「Bug Net」</color> to start catching it. Don't be discouraged if you miss it. Simply go to another spot with a Cricket Icon on it and try again.
-I should catch some crickets for my Adoptive Father...
+Cicadas sing high
+To catch crickets for my foster father>
+Click on the plot within your sight, move to the grid where the cricket appears, then click on the <color=#orange>cricket icon</color> to use the <color=#orange>「bug-catching net」</color> to catch the cricket. If you miss your first attempt, don't be discouraged; head to the next grid where a cricket appears to try catching it again。
+I am going to catch some crickets for my adoptive father in the valley……
 
-Ferocious Valley Monkeys
-Go and drive away the Monkey King
-Go to the edge of the map where <color=#orange>「Heroic Monkey」</color> icon is, and click on it to go to the Monkey King's hideout.
-Those monkeys hurt people, so why not go to their hideout to drive them away...
+Monsters in the Valley
+Go to drive away the Monkey King
+Go to the location of <color=#orange>「Hero Monkey Jie」</color> at the edge of the map, click the adventure icon, and you can go to the hiding place of the Monkey King。
+The monkeys are harming people; it would be better to go to the monkey king's hiding place and drive them away……
 
-Return to Bamboo Hut
-Go back to the <color=#orange>Bamboo Hut</color> 
-Go to <color=#orange> 「Deep Valley - Bamboo Hut」</color> and click on it's icon to open <color=#orange> 「Return to Bamboo Hut」</color> adventure.
-Adoptive Father has been waiting for me for a long time, i should return to Bamboo Hut as soon as possible...
+Return to the Bamboo Cottage
+Set off to return to the <color=#orange>Bamboo Cottage</color>\\n>
+Head to the location <color=#orange>「Shen Gu - Zhu Lu」</color>, and click on the adventure icon to start the <color=#orange>「Return to Zhu Lu」</color> adventure。
+My adoptive father has been waiting for me for a long time, so let’s head back to the Bamboo Cottage as soon as possible……
 
-Valley Exit
-Go to the edge of the Deep Valley to find an exit
-Go to <color=#orange>「Deep Valley Exit」</color> at the edge of the Deep Valley map, click on the encounter icon and leave Deep Valley.
-Since Adoptive Father instructed me to, i should immediately leave Deep Valley...
+Deep Valley Exit
+Go to the edge of the valley to find the exit
+Go to the location of the <color=#orange>「Deep Valley Exit」</color> at the edge of the Deep Valley map, click the adventure icon, and leave the Deep Valley。
+Since it's the order of my adoptive father, let's immediately set off to the edge of the deep valley to look for the exit……
 
-Down the river
-Go down the river and leave the area
-Go to the edge of the map, find the <color=#orange>「Down the river」</color> icon and click on it to enter the adventure.
-Go to the river and leave this place just like Adoptive Father has instructed me...
+Downstream
+Leave this place by going down the river
+Go to the location of <color=#orange>'Drifting Down River'</color> on the edge of the map and click the adventure icon to start this adventure.\n。
+Head to the riverbank, leaving this place is the path indicated by the adoptive father……
 
-Ask for a vessel
-Go to <color=#orange>Hidden Village</color> and ask to borrow a boat
-Look for <color=#orange>「Hidden Village」</color> on the map. I wonder if there are any boats in the village that could help me pass through the dark river?
-Now the only way to get out of here is to borrow a boat from a nearby village...
+Request to borrow a boat
+Go to <color=#orange>Secret Village</color> to borrow a boat
+Search for the <color=#orange>“Hidden Village”</color> on the map. Is there a boat in the village that can navigate the secret river？
+Right now, the only way to leave this place is to borrow a boat from a nearby village……
 
-Old Dish
-Search for wild vegetables for the Old Daoist
-Search around the village for <color=#orange>Wild Vegetables</color> and deliver them to the Old Daoist.
-Old Daoist wants wild vegetables, I can only search around for a bit...
+Old Daoist seeks vegetables
+Searching for wild vegetables for the Daoist priest
+Search for wild vegetables around the small village and deliver them to the old Taoist priest。
+The Daoist wants wild vegetables, so I can only search around for a while……
 
-Find Young Man
-Find <color=#orange>Young Man</color>
-Find <color=#orange>Young Man</color> and talk to him.
-Fortunately i can also ask villagers here for advice... But i don't know where these people are actually from...
+Looking for youth
+Looking for <color=#orange>strong young man</color>
+Look for the <color=#orange>strong young man</color> and talk to him。
+Fortunately, I can still ask the villagers here for advice... but who are these few people really?
 
-Gathering wild vegetables
-Collect <color=#orange>Food</color> 
-When you are in a resource tile, select <color=#orange>「Collect」</color> and select the <color=#orange>「Resource」</color> to obtain a certain number of resources. The amount of a given resource will be affected by the status of the world and the type of resources that the different tiles produce.
-It's not difficult to pick wild vegetables, pick some and go back...
+Collecting wild vegetables
+Collect <color=#orange>ingredients</color>\\n>
+When at a resource plot, select <color=#orange>「Gather」</color>, and choose the <color=#orange>「resource」</color> you want to collect to obtain a certain number of the corresponding resource. The wealth of the world and the types of resources produced in different plots will affect the quantity of a certain resource obtained。
+Picking wild vegetables isn't difficult; let's gather some and head back……
 
 Cooking dishes
-Use <color=#orange>Kitchen</color> to cook food
-Click on the <color=#orange>Industry Icon</color> in the 「Hidden Village」 to open the industry screen. Select building <color=#orange>「Kitchen」</color>, press the <color=#orange>「Crafting」</color> button, and add a tool, resources, and an ingredient to cook a dish with.
-If you cook some wild vegetables for Old Daoist, you should be able to borrow a boat...
+Cooking dishes in the <color=#orange>food cellar</color>\\n
+Click on the <color=#orange>industry icon</color> of 'Secret Little Village' to open the industry map. Enter the building <color=#orange>'Food Cellar'</color>, add tools, starters, and ingredients in the <color=#orange>'Manufacture'</color> interface to cook a dish。
+If I prepare some wild vegetables to offer to the Daoist priest, I should be able to borrow a small boat, right……
 
-Find an Official
-Find an <color=#orange>Official</color> 
-Find an <color=#orange>Official</color> and talk to them.
+Searching for the powerful
+Looking for the <color=#orange>powerful</color>
+Seek out the <color=#orange>powerful</color> and have a conversation with them。
 
-Take a boat by force
-Choose whether to pick up the boat and leave by yourself
-Go back to <color=#orange>「Hidden Village」</color> and make your decision.
-What should i do now? Should i just take the boat and leave on my own...
+Forcefully take the ship
+Choose whether to take the boat yourself and leave
+Return to <color=#orange>「Hidden Village」</color> and make a decision again。
+What should we do now? Should we leave by taking the boat ourselves……
 
-Steal a boat
-Go along <color=#orange>Dark River</color>
-After obtaining <color=#orange>「A secure boat」</color>, go to the edge of the map to <color=#orange>「Dark River」</color> icon to enter an adventure that will let you leave this area.
-Since the boat has been obtained, quickly follow along the dark river to leave and find Adoptive Father...
+Stolen small boat
+Leave along the <color=#orange>mountain bottom dark river</color>\\n
+After obtaining the <color=#orange>「Reliable Little Boat」</color>, head to the <color=#orange>「Underground River at the Mountain Base」</color> at the edge of the map to leave this place。
+Having obtained the ship, quickly leave along the dark river; finding my adoptive father is the most important thing……
 
-Pick up a boat
-Return to the Hidden Village and find a boat to leave
-Go back to the <color=#orange>「Hidden Village」</color> and get the <color=#orange>「A secure boat」</color> item.
-So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I should pick up the boat from the village and leave this place...
+Return to the village to look for the boat
+Return to the village to seek a boat to leave this place
+Return to <color=#orange>「Secret Village」</color> to obtain the item <color=#orange>「Sturdy Little Boat」</color>.\\n>。
+After leaving the valley like this, I hope my foster father can provide answers, and let's go back to the small village to find a boat and leave this place……
 
-Cross the River
-Take <color=#orange>A Secure Boat</color> and leave this place
-Go to the adventure <color=#orange>「Dark River」</color> and use the item <color=#orange>「A secure boat」</color> to enter it.
-So many things happened after i've left the valley, i hope Adoptive Father will be able to explain them to me. I have already obtained the boat, now i should leave this place...
+Crossing the river by boat
+Take the <color=#orange>small boat</color> and leave this place
+Go to the adventure <color=#orange>「Dark River at the Foot of the Mountain」</color>, and use the item <color=#orange>「Sturdy Small Boat」</color> to start the adventure.\\n。
+After leaving the valley, I hope my adoptive father can provide answers. Since we have obtained the ship, let's leave this place quickly……
 
-Find Young Urchiin
-Find <color=#orange>Young Urchin</color>
-Find <color=#orange>Young Urchin</color> and talk to him.
+Looking for the naughty boy
+Looking for <color=#orange>Little Rascal</color>\\n>
+Find the <color=#orange>little rascal</color> and talk to him。
 
-Find Huanyue
-Find <color=#orange>Huanyue</color>
-Find <color=#orange>Huanyue</color> and talk to her.
+Looking for the moon again
+Looking for <color=#orange>Huan Yue</color>\\n>
+Look for <color=#orange>Haiyue</color> and talk to her。
 
-Changes in the village
-Hurry back to the <color=#orange>Small village</color> 
-Go to the 「Hidden Village」 tile and click on the adventure icon to enter the <color=#orange>「Changes in the village」</color> adventure.
-It seems that someone is still in the small village! Go and get them!
+Strange changes in the village
+Quickly return to <color=#orange>the small village</color>\\n>
+Go to the plot 'Secret Village' and click on the adventure icon to enter the <color=#orange>'Village Anomaly'</color> adventure。
+It seems that there are still people in the small village! Hurry to save them！
 
-Expelled from the village
-In that case, just take the boat and leave...
+Expelled from the small village
+Since that's the case, let's leave with the boat……
 
-Exile Station
-Find a Station that leads to <color=#orange>Taiwu Village</color>
-Explore the map and find a <color=#orange>「Station」</color> to find a way to reach <color=#orange>「Taiwu Village」</color>.
-There must be a station here that can go to Taiwu Village, I need to visit it as soon as i can...
+Wangliu Post Station
+Looking for the <color=#orange>post station</color> to Taiwu Village\\n>
+Explore the map and head to <color=#orange> 'Relay Station' </color> to find a way to reach <color=#orange> 'Taiwu Village' </color。
+There must be a post station here that can take me to Taiwu Village, I need to hurry and pay a visit……
 
-Find a path to Taiwu
-Go to <color=#orange>Taiwu Village</color>
-Explore the map and go to the <color=#orange>「Taiwu Village」</color>.
-I heard that Taiwu Village is here, so let's go there quickly...
+Finding the Way to Taikong
+Go to <color=#orange>Taiwu Village</color>\\n>
+Explore the map and head to <color=#orange> 'Taiwu Village' </color>.\\n>。
+I heard that Taiwu Village is right here, so let's hurry there……
 
-Rebuilding the Ancestral Hall
-Build the <color=#orange>Taiwu Ancestral Hall</color> 
-On 「Taiwu Village」 tile click on the <color=#orange>Industry Icon</color> to enter the industry screen. Click on the <color=#orange>「Build」</color> button on the bottom right to enter the construction mode, and select the <color=#orange>「Ancestral Hall」</color>. Make sure that you have enough resources to build it. To build it, you can either manually select workers or click on the 「Auto Arrange」 button to automatically set the most efficient workers possible. Then press the 「Start Construction」 button and select the available space on the industry screen to start building. You will have to wait a certain amount of time before that building is finished.
-I should build this Ancestral Hall while waiting for Adoptive Father to return...
+Rebuild the ancestral hall
+Renovate the <color=#orange>House of Taiwu Ancestors</color>
+Click the <color=#orange>industry icon</color> in 'Taiwu Village' to enter the industry map. Click the <color=#orange>'Construction Space'</color> in the lower right corner to enter the construction interface, and select the building <color=#orange>'Taiwu Ancestral Hall'</color>. When the currently held resources meet the consumption requirements for construction, you can select several builders, or click 'Quick Arrangement' to have the system automatically assign available manpower for construction. Click 'Start Construction' and choose available vacant land on the industry map, then wait for a certain period of time to rebuild the ancestral hall。
+While waiting for the adoptive father, let's first build the Taiwu clan ancestral hall in the village……
 
 Revitalize Taiwu
-Create buildings in the village
-Go to <color=#orange>「Industry」</color> in 「Taiwu Village」, then click on 「Build」 to create a building. On the 「Study」 screen you can click on the <color=#orange>「Fine arts」</color> button to study Fine art books to unlock new buildings based on the books you read. Natural resources will grow and expand in different seasons. Some specific buildings will promote the growth of natural resources. Buildings and natural resources can be removed by going to the <color=#orange>Remove</color> tab in their info screen. When a building or resource are removed, you will empty a space and get some resources back.
-To revitalize Taiwu Village, i will have to create some buildings...
+Managing village construction
+Enter 'Taiwu Village' and click on 'Construction Space' to build buildings. In the 'Reading Books' interface, select 'Skills' books. Based on your reading progress, you can unlock specific buildings. Once a building is unlocked, you can construct it with 'Heartwood'. Expanding buildings needs to be done near basic buildings or specific resources. Natural resources will grow or expand in different seasons, and certain buildings will promote the growth of natural resources. You can also arrange for manpower to dismantle in the 'Dismantle Interface'. Once a building or resource is dismantled, it will free up building space and return some resources。
+To revitalize Taiwu, it is essential to first manage the village, and constructing buildings is indispensable……
 
-Mark Location
-<color=#orange>Dispatch villagers</color> to collect resources
-When you are on a resource tile, click on <color=#orange>「Dispatch」</color> button to dispatch a villager from Taiwu Village to collect resources from that tile. Click on the character icon in the middle of the dispatch screen to manually send a specific villager, or click on <color=#orange>「Auto Dispatch」</color> to automatically send a random villager. After dispatching a villager, you can select a specific resource and earn it every month.
-There are so many resources... They have to be gathered through collective efforts...
+Dispatch villagers
+<color=#orange>Send villagers</color> to gather resources\\n
+When you are on a resource plot, click <color=#orange>「Dispatch」</color> to send villagers from Taowu Village to gather resources from that plot. Click the character icon in the center of the dispatch interface to dispatch a specific villager, or click <color=#orange>「Auto Dispatch」</color> at the top to randomly send villagers. After dispatching villagers, you can select specific resources to harvest that resource every month。
+This many supplies need to be gathered with the strength of many people……
 
-News about an Immortal
-Find the <color=#orange>「Ancient Tomb of the Immortal」</color> adventure
-While taking care of Taiwu Village, I'm looking for a <color=#orange>「Ancient Tomb of the Immortal」</color> adventure. Maybe i should wait for a while...
-I don't know where this "Ancient Tomb of the Immortal" is...
+Heard of the immortal
+Looking for adventures <color=#orange>「Ancient Tomb Immortal」</color>\n>
+While managing Ta Wu Village, I listen for the whereabouts of the 'Ancient Tomb Immortal.' Perhaps I need to patiently wait for a while……
+This 'ancient tomb immortal' also does not know where he is……
 
-Ancient Tomb of the Immortal
-Find <color=#orange>Ancient Tomb of the Immortal</color>
-The rumored <color=#orange>Ancient Tomb of the Immortal</color> really exists. I should go and check it out...
-This "Ancient Tomb of the Immortal" seems to be associated with Taiwu, this trip may be able to answer some of my questions...
+Ancient Tomb Immortal
+Searching for the <color=#orange>Ancient Tomb Immortal</color>
+The rumored <color=#orange>Ancient Tomb Immortal</color> actually exists; let's go on an adventure to find out。
+This 'Ancient Tomb Immortal' seems to be related to Taiwu, and perhaps this journey can answer my questions and clear my doubts……
 
-Mystery of the Immortals
-Return to <color=#orange>Taiwu Village</color>
-Return to <color=#orange>「Taiwu Village」</color>.
-More and more mysteries are being solved... Let's go back to the village first...
+Immortal's Suspicion
+Return to <color=#orange>Taiwu Village</color>\\n>
+Return to <color=#orange>「Taiwu Village」</color>。
+The more the mystery is unraveled, the more it grows... Let's go back to the village first……
 
-Strange Person Appeared
-Meet the strange person
-Meet the strange person near the <color=#orange>「Taiwu Village」</color>
-Is this strange person coming for Taiwu Village?! If I am not in the village, the village will be destroyed!
+Strange People in the World
+Try to face the otherworldly beings
+Near <color=#orange>「Taiwu Village」</color>, confront the outsiders。
+This stranger has come for Chong Taiwu?! If I were not in the village, it would surely be destroyed and the people would perish！
 
-Strange Person Brings Disaster
-Protect the <color=#orange>「Taiwu Village」</color>!
-This strange person is wreaking havoc in the village, if I don't return, I'm afraid it will be in a grave danger!
+Others bring misfortune
+In <color=#orange>「Taiwu Village」</color>, protect the village。
+This strange person is causing great destruction in the village; if I don't return, I'm afraid the outcome will be dire！
 
-Disastrous Avatar
-Fight the <color=#orange>XiangShu Avatar</color>!
-Return to the <color=#orange>Taiwu Village</color> area to fight the XiangShu Avatar and unseal the Sword Tomb.
-The XiangShu Avatar is raging, if I don't go back to the village, I'm afraid there will be more disasters!
+Transformed into disaster
+Engage the <color=#orange>Avatar of Xiangshu</color>\\n>
+Return to the <color=#orange>Taiwu Village</color> area, confront the avatar of Xiang Shu, and unseal the Sword Tomb。
+The avatar of the central hub is rampaging; if I do not return to the village, I fear the chances of survival will be slim！
 
 Taiwu Station
-Restore the Taiwu Village's <color=#orange>Station</color>
-Go to the <color=#orange>「Taiwu Village-Derelict Stagecoach」</color> and enter the <color=#orange>「Derelict Stagecoach」</color> adventure.
-For now the only thing i can do is to try to rebuild the Station and communicate with various sects...
+Renovate the Taiwu Village <color=#orange>Post Station</color>\\n>
+Go to <color=#orange>「Taiwu Village - Abandoned Post」</color> and enter the adventure <color=#orange>「Abandoned Post」</color>.\\n>。
+The only way forward is to try to rebuild the post station and establish communication with various sects……
 
-Visiting Sects
-Visit <color=#orange>Sects</color> to learn martial arts
-Press the <color=#orange>「World Map」</color> at the top of the map on the bottom right, select a sect that has an opened Station on the World Map menu, and spend Money and time to travel to the sect. The cost increases with the travel distance. Equipping better <color=#orange>「Mounts」</color> can reduce the cost of traveling. If you are traveling through an area that doesn't have a Station, you will need to spend a certain amount of <color=#orange>「Prestige」</color> to open a Station in that area. The Prestige cost grows with each opened Station.
-Quickly go to various sects to practice martial arts, and conspire together to defeat XiangShu!
+Visit the sect
+Visit the <color=#orange>sect</color> to practice martial arts
+Click on the <color=#orange>「World Region」</color> above the map in the lower right corner, select the sect with open stations in the travel map interface, and spend silver and time to reach the sect's location, with costs increasing with travel distance. When silver is insufficient, additional time will need to be consumed, and you can shorten travel time by changing <color=#orange>「Transport」</color>. If you are heading to or passing through areas with yet-to-be-opened stations, you will need to spend <color=#orange>「Prestige」</color> to open the stations in that area。
+Hurry to each sect to practice martial arts and devise a plan to attack the central power！
 
-Faceless Monk visits the tomb
-Talk to the <color=#orange>Shi Shufu</color> near the Sword Tomb
-Go to the tile where <color=#orange>Shi Shufu</color> is located, and talk to him to get information.
-Master Shi Shufu is exploring near the Sword Tomb, why not go and hear what he found...
+The old monk explores the tomb
+Talk to <color=#orange>Shishu Fu</color> near the Sword Tomb
+Go to the location of <color=#orange>Shishu Fu</color>, and talk to him to obtain information。
+Master Shushu is currently investigating near the Sword Mound. Why not go listen to what he has discovered……
 
-Destroy the Demonic Mounds
-Unseal the <color=#orange>Sword Tomb</color> and meet the <color=#orange>XiangShu Avatar</color>
-Go to <color=#orange>「Sword Tomb」</color> to enter the adventure. Unseal the Sword Tomb and face the enemy. The battle will be extremely dangerous, so be sure to prepare carefully...
-The Sword Tombs must be the key to defeating the XiangShu! I will unseal the Sword Tombs and find out!
+Eliminate the evil tomb
+Unseal <color=#orange>Jianzhong</color>, face the <color=#orange>Xiangshu Avatar</color>\\n>
+Go to the area of the <color=#orange>‘Sword Tomb’</color>, enter the adventure, unlock the Sword Tomb, and face the enemies. The battle is particularly dangerous, so make sure to prepare thoroughly in advance……
+The Sword Tomb is undoubtedly the key to defeating the Xian Shu! I will unseal the Sword Tomb and探究竟！
 
-Weaving of Mo Nyu
+Mo Woman's Clothing
 
-Go to the <color=#orange>「Sword Tomb “Weaving of Mo Nyu”」</color> and unseal the Sword Tomb to face the enemy. Here the birds are hovering, the green smoke is lingering, and it is extremely dangerous...
+Go to <color=#orange>‘Sword Tomb "Mo Nuyi"’</color>, unseal the sword tomb and fight against the enemies. Here, birds are circling, green smoke is swirling, and the danger is extraordinary……
 
-Vanquish Evil
+Fujia Tie
 
-Go to the <color=#orange>「Sword Tomb “Vanquish Evil”」</color> and unseal the Sword Tomb to face the enemy. Not a single blade of grass grows here, full of evil spirits, this place is extremely dangerous...
+Head to <color=#orange>‘Sword Tomb "Fuxie Iron"’</color>, unseal the sword tomb and confront the enemies. This place is barren, filled with sinister energy, and exceptionally dangerous……
 
-Glacial Vassal
+Great Mystery Condensation
 
-Go to the <color=#orange>「Sword Tomb “Glacial Vessel”」</color> and unseal the Sword Tomb to face the enemy. Dripping water here turns into ice, this place is extremely cold and dangerous...
+Head to <color=#orange>「Sword Tomb 'Daxuan Ning'」</color>, unseal the sword tomb and face the enemy. The water here freezes instantly, it's extraordinarily cold, and extremely dangerous……
 
 Phoenix Cocoon
 
-Go to the <color=#orange>「Sword Tomb “Phoenix Cocoon”」</color> and unseal the Sword Tomb to face the enemy. Here the golden light shines brightly, the phoenix sings, and it is extremely dangerous...
+Proceed to <color=#orange>「Sword Tomb 'Phoenix Cocoon'」</color>, unseal the sword tomb and confront the enemies. The light here is dazzling, the phoenix is crying out, and the danger is extraordinary……
 
-Spirit Smelting
+God Burning Refinement
 
-Go to the <color=#orange>「Sword Tomb “Spirit Smelting”」</color> and unseal the Sword Tomb to face the enemy. The strange fire is not extinguished here, and sorrowful songs are often sung. The danger here is abnormal...
+Go to <color=#orange>'Sword Tomb "Burning God Refining"' </color>, unseal the Sword Tomb and face the enemies. The strange fire here never goes out, often singing a mournful song, and the danger is extraordinary……
 
-Draconic Anima
+Unraveling the Dragon Soul
 
-Go to the <color=#orange>「Sword Tomb “Draconic Anima”」</color> and unseal the Sword Tomb to face the enemy. Flood dragons come and go here, there are hidden dragons singing, it is extremely dangerous...
+Go to <color=#orange>‘Sword Tomb "Dragon Spirit Unsealing"’</color>, unseal the Sword Tomb and confront the enemies. This place is rife with Jiaos and snakes, and there are faint sounds of dragons; it is extraordinarily dangerous……
 
-Anchorite
+Melting Dust Hidden
 
-Go to the <color=#orange>「Sword Tomb “Anchorite”」</color> and unseal the Sword Tomb to face the enemy. There are bursts of brilliance here, the mist is dense, and the danger is abnormal...
+Go to <color=#orange>「Sword Tomb "Melt Dust Hidden"」</color>, unlock the sword tomb and face the enemies. The place is filled with brilliant light and mist, extremely dangerous……
 
-Infernal Acerjail
+Devil Prison Wood
 
-Go to the <color=#orange>「Sword Tomb “Infernal Acerjail”」</color> and unseal the Sword Tomb to face the enemy. Here, the maple forest is bright red, killing is endless, it is extremely dangerous in here...
+Go to <color=#orange>「Sword Tomb 'Prisoner of Magic Wood'」</color>, unseal the Sword Tomb and confront the enemy. The maple forest here is crimson, bloodshed is relentless, and the danger is extraordinary……
 
-Wonderglow
+Ghost God Xiá
 
-Go to the <color=#orange>「Sword Tomb “Wonderglow”」</color> and unseal the Sword Tomb to face the enemy. Here the sun is shining, the sun and the moon are in the same sky, and it is extremely dangerous...
+Go to <color=#orange>‘Sword Tomb “Ghost God X霞”</color>, unseal the Sword Tomb and confront the enemy. The light here is dazzling, with the sun and moon in the same sky, extremely perilous……
 
-Escape from here
-Get out of here quickly!
-The land covered with red basalt stones has been swallowed up by the XiangShu... Leave the area, click the <color=#orange>「World Map」</color> button on top of the map on the bottom right, and select the area without the <color=#orange>Destruction Marker</color> on the World Map screen.
-This place is very dangerous, i need to escape quickly!
+Escape from here\n
+Quickly escape from this place
+In the land covered with red basalt, has already been devoured by the nexus... Leave this place, click on the <color=#orange>「World Region」</color> at the top right corner of the map, and select an area without the <color=#orange>destruction mark</color> in the travel map interface。
+This place is very dangerous, you must escape quickly！
 
-Worldly Skills
-Ask someone from a sect to <color=#orange>Consult a martial art</color>
-Once you have obtained permission to learn skills from a sect, talk to the person who belongs to that sect and ask them to teach you skills in the <color=#orange>（Learn arts...）</color> tab. Click on the <color=#orange>「Settlement」</color> icon at the top of the sect tile to see who belongs to the sect.
-To practice the world's techniques, to destroy the Sword Tombs, and to eradicate the XiangShu, I am obliged to do so as a Taiwu!
+Worldly Cultivation Techniques
+Consulting the sect members about martial arts techniques>
+After obtaining the artistic training permission from the sect, talk to the characters belonging to that sect to consult them about martial arts in the <color=#orange>「Practice」</color> section. Click on the <color=#orange>「Faction」 icon</color> above the sect area to view the characters associated with the sect。
+Practicing the martial arts of the world, eradicated the Sword Tomb, and executed the Xangs, as the Taewu, I have an unshirkable responsibility！
 
-Practicing Martial Art
-<color=#orange>Practice</color> skills and equip them in <color=#orange>Loadout</color> tab
-After obtaining books, you can read them by clicking on <color=#orange>「Study」</color> button on the bottom left. You can randomly get <color=#orange>「Sudden Insight」</color> and use study strategies to improve the reading efficiency. To practice martial arts, go to the <color=#orange>「Martial Arts」</color> menu and select <color=#orange>「Practice」</color>. There you can select a skill that you want to practice, and spend <color=#orange>「Time」</color> and <color=#orange>「Experience」</color> to practice it. Practice and Study do not conflict with each other. When the practice percentage of a skill reaches 50%, the skill can be equipped to the corresponding slot in the <color=#orange>「Loadout」</color> screen to be used in battle. When the practice percentage of a skill reaches 100%, you can <color=#orange>「Breakthrough」</color> it in the <color=#orange>「Practice」</color> menu to increase it's power, and get an <color=#orange>「Understanding」</color> provided by the pages you've read.
-Practicing martial arts is hard, but that's what i have to do...
+Practice of martial arts
+<Practice the techniques and circulate the energy>
+After obtaining the martial arts manuals, you can select the corresponding books to read under <color=#orange>「Study Books」</color> on the main interface and complete the reading over time. During each month, you may experience a <color=#orange>「Moment of Insight」</color> and reading strategies to assist with reading efficiency, and the reading process does not consume resources. In the character interface, selecting the <color=#orange>「Martial Arts」</color> interface and choosing <color=#orange>「Practice」</color> will take you to the <color=#orange>「Practice」</color> interface, where you can select a martial art and consume <color=#orange>「Time」</color> and <color=#orange>「Experience」</color> for practice. The level of practice and the reading progress do not conflict with each other. When the practice level reaches 50%, the martial art can be added to the corresponding position in the <color=#orange>「Internal Skill」</color> interface for use in combat; meanwhile, when the practice level reaches 100%, you can perform a <color=#orange>「Breakthrough」</color> based on the <color=#orange>「Mental Techniques」</color> provided by the completed pages of the manuals to enhance the power of that martial art。
+Practicing martial arts is certainly a苦差事, however, diligently applying the principles of mechanics is the true path……
 
-Sect Support Level
-Getting Sect Support
-You can see the current Sect Support either on the bottom right of the 「Industry」 screen, or on top of the 「Sect」 menu. The level of skills and fine arts that will be taught to you depends on how high your Sect Support is.
-If you want to practice more profound techniques, you have to get higher Sect Support...
+Faction support\n
+Gain support from the sect
+In the lower right corner of the 'Industry' interface for the 'Faction', you can check the current faction support level. The levels of the skills and techniques that can be practiced increase with faction support。
+If you want to practice more advanced techniques, you need to gain the support of a higher-ranking sect……
 
-Regional Favor
-Getting Regional Favor
-You can see the current Regional Favor on the bottom right of the 「Industry」 screen, or on the area icon on 「World Map」. You can obtain Regional Favor by defeating 「Outlaws」 and destroying the 「Outlaw Hideouts」 in the area.
-If you want to obtain more Regional Favor, you need to fight wicked people...
+Regional benevolence
+Obtain regional grace
+In the lower right corner of the 'Sect' 'Industry' interface, you can view the regional merits of the sect's affiliated area. Regional merits can be obtained by defeating the 'Outer Way' of that area or eliminating the 'Outer Way Nest' in that area。
+To obtain higher regional favor, it is necessary to eliminate evil and heretical people in this area……
 
-Immortal guest pays a visit
-The first Sword Tomb has been destroyed, you can return back to<color=#orange>「Taiwu Village」</color>.
-After breaking Sword Tomb, why not return to the village to see what changed...
+Visitors from afar
+Have broken the first sword tomb, can return to the location <color=#orange>“Taiwu Village”</color>.\\n>。
+I have broken through a sword tomb, it's better to return to the village and see what changes there are……
 
-Seeking Legendary Manuals
-Look for <color=#orange>Legendary Manuals</color>
-Legendary Manuals will be released in the area <color=#orange>「Legendary Manual Adventure」</color>, all sorts of people will fight for them. Defeat all of them to get the manual, or take advantage of the person who acquires it first with the <color=#orange>「Legendary Manual Interaction」</color>.
-The ownerless Legendary Manuals will surely be contested by the experts from all over the world... Those who hold the Legendary Manuals will inevitably attract all kinds of people...
+Exploring Marvelous Books
+Exploring the <color=#orange>Book of Wonders</color>\\n>
+When the Special Book Codex is released, it will trigger <color=#orange>「Special Book Adventures」</color> in the area, attracting people from all sides to compete for it. Defeating others will allow you to claim the Special Book and seize the initiative to obtain it quickly. Engaging in <color=#orange>「Special Book Interactions」</color> with the holder of the Special Book still provides a chance to acquire the book from them。
+The unowned book of wonders will surely attract competition from experts around the world... The one who possesses the book of wonders will inevitably face covetousness or requests from all sides……
 
-Interpret the classic
-Decipher the <color=#orange>Legendary Manual</color> 
-Click on <color=#orange>「Legendary Manuals」</color> to enter the interface. When acquiring a legendary manual, you can consume <color=#orange>「Experience」</color> to open the corresponding attribute bonuses and open the special effect slots where you can place specific weapons or skills to obtain special enhancements; defeating the demons in the legendary manuals will unlock the breakthrough result save slot for such skills.
-These strange books are definitely not from this world, it's as if gods sent them here...
+Interpretation of a Strange Book
+Interpretation of <color=#orange>Miraculous Book of Treasures</color>\\n>
+Click <color=#orange>「Qi Shu Bao Dian」</color> to enter the interface. When obtaining the corresponding Qi Shu for your skills, you can consume <color=#orange>「Li Lian」</color> to activate the corresponding attribute bonus and unlock special effect slots for placing specific weapons or skills for additional enhancement; defeating the inner demons within the Qi Shu will unlock the slots for saving breakthrough results of such skills。
+The extraordinary book is not of this world; it truly seems to have divine assistance……
 
-Attracting the dead
-The second Sword Tomb has been destroyed, you should return to the <color=#orange>「Taiwu Village」</color>.
-Destroyed another Sword Tomb, might as well go back to the village to see if anyone is visiting...
+Attracting Lost Souls
+Have broken through the second sword tomb, can return to the ground <color=#orange>「Taiwu Village」</color>.\\n>。
+Having shattered another sword tomb, it would be better to return to the village and see if anyone has come to visit……
 
 Platform of Reincarnation
-Build <color=#orange>Soul Bridges</color>
-Go to the 「Taiwu Village」 Industry and click on the Build button to make <color=#orange>「Soul Bridges」</color> using the 「Wheel of Six Paths」 core material. Enter the 「Soul Bridges」 screen to send the deceased to reincarnation. Expanding the 「Soul Bridges」 will increase the number of places where the deceased can be sent to reincarnation.
-Life and death are different ways, but this thing can send souls into reincarnation, which is a real miracle...
+Construct the <color=#orange>Cycle Platform</color>
+Enter the 'Taiwu Village' industry and click on the construction space to use the 'Six Paths Wheel' to build the building <color=#orange>'Reincarnation Platform'</color>. Entering the 'Reincarnation Platform' interface allows you to send the deceased into reincarnation. Expanding the 'Reincarnation Platform' can increase the destinations for the deceased to enter reincarnation。
+Life and death are separate paths, but this object can actually guide souls through reincarnation, which is quite extraordinary……
 
-Immortal guest returns
-The third Sword Tomb has been destroyed, you should return to the <color=#orange>「Taiwu Village」</color>.
-Another Sword Tomb has been destroyed, maybe it's time to inform Daoist Master Ran Chenzi about it...
+The immortal guest returns
+Have broken the third sword tomb, can return to the location <color=#orange> 'Taiwu Village' </color>.\\n>。
+Another sword tomb has been broken, perhaps I should inform Daoist Ranchen about this……
 
-Mysterious bamboo
-Look for <color=#orange>Mysterious bamboo's</color> location
-Go to <color=#orange>「Mysterious bamboo」</color> to find out more.
-Daoist Master said that this is where the Mysterious bamboo should be, I should check it out...
+Amethyst Bamboo
+Explore the place of <color=#orange>Purple Bamboo of Xuan Stone</color>\\n
+Head to the adventure <color=#orange>「Mysterious Stone Purple Bamboo」</color> to find out。
+The Daoist said that the mysterious stone is at the purple bamboo place; I should go investigate it……
 
-Zizhu Avatar
-Befriend <color=#orange>Zizhu Avatar</color>
-Look for <color=#orange>「Zizhu Avatar」</color> wandering around the world and interact with them to improve their goodwill and to learn the cause of their appearance...
-In order to "Enlighten their aspirations, guide their heart", i must become friends with this child first...
+Purple Bamboo Incarnation
+Forming a bond with the <color=#orange>Purple Bamboo Avatar</color>
+Explore and interact with the wandering 'Purple Bamboo Incarnation' around the world to enhance its favorability, and you may understand the cause and effect of its origin……
+One must first befriend and cultivate a good relationship with this child to 'enlighten their aspirations and guide their hearts……
 
-Mo Nyu Avatar
-Befriend <color=#orange>Mo Nyu</color>
-The child is surrounded by birds, joking and playing, very intimate...
+Mo girl transforms
+Make friends with <color=#orange>Miss Mo</color>
+This child is surrounded by birds, playing and joking, unusually intimate……
 
-Yao Chang Avatar
-Befriend <color=#orange> Dayue Yao Chang</color>
-This young man wears tough and sharp equipment, dedicated to slaying demons and demons, and is always accompanied by armored soldiers...
+Yao often transforms
+Make friends with <color=#orange>Dayue Yaochang</color>
+This young man dons armor and wields sharp weapons, determined to slay demons and eliminate evil, often accompanied by armored divine soldiers……
 
-Jiu Han Avatar
-Befriend <color=#orange>Jiu Han</color>
-Ice has its own uses... such as shaping and sculpting...
+Nine Cold Embodiment
+Make friends with <color=#orange>Jiu Han</color>
+Cold ice has its place to be used... for example, mimicking shapes and carving appearances……
 
-Huang'er Avatar
-Befriend <color=#orange>Jin Huang'er</color>
-The spirit of a child should be treated with good wine!
+Phoenix transforms
+Make friends with <color=#orange>Golden Phoenix</color>\\n>
+A pure heart should be treated with fine wine and good brew！
 
-Yihou Avatar
-Befriend <color=#orange>Yi Yihou</color>
-Pin the flowers and wear a crown, taste the bamboo and tune the strings, the raw silk and the brocade, all for the infatuation of burning love...
+Transform into Hou
+Make friends with <color=#orange>Yi Yi Hou</color>
+Wearing hairpins and crowns, savoring bamboo tunes, draping silk and brocade, all for infatuation and fervent passion……
 
-Wei Qi Avatar
-Befriend <color=#orange>Wei Qi</color>
-If you really don't know what the "Dao" is, you might as well follow the former sages and worship them...
+Wei Qi transformation
+Make friends with Wei Qi>
+If you really do not know where the 'Way' is, it may be worthwhile to follow the footsteps of the wise predecessors and pay your respects and worship for a while……
 
-Yi Xiang Avatar
-Befriend <color=#orange>Yi Xiang</color>
-The jade of the He family, the pearl of the Marquis of the Sui Dynasty, may not be flawless...
+To become an embodiment
+Make friends <color=#orange>to</color>
+The jade of He and the pearl of Suihou are not necessarily flawless……
 
-Xue Feng Avatar
-Befriend <color=#orange>Xue Feng</color>
-Immortality is of course only a gorgeous dress, and the embroidered clothes can match it...
+Blood Maple transfigured
+Make friends with <color=#orange>Blood Maple</color>\\n>
+Immortal achievements can only be matched by splendid crowns and beautiful garments……
 
-Shu Fang Avatar
-Befriend <color=#orange>Shu Fang</color>
-From the scriptures to the history, the mouth recites the heart, this child is really an unparalleled talent...
+Shu Fang's incarnation
+Make friends with <color=#orange>Shufang</color>\\n>
+Morning classics and evening history, reciting with the mouth and contemplating with the heart, this child is truly a talent rare in the world……
 
-Sword Tomb Change
-Sword Tombs are temporarily closed, you should return to the <color=#orange>「Taiwu Village」</color>.
-Since the Sword Tombs have been sealed, it is impossible to destroy them for the time being... let's go back to the village and have a break...
+Changes in the Sword Tomb
+The Sword Tomb is temporarily closed, you can return to <color=#orange>「Taiwu Village」</color> first>。
+This sword tomb is sealed, so it can't be breached for the time being... Let's go back to the village and take a look……
 
-Meet Tea Caravans
-Build <color=#orange>Tea Caravans</color>
-Enter the 「Taiwu Village」 industry and click on the construction space, use the 「Map of Western Region」 to make the <color=#orange>「Tea Caravans」</color> building. Enter the 「Tea Caravans」 menu, click <color=#orange>「Set out」</color> after carrying the goods, and the Tea Caravans will head west in the next month. After exchanging rare treasures from the Western Regions, you can click <color=#orange>「Go back」</color>, or return to Taiwu Village by yourself after all the goods have been exchanged. Tea Caravans will consume supplies every month, and you can stop at the same place to collect supplies on the way. You need to pay attention to the supply situation to prevent loss of goods.
-I think there should be many rare treasures in the Western Regions that can be exchanged here...
+Tea Horse Caravan
+Build the <color=#orange>Tea Horse Caravan</color>\\n>
+Enter 'Taiwu Village' industry and click on the construction space, use 'Western Region Map' to build the building <color=#orange>'Tea Horse Gang'</color>. Enter the 'Tea Horse Gang' interface, carry goods and then click <color=#orange>'Depart'</color>, the Tea Horse Gang will head west when the month passes. After exchanging for rare treasures from the Western Region, you can click <color=#orange>'Return'</color>, or wait for it to finish exchanging all goods before returning to Taiwu Village on its own. The Tea Horse Gang will consume supplies as it progresses each season, and can stop to gather supplies along the way, so you need to pay attention to supply status to prevent loss of goods。
+It seems that there should be quite a few rare treasures in various places of the Western Regions that can be exchanged with this place……
 
-Western Treasures
-Gift <color=#orange>Western Treasures</color>
-Gift <color=#orange>「Western Treasures」</color> to <color=#orange>「Avatars」</color> to increase their Favor.
-Western treasures are so rare, they must be an excellent gift... But I don't know who will like them...
+Exotic Treasures of the Western Regions
+Gift <color=#orange>Western Region Treasures</color>\\n>
+Gift the 'Stranger' the 'Treasures of the Western Regions' to increase their favorability。
+Treasure from the Western Regions is so rare, it must be an excellent gift... but I wonder who would like it……
 
-Preparing for the Alliance
-Assist in the preparation of <color=#orange>The World Martial Arts Tournament</color>
-During the preparation process of <color=#orange>「The World Martial Arts Tournament」</color> you can discuss this matter with the t3-t1 people of each sect and donate resources. After the preparatory period expires, the sect with the highest preparatory strength will hold the <color=#orange>「The World Martial Arts Tournament」</color>. This matter is related to the fate of martial arts, so you must go to participate...
-The martial arts conference is being prepared, and when it is held, I will go to watch it...
+Preparing for the alliance meeting
+Assist in preparing for the <color=#orange>World Martial Arts Alliance</color>
+<The 'World Martial Arts Alliance' can discuss this matter and donate resources to the third-tier figures of each sect during the preparation process. After the preparation period, the sect with the highest preparation strength will hold the 'World Martial Arts Alliance'. This concerns the fate of the martial arts world, so it is imperative to attend……
+The Wulin Conference is being organized, and when it takes place, I will go to see it……
 
-Martial Arts Tournament
-Go to <color=#orange>The World Martial Arts Tournament</color>
-<color=#orange>「The World Martial Arts Tournament」</color> is about the fate of the martial arts world, so be sure to attend when it is held.
-The martial arts conference is extremely important, i must attend it...
+Wulin Alliance
+Go to the <color=#orange>World Martial Arts Alliance</color>\\n>
+<The 'Wulin Alliance' is related to the fate of the martial arts world, and it is imperative to attend when it is held。
+The martial arts conference is so important that you must attend when it is held……
 
-Visit from Yufu
-Talk to <color=#orange>Ran Chenzi</color>
-Go back to <color=#orange>「Taiwu Village」</color> area and look for <color=#orange>Ran Chenzi</color>.
-Divine Flower is actually acquainted with Daoist Master Ran Chenzi... I must ask Daoist Master to learn more about it...
+Yufeng's visit
+Talk to <color=#orange>Ran Chenzi</color>\\n
+Return to the <color=#orange>「Taiwu Village」</color> area and search for <color=#orange>Ran Chunzi</color>.\\n>。
+This divine flower is surprisingly acquainted with the Taoist priest Ran Chen... I suppose I can only learn a thing or two by inquiring with the priest……
 
-FuYu Sword Furnace
-Unseal the Sword Tomb and retrieve the <color=#orange>FuYu Sword Furnace</color>
-Go to the Sword Tomb <color=#orange>「Name of Sword Tomb」</color> and enter the adventure.
-Sword Tomb has finally reopened, now I was can go in there and retrieve the sword furnace...
+Fuyujian Furnace
+Unseal the Sword Tomb and retrieve the <color=#orange>Fuyujian Furnace</color>
+Go to the Sword Tomb <color=#orange>「Sword Tomb Name」</color> to start the Sword Tomb adventure。
+The sword tomb has reopened this time, so I must enter and take out the sword furnace……
 
-Find the sword furnace
-Discover the mystery of <color=#orange>Fuyu Sword Furnace</color>
-Take time to explore the wonders of<color=#orange>"Fuyu Sword Furnace"</color>.
-This sacred furnace must have a mystery...
+Finding the Sword Furnace
+Explore the secrets of the <color=#orange>Fuyujian Furnace</color>\\n
+Explore the mysteries of the <color=#orange>‘Fuyu Sword Furnace’</color> over time。
+This divine furnace must have its secrets……
 
-Xuanzhu Avatar Descent
-Scout the <color=#orange>Xuanzhu Avatar Descent</color> descent.
-Go to the <color=#orange>「Xuanzhu Avatar Descent」</color> adventure.
-What does “Xuanzhu Avatar Descent” means?...
+Xuan Bamboo descends to the world
+Explore the place where <color=#orange>Xuan Bamboo descends to the world</color
+Go to the adventure <color=#orange>「Mysterious Bamboo Descends to the World」</color> to explore。
+“Xuan bamboo descends upon the world’... What does ‘strange appearance’ mean……
 
-The Two Beauties Compete
-Wait for <color=#orange>Zi Wuxiao</color>
-Wait for <color=#orange>「Zi Wuxiao」</color>
-Now that Wuxiao girl has returned to the present world, where is she now...
+Two Beauties Compete
+Waiting for <color=#orange>Zi Wuxiao</color>
+Waiting for <color=#orange>「Purple Wuxiao」</color>.\\n>。
+The girl without a veil has returned to the present world; where is she now……
 
-Servants Resurrected
-Think about how to deal with it in the <color=#orange>Taiwu Village</color>
-Stay in the <color=#orange>Taiwu Village</color> and carefully think about how to deal with "Servants of Xiangshu".
-Now that the Servants of XiangShu have appeared...the world is in chaos...I'm afraid something strange will happen...
+Minions resurrected
+Thinking of ways to cope in <color=#orange>Taiwu Village</color
+Stay in <color=#orange>Taiwu Village</color>, carefully contemplating how to deal with the 'Xiangshu Minions。
+The pawns of the scheming hand have emerged... the world is in chaos... I fear something unusual will happen……
 
-Exterminate the Servants
-Face the <color=#orange>XiangShu Servants</color>
-Go to the <color=#orange>「Destroyed Land」</color>, meet the powerful <color=#orange>「XiangShu Servants」</color>, and defeat them.
-Xu Xiangong was stolen... Now the only way is to face the XiangShu Servants...
+Exterminate the minions
+Counterattack <color=#orange>the minions of Xiangshu</color>\\n>
+Face the strong enemy 'Puppet of the Destruction Area' and defeat it。
+The Immortal was stolen, but there was nothing that could be done... Now, all that can be done is to make a desperate effort to fight against the claws of the enemy……
 
-Xu Xiangong shows the way
-Go back to the <color=#orange>「Taiwu Village」</color>.
-How can I kill them all by myself? Let's go back to Taiwu Village to see if anyone has a solution...
+Immortal points the way
+Return to <color=#orange>「Taiwu Village」</color>.\\n>。
+How can I kill them all by myself? Let's go back to Taiwu Village and see if anyone has a solution……
 
-The Land of the Divine
-Go to <color=#orange>The Land of the Divine</color> 
-When <color=#orange>「The Land of the Divine」</color> adventure appears, go and enter it.
-After Xu Xiangong shows me the way to The Land of the Divine, I will immediately go to the Xuan Shi realm and retreive the sword's blade!
+Place of Immersion
+Heading to <color=#orange>The Land of Ecstasy</color>\\n>
+When a奇遇 'Land of the Divine' appears on the map, head to that location to start the adventure。
+When the immortal finds the place of transcendence, I will immediately go to the realm of the mysterious stone to reclaim the sword！
 
-Demon Sealing Light
-Go to <color=#orange>Demon Sealing Light</color> 
-Enter the <color=#orange>「Demon Sealing Light」</color> adventure.
-It's a close call, so hurry to the divine light, embed the divine swords, and seal the demon together!
-
-
-Go to 「Demon Sealing Light - Mo Nyu」 and embed their divine sword.
+Sealing Demon Light
+Go to <color=#orange>Seal Demon Light</color>\\n>
+Go to the map <color=#orange>「Demon Sealing Divine Light」</color> for an adventure。
+It is already a critical moment; hurry to the place of divine light, bury the divine sword, and seal the demon with the Daoist！
 
 
-
-Go to 「Demon Sealing Light - Vanquish Evil」 and embed their divine sword.
+Go to 'Sealing Magic Divine Light - Mo Girl's Clothes' and bury it in the sword hilt。
 
 
 
-Go to 「Demon Sealing Light - Glacial Vassal」 and embed their divine sword.
+Go to 'Sealing Demon Light · Suppressing Evil Iron' and embed it into the sword handle。
 
 
 
-Go to 「Demon Sealing Light - Phoenix Cocoon」 and embed their divine sword.
+Go to 'Sealing Demon God Light · Great Mysterious Condensation' and embed it into the hilt。
 
 
 
-Go to 「Demon Sealing Light - Spirit Smelting」 and embed their divine sword.
+Proceed to 'Sealing Demon God Light - Phoenix Cocoon' and embed it into the hilt。
 
 
 
-Go to 「Demon Sealing Light - Draconic Anima」 and embed their divine sword.
+Go to 'Demon Sealing Divine Light: Burning God Refining' and embed it into the sword handle。
 
 
 
-Go to 「Demon Sealing Light - Anchorite」 and embed their divine sword.
+Proceed to 'Seal Demon Glimmer · Unravel Dragon Soul' and embed it into the sword handle。
 
 
 
-Go to 「Demon Sealing Light - Infernal Acerjail」 and embed their divine sword.
+Go to 'Seal Demon Light · Melt Dust Hidden' and embed it into the sword handle。
 
 
 
-Go to 「Demon Sealing Light - Wonderglow」 and embed their divine sword.
+Go to 'Sealing Demon Light·Prison Demon Wood' and embed it into the sword's hilt。
 
 
-Boundless Buddha
-Travel the world <color=#orange>to visit all the temples</color>
-Go to the <color=#orange>Cities and Villages</color> in various regions of the world to pay homage to temples. Most of the temples are located in the <color=#orange>Main City Area</color> of the region, and some temples are scattered in <color=#orange>other areas</color>.
-The dust of the world, the sands of the Ganges River, the scriptures may be far away, or even under your feet...
 
-Jingji Temples
+Go to 'Demon Sealing Divine Light: Ghost God Violet' and embed it into the sword handle。
 
-Travel to <color=#orange>Jingji</color> to visit temples.
+
+Infinite Stupa
+Visit temples in various states>
+Travel to various regions under the jurisdiction of the world, including <color=#orange>villages, settlements, cities, and towns</color>, to worship at temples. Most temples are located in the <color=#orange>main city area</color> of the region, and some temples are scattered in <color=#orange>other areas</color>。
+In the world beneath the four seas, as numerous as the grains of sand in the Ganges, the true teachings may be far away, yet they are right beneath your feet……
+
+Gyeonggi Temple
+
+Go to <color=#orange>Gyeonggi</color> to pay homage at the temple。
 
 Bashu Temples
 
-Travel to <color=#orange>Bashu</color> to visit temples.
+Go to <color=#orange>Bashu</color> to visit the temple。
 
-Guangnan Temples
+Guangnan Temple
 
-Travel to <color=#orange>Guangnan</color> to visit temples.
+Go to <color=#orange>Guangnan</color> to visit temples。
 
-Jingbei Temples
+Jingbei Temple
 
-Travel to <color=#orange>Jingbei</color> to visit temples.
+Go to <color=#orange>Jingbei</color> to pay a visit to the temple。
 
-Shanxi Temples
+Shanxi Temple
 
-Travel to <color=#orange>Shanxi</color> to visit temples.
+Go to <color=#orange>Shanxi</color> to worship at the temple。
 
-Guangdong Temples
+Guangdong Temple
 
-Travel to <color=#orange>Guangdong</color> to visit temples.
+Go to <color=#orange>Guangdong</color> to visit the temple。
 
-Shandong Temples
+Shandong Temple
 
-Travel to <color=#orange>Shandong</color> to visit temples.
+Go to <color=#orange>Shandong</color> to visit the temple。
 
-Jingnan Temples
+Jingnan Temple
 
-Travel to <color=#orange>Jingnan</color> to visit temples.
+Head to <color=#orange>Jingnan</color> to visit the temple。
 
-Fujian Temples
+Fujian Temple
 
-Travel to <color=#orange>Fujian</color> to visit temples.
+Go to <color=#orange>Fujian</color> to worship at the temples。
 
-Liaodong Temples
+Temple of Liaodong
 
-Travel to <color=#orange>Liaodong</color> to visit temples.
+Go to <color=#orange>Liaodong</color> to visit temples.\\n。
 
-Western Temples
+Western Region Temple
 
-Travel to the <color=#orange>West</color> to visit temples.
+Go to the <color=#orange>Western Regions</color> to pay homage to the temple。
 
-Yunnan Temples
+Yunnan Temple
 
-Travel to <color=#orange>Yunnan</color> to visit temples.
+Go to <color=#orange>Yunnan</color> to visit temples。
 
-Huainan Temples
+Huainan Temple
 
-Travel to <color=#orange>Huainan</color> to visit temples.
+Go to <color=#orange>Huainan</color> to visit the temple。
 
-Jiangnan Temples
+Jiangnan Temple
 
-Travel to <color=#orange>Jiangnan</color> to visit temples.
+Go to <color=#orange>Jiangnan</color> to visit the temple。
 
-Jiangbei Temples
+Jiangbei Temple
 
-Travel to <color=#orange>Jiangbei</color> to visit temples.
+Go to <color=#orange>Jiangbei</color> to visit the temple。
 
-Poison Test
-Accept request of the <color=#orange>Sect Master of Kongsang Sect</color>
-Accept request of the <color=#orange>Sect Master of Kongsang Sect</color> to help Liao Wuming with a poison test.
-I wonder what's so strange about this poison test...
+Testing poison
+Accept the request of the <color=#orange>Head of the Kongsang Sect</color>\\n
+Accepting the request of the <color=#orange>Head of the Kong Sang Sect</color>, to help Liao Wuming test the poison。
+I wonder what the trick is behind testing poison……
 
-Wuming's Search
-Talk to <color=#orange>Liao Wuming</color> after locating him
-Talk to <color=#orange>Liao Wuming</color>,then <color=#orange>wait</color> until he finds a candidate to poison test before going to help.
-Liao Wuming wants to test the poison, so he needs to find a suitable candidate...
+Seeking Someone Without Fate
+Talk to <color=#orange>Liao Wuming</color> and wait for him to find someone
+Dialogue with <color=#orange>Liao Wuming</color>, then <color=#orange>patiently wait</color> for him to find a candidate for testing the poison, and then go to assist。
+Liao Wuming needs to test the poison, so he must find a suitable candidate……
 
-Wuming's Drug Test
-Go to <color=#orange>{0}</color> to help Liao Wuming with testing poison.
-Liao Wuming sent a letter saying that he finally found a test subject to test poison at <color=#orange>{0}</color>, go and help him.
-Since Liao Wuming has found a test subject, I will go to help...
+No Life to Test the Poison
+Go to <color=#orange>{0}</color> to help Liao Wuming test the poison
+Liao Wuming has sent someone with a letter, and a candidate for the poison tester has been found at <color=#orange>{0}</color>, you can go and assist。
+Liao Wuming has already found a candidate, I will go help now……
 
-Look for the Sect Master
-Return to <color=#orange>Kongsang Sect</color> and speak with the Sect Master
-Return to <color=#orange>Kongsang Sect to speak with Sect Master</color>, and inform them about how poison test went.
-This matter is strange, could it be that the strange poison has not been refined...
+Reply to the leader
+Return to <color=#orange>Kong Sang Sect</color> to talk with the leader
+Return to <color=#orange>the Empty Mulberry Sect to visit the sect leader</color> and explain the matter of testing the poison。
+This matter is strange; could it be that the strange poison has not been refined successfully……
 
-<color=#orange>Wait</color> while Liao Wuming is looking for someone.
-<color=#orange>Calmly wait</color> for Liao Wuming to finish finding a test subject.
-I wonder who Liao Wuming will find this time...
-
-
-Return to <color=#orange>Kongsang Sect</color>,<color=#orange>visit it's Sect Master</color>, and recount what happened during the poison test.
-I wonder how Kongsang Sect will react to Liao Wuming's matter...
+<Waiting for Liao Wuming to find someone
+<color=#orange>Quietly waiting</color> for Liao Wuming to find a candidate for testing the poison。
+I wonder who Liao Wuming will find this time……
 
 
-Go to <color=#orange>{0}</color> to find Liao Wuming
+Return to the <color=#orange>Kong Sang Sect</color> to <color=#orange>visit the leader</color> and provide details about the poison testing matter。
+I wonder how the disciples of Kong Sang reacted to the matter of Liao Wuming……
 
-Return to <color=#orange>Kongsang Sect</color>,<color=#orange>visit it's Sect Master</color>, and tell them about the experience of testing that poison.
-The poison test is really strange, i better go and ask Sect Master about it...
 
-Searching for Wuming
-Talk to <color=#orange>Liao Wuming</color>
-Talk to <color=#orange>Liao Wuming</color>, and ask him about the strange poison.
-“Strange poison” is indeed strange, but is it really “poison”...
+Go to <color=#orange>{0}</color> to seek Liao Wuming\\n
 
-Strange Poison Completed
-Return to <color=#orange>Kongsang Sect</color> and report to the Sect Master
-The strange poison has been completed, return to <color=#orange>Kongsang Sect</color>, <color=#orange>visit it's Sect Master</color>, and report about finishing the job of poison testing.
-Let's go to meet the head of Kongsang to recount the matter...
+Return to the <color=#orange>空桑派</color>, <color=#orange>visit the sect leader</color>, and recount the experience of testing the poison。
+The matter of testing the poison is indeed peculiar; it is better to ask the leader if he is aware……
 
-Whereabouts of the deceased
-Old friend leaves, never experiencing precious life
-「Those who are unable to achieve immortality are like mayflies to the world.」With Liao Wuming's disappearance, his survival is uncertain. I wonder if we'll be able to meet again in the future?
-With old friend's disappearance, i wonder if we'll be able to meet again in the future...
+Searching for the nameless
+Dialogue with <color=#orange>Liao Wuming</color
+Talk to <color=#orange>Liao Wuming</color> and inquire about the strange poison。
+“Strange poison’ is indeed strange, but is it really ‘poison”……
 
-The Death of Eternal Life
-Enter the <color=#orange>"The Death of Eternal Life"</color> adventure
-Go to <color=#orange>「Kongsang Mountain」</color> and enter <color=#orange>「The Death of Eternal Life」</color> adventure.
-I think the fate with the old friend is not over, there is still a time to meet again...
+Strange poison has already formed
+Return to <color=#orange>Kongsang Sect</color> to report back to the leader
+The strange poison has been formed, return to the <color=#orange>Empty Mulberry Sect</color>, <color=#orange>visit the sect leader</color>, and report back on the matter of testing the poison。
+Let’s go meet the head of the Kong-Sang sect to discuss this matter……
 
-Bloody Grave Digger
-Go to <color=#orange>Bloodhound Cult</color> and dig up a grave
-Go to <color=#orange>Bloodhound Cult</color>, and interact with any <color=#orange>Bloodhound Cult member's grave</color> to conduct <color=#orange>「Grave digging」</color> on it in order to investigate the ghost problem.
-There are strange rumors of ghosts in the Blood Hou Valley, maybe i should go and investigate...
+Old friend's whereabouts
+Old friends go away, and immortality is not seen
+「Those who seek immortality are like mayflies in the world." Once Liao Wuming is gone, life and death remain uncertain; will there still be a chance to meet again in the future？
+When an old friend departs, one wonders if there will be another day to meet again……
 
-Broken Bell
-Go to <color=#orange>Blood Hou Valley</color>
-<color=#orange>Broken Bell</color> is deeply related to Blood Hou Valley, proceed with caution if you decide to investigate it.
-This bell seems to be weird, i should be careful...
+Death of Longevity
+Go to the adventure <color=#orange> 'Death of Ever-Living' </color>
+Go to <color=#orange>‘Kong Sang Mountain’</color> and enter the adventure <color=#orange>‘Death of Eternal Life’</color>.\\n>。
+It seems that the connection with old friends is not yet over, and there will still be a time to reunite……
 
-Weird Old Man
-Stay in <color=#orange>Blood Hou Valley</color>
-This Old Man in Red is quite strange, maybe i should stay in <color=#orange>Blood Hou Valley</color> to investigate.
-What did the Old Man in Red mean when he said about the patriarch...
+Blood Hound Digs Graves
+Go to the vicinity of <color=#orange>Blood Hound Sect</color> to dig graves
+Go to the vicinity of <color=#orange>Blood Hound Sect</color> and interact with any <color=#orange>Blood Hound Disciple's grave</color> to conduct <color=#orange>‘Digging for Gold’</color> to investigate matters of ghosts and monsters。
+The legend of the Blood Hound Valley's ghosts and monsters is particularly strange; let's go investigate it……
 
-Old Man in Red
-Cautiously talk with the <color=#orange>Old Man in Red</color>
-<color=#orange>Old Man in Red</color> appeared, and i had a cautious conversation with him.
-This Old Man in Red is really not an ordinary person, i better be careful...
+Old bell
+Stay in <color=#orange>Blood Wolf Valley</color>\n>
+<The worn-out bell is closely related to the Blood Howl Valley; stay here to investigate and proceed with caution。
+This bell seems to be strange, so one must be careful in their actions……
 
-Investigate Bloody Light
-Stay at <color=#orange>Bloody Light<color=#orange> for a month
-Stay at the <color=#orange>Bloody Light</color>, and wait for <color=#orange>Old Man in Red</color> to appear.
-The Old Man in Red followed the bell, and had to stay at the Bloody Light...
+The old man's strange appearance
+Stay in <color=#orange>Blood Hound Valley</color
+The matter of the old man in red is quite eerie, remaining in Bloodhound Valley to investigate cautiously。
+What does the old man in red mean by mentioning the ancestor……
 
-The Tomb of the Dead
-Enter the <color=#orange>"The Tomb of the Dead"</color> adventure
-Enter the <color=#orange>"The Tomb of the Dead"</color> adventure.
-There is an ancient tomb where the Blood Light disappeared, let me carefully explore it...
+Red-clothed old man
+Talk cautiously with the <color=#orange>old man in red</color
+<The <color=#orange>Old Man in Red</color> appears and cautiously engages in conversation。
+This elderly man in red is indeed no ordinary person, so it's better to be cautious……
 
-Ji Xi Returns
-Return to <color=#orange>Taiwu Village</color> together with Ji Xi
-Return to <color=#orange>Taiwu Village</color> together with Ji Xi. This body seems to have a lot to do with Ji Xi, if you accidentally <color=#orange>pass the sword</color>, later on it may cause irreparable consequences.
-Since Ji Xi is homeless, it is better to take her to Taiwu Village, so that someone could take care of her...
+Investigate Bloodlight
+Stopped at the place of blood light for a month
+Stay at the <color=#orange>blood light</color> and wait for the <color=#orange>old man in red</color> to arrive。
+The old man in red follows the bell and must stop at the place of blood light……
 
-Stay in the Village
+Ghostly tomb of bygone people
+Travel to the adventure <color=#orange>‘The Ancient People of the Tomb’</color>
+Go to the adventure <color=#orange>「The Tomb of the Former Ones」</color>.\\n>。
+Where the blood light disappeared, there was actually an ancient tomb. I will carefully investigate it……
+
+Ji Xi returns to the village
+Returning to <color=#orange>Taiwu Village</color> with Ji Xi>
+Returning to <color=#orange>Taiwu Village</color> with Ji Xi. This body seems to have a deep connection with Ji Xi, and if I carelessly <color=#orange>pass on the sword</color> afterwards, it may lead to irreparable consequences。
+Since Ji Xuan has no home to return to, it would be better to go back to Taiwu Village, at least there will be someone to take care of him……
+
+Stay in the village
 Stay in <color=#orange>Taiwu Village</color> to accompany Ji Xi
-Stay in <color=#orange>Taiwu Village</color> to accompany Ji Xi.
-Ji Xi is alone, so i should stay with her in the village and not travel far away...
+Stay in <color=#orange>Taiwu Village</color> to accompany Ji Xi。
+Ji Yu is alone, it's better to stay in the village to keep company, don't travel far……
 
-Tricky Mystery
-Go to <color=#orange>Tricky Mystery</color>
-When <color=#orange>Tricky Mystery</color> adventure appears, go there to investigate the strange happenings in the village, and stay in Taiwu Village to accompany Ji Xi for the rest of the time.
-Strange things seem to happen in the village, i should go and investigate...
+Strange Events and Mysterious Puzzles
+Go to <color=#orange>Mysterious Puzzles</color>\\n>
+When奇遇 is present, go to <color=#orange>Strange Events and Mysteries</color> to investigate the unusual happenings in the village, and spend the rest of the days accompanying Ji Xi in Taiwu Village。
+There seems to be a strange change in the village; we need to go investigate……
 
-Village Monster
+Monsters and Evils in the Village
 
-When did such an evil monster appear in the Taiwu Village...
-
-
-Man-eating Ghosts
-
-Ghosts cannibalize people, could it really be Ji Xi's doings...
+In Taiwu Village, when did this evil creature appear……
 
 
-Female Ghost Leads the Way
+Demons and monsters eat people
 
-What is the purpose of the female ghost leading me here...
+The demons eat people, could it really be Ji……
+
+
+Female ghost leads the way
+
+The female ghost brought me here, what does it mean……
 
 
 Midnight Female Ghost
 
-The female ghost at the midnight, could it really be Ji Xi...
+Is the female ghost at midnight really Ji Ling...\\n……
 
 
 Old Acquaintance in Red
 
-The cloth was originally red, and it seems familiar...
-
+This fabric was originally red, seeming oddly familiar……
+
 
-Ji Xi Harms People
+Ji Xi harms people
 
-Could it be that Ji Xi really harmed someone...
+Is it true that Ji Ji is harming people……
 
 
-Doubtful and Sad
-<color=#orange>Strange happenings in the village</color> can be resolved
-There is a solution to the strange happenings in the village. I should wait for a few days to figure out how to properly resolve it...
-The strange happenings in the village must be properly settled...
+Suspecting that the dream is sad
+<Strange occurrences in the village have been explained
+Strange events in the village will eventually have an explanation. Wait a little while, and there will be a resolution……
+The strange events in the village must have already settled……
 
-Looking for Ji Xi
-Go to <color=#orange>{0}</color> to find Ji Xi
-Go to <color=#orange>{0}</color> to find Ji Xi and talk to her.
-Since Ji Xi left Taiwu Village, why not ask her about it...
+Looking for Ji Shi
+Go to <color=#orange>{0}</color> to find Ji Sui\\n
+Go to <color=#orange>{0}</color> to find Ji Si and talk to him。
+Since Ji Mo has left Taiwu Village, it would be better to ask her for clarity……
 
-Pagoda Forest Colapses
-Talk to people of <color=#orange>Shaolin</color>
-Talk to <color=#orange>Shaolin</color> people, and <color=#orange>ask</color> them about the collapsing Pagoda forest
-Pagoda Forest is collapsing, i wonder why...
+Talinn Collapse
+Interact with the <color=#orange>Shaolin Sect</color> members
+Interact with the people of the <color=#orange>Shaolin Sect</color> and inquire about the collapse of the tower。
+The collapse of Tallinn, the reason is unknown……
 
-Rotten Wooden Sculpture
-Hold Dirty Sculpture and <color=#orange>wait for the opportunity</color>
-A little monk had entrusted you with <color=#orange>returning the Dirty Sculpture to Shaolin</color>; However, the collapses in the Pagoda Forest were anything but ordinary, so perhaps you will be able to find an <color=#orange>opportunity</color>, so why not save it for now and <color=#orange>calmly wait</color> for a golden opportunity.
-Perhaps this sculpture is hiding a profound secret, it's better to wait for now and carefully observe it...
+Rotten wood Buddha statue
+Hold the dirty statue <color=#orange>waiting for the opportunity</color>\\n>
+Although the young monk has a task, he will return the dirty statue to the Shaolin Sect; however, the collapse of the pagoda forest is unusual. Holding onto this object may present an opportunity, so it might be best to keep it for now and wait for the right moment。
+This statue may conceal profound mysteries; let's wait for a closer examination in the future……
 
-Return the Statue
-Return the <color=#orange>Dirty Sculpture</color> to Shaolin
-<color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Dirty Sculpture</color> to Shaolin.
-The opportunity in the dream is over, and the way of Zen and martial arts has been cultivated...
+Return the statue
+Return the <color=#orange>dirty statue</color> to the Shaolin Sect
+Interact with Shaolin characters and return the dirty statue to the Shaolin school。
+The opportunities in the dream have come to an end, and the path of Zen and martial arts has been perfected now……
 
-Midnight Sound of Guqin
-<color=#orange>Calmly wait</color> for a while
-This situation is confusing, so why not <color=#orange>calmly wait</color> for a better timing.
-This Xuannyu melody, and the word love, they are indeed hard to understand...
+Midnight琴 sound
+<Wait quietly for a while
+The perplexity of musical emotions is difficult to resolve; it is better to <color=#orange>calmly wait</color> for the right moment, as there may be clarity。
+In this melody of the Xuan girl, the word 'emotion' is indeed difficult to understand……
 
-Azure Luan's Letter
-<color=#orange>Calmly wait</color> for a mysterious letter
-<color=#orange>Wait for a</color> mysterious letter stamped with the seal of the Azure Luan.
-The sender of this letter is quite mysterious. You need to pay more attention to the Seal of Azure Luan in the future...
+Letter of the Qingluan
+<color=#orange>Waiting</color> for a mysterious letter\\n
+<Wait for the mysterious letter marked with the seal of the blue phoenix。
+The sender of this letter is rather mysterious, and in the future, one should pay more attention to the imprint of the Qingluan……
 
-Old Friends' Story
-Go and <color=#orange>examine villages and cities near the Xuannyu Peak</color>
-Go and <color=#orange>visit villages and cities near the Xuannyu Peak</color>, and <color=#orange>Interact with locals</color> to learn more about the mysterious person.
-It’s really sad to hear that this person has passed away and so little is known about them...
+Old stories of old friends
+Go to <color=#orange>Xuannu Peak Town Village</color> to investigate\\n
+Go to <color=#orange>Xuan Nv Peak Town Village</color>, interact with <color=#orange>local residents</color>, and inquire about the mysterious person。
+Suddenly hearing that this person has passed away, and knowing so little about them, truly makes one feel forlorn……
 
-Finding Out More
-<color=#orange>Find Yun'er</color> to find out more
-<color=#orange>Find Yun'er</color> once more to find out more about the situation
-Suddenly I heard a sad sound at the top of Xuannyu Peak, I don't know whether it is good or bad...
+Investigating the aftermath
+<color=#orange>Looking for Jun'er</color>, to inquire about her situation\n
+Once again <color=#orange>search for Jun'er</color> to find out about the follow-up matter。
+At the top of Xuan Nv Peak, a mournful sound is suddenly heard, unsure whether it is a good omen or a bad one……
 
-Lonely Luan in the Mirror
-Enter the <color=#orange>"Lonely Luan in the Mirror"</color> adventure
-Enter the <color=#orange>"Lonely Luan in the Mirror"</color> adventure. You can also <color=#orange>Interact with people at Xuannyu Sect</color> to ask about the mysterious person and the "Lone Luan's Ballad Mirror".
-I heard that this person often went to the top of Xuannyu Peak to play zither, so why not go and pay my respects...
+Solitary Phoenix in the Mirror
+Go to the adventure <color=#orange> 'Lonely Phoenix in the Mirror' </color>\\n>
+Go to the strange encounter <color=#orange>‘Mirror Solitary Luan’</color>. You can also interact with <color=#orange>the Xuan Nu faction characters</color> to inquire about the mysterious person and the 'Solitary Luan Mirror Water Ballad。
+I heard that this person often goes to Xuannv Peak to play the zither, why not go there to reminisce for a while……
 
-Look for Yun'er
-Go to Jade Mirror <color=#orange>to look for Yun'er</color>
-If you change your mind, you can go to Xuannyu Sect, open its Industry, and click on <color=#orange>Jade Mirror</color> tile <color=#orange>to look for Yun'er</color>.
-In the Jade Mirror, Yun'er entrusted me with the task of finding someone, which i can think over...
+Looking for Jun'er
+Go to Yi Mingjue to find Jun'er>
+If you change your mind, you can go to the Xuannv sect's property, click on the building <color=#orange>Yiming Jue</color>, and <color=#orange>search for Jun'er</color>。
+In a bright mirror, Miss Jun'er entrusted me with the matter of seeking someone, which may be reconsidered……
 
-Practice in the Mirror
-Go to Xuannyu Sect, open its Industry, and click on <color=#orange>Jade Mirror</color> tile <color=#orange>to look for Yun'er and enter the mirror for practice</color>.
-Young lady Yun'er wants to teach each other skills of Xuannyu. It might be a good idea to visit her near the Jade Mirror.
+Entering the Frame Practice
+Go to the Xuan Nv sect's property, click on the building <color=#orange>Yimingjue</color>, <color=#orange>search for Jun'er to learn in the mirror</color>.\\n>。
+Miss Juner wishes to impart the Xuan female cultivation method, so let's go to a bright gem mirror for a while……
 
-Jade Mirror Becomes Spiritual
-Enter the <color=#orange>"A Bright Fairyland"</color> adventure
-Enter the <color=#orange>"A Bright Fairyland"</color> adventure.
-Jade Mirror seems to be reacting, perhaps it could help us find Senior Sister's location...
+The mirror has spirit
+Head to the adventure <color=#orange>「A Clear Illusion」</color>\n>
+Head to the adventure <color=#orange>「A Glorious Illusion」</color>.\\n>。
+A Mingjue seems to have some kind of response, perhaps it can tell me where my senior sister is……
 
-Looking for a Thousand Li
-Go to <color=#orange>{0}</color>
-Go to <color=#orange>{0}</color> and look for a person to whom Senior Sister's soul got attached.
-Jade Mirror revealed where the Senior Sister is located, now is the time to go and look for her...
+Searching for someone for a thousand miles
+Go to <color=#orange>{0}</color>\\n>
+Go to <color=#orange>{0}</color> and look for the person to whom Senior Sister's spirit is attached。
+One Mingjue has indicated the whereabouts of the senior sister, so I set off to explore……
 
-Unexpected Meeting
-<color=#orange>Calmly wait </color> for a meeting in {0}
-<color=#orange>Calmly wait </color> for a meeting in {0}.
-It seems that I have finally found the person Yun'er was looking for, but why does my heart feel so uneasy...
+Unforeseen appointment
+<color=#orange>Quietly waiting</color>{0} for the appointment\\n
+<color=#orange>Waiting quietly</color>{0} to keep the appointment.\\n。
+It seems that I have already found the person Jun'er mentioned, but why does my heart still feel uneasy……
 
-Heterodox Training
-<color=#orange>Heterodox Breakthrough</color> of a Wudang Sect technique
-Do a <color=#orange>Heterodox Breakthrough</color> of any Wudang Sect technique to lead the Taoist to you.
-I don’t know who this Taoist is. If I practice a heterodox version of Wudang Sect's technique, will he really show up?
+Reverse Cultivation Method
+<color=#orange>Breakthrough Reverse Training</color> Wudang Sect Techniques\\n
+<Breakthrough reverse practice of any Wudang school skill, it may attract the appearance of a person。
+I don't know who this person is. If I were to reverse the practice of Wudang techniques, would he really show up？
 
-Wait for Daoist
-<color=#orange>Calmly wait</color> for Disheveled Daoist
-The Disheveled Daoist is mysterious and unpredictable, so it is better to <color=#orange>calmly wait</color>.
-This matter is strange, I don’t know what the Disheveled Daoist wants...
+Waiting for the Daoist priest
+<color=#orange>Awaiting Observation</color> Sloppy Taoist
+The unkempt Taoist is mysterious and unpredictable, better to <color=#orange>calmly observe and wait</color>。
+This matter is strange; I wonder what the sloppy Taoist intends to do……
 
-Letter from the Taoist priest
-Talk to <color=#orange>Disheveled Daoist</color>
-Visit <color=#orange>Wudang Sect</color> and talk to <color=#orange>Disheveled Daoist</color>.
-Let’s go to the Wudang Sect to meet Disheveled Daoist...
+The Taoist priest's letter
+Talk to <color=#orange>the Disheveled Daoist</color>\\n
+Go to <color=#orange>Wudang Sect</color> and talk to <color=#orange>the Sloppy Daoist</color>.\\n。
+Let's go to Wudang to meet the scruffy Daoist……
 
-Visit the cave
+Visit the cave heaven
 
-Go to <color=#orange>{0}</color> to examine Heavenly Caves.
+Go to <color=#orange>{0}</color> to explore the cave。
 
 
-Hand over Spirit Treasure
+Hand over to Lingbao
 
-Visit the Wudang Sect and hand over the spirit treasure to <color=#orange>Disheveled Daoist</color>.
+Go to the Wudang Sect, interact with <color=#orange>Master Lata</color>, and give him the spiritual treasure。
 
 
-Inquire in Wudang
-Interact with a <color=#orange>member of Wudang Sect</color>
-The matter of the Disheveled Daoist is over. Interact with a <color=#orange>member of Wudang Sect</color> and ask Wudang Sect for their opinion on this matter.
-Now that the matter is over, I will go to Wudang Sect to inquire...
+Searching for Wudang
+Interact with <color=#orange>Wudang School characters</color>\n
+The matter of the slovenly Taoist has been resolved, and I will interact with the figures of the Wudang Sect to inquire about their views on this matter。
+This matter is settled, so let's head to Wudang to inquire a bit……
 
-Stone Prison Distractions
-After interacting with the Stone Prison, ask the sect master of Yuanshan
+Stone prison distractions
+After the stone prison interaction, ask the head of Yuanshan
 
 
 
-Stone Prison Differences
-There's a problem with Yuanshan's Stone Prison
+The Unusual Stone Prison
+There are problems with the stone prison left in Yuanshan
 
 
 
-Fishy Yuanshan
-There's something fishy about Yuanshan
+Yuan Mountain Strange
+Yuan Mountain has its peculiarities
 
 
 
-Looking for the Great Master
-An accident happened in the Yuanshan, we need to find the sect master
+Seeking Master Tai
+An incident has occurred in Yuanshan, and the sect leader needs to be located
 
 
 
-Support the Three Devils
-Go to the【Support the Three Devils】adventure
+Lobbying the Three Demons
+Go on an adventure [Persuade the three demons】
 
 
 
-Conflict between these tasks: Promise the sect master to support the Three Devils
+Conflicts with the above task: Promised the leader to persuade the three demons
 
 
 
-Inform the sect master of the true thoughts of the Three Devils
+Report the true thoughts of the three demons to the sect leader
 
 
 
-Conspire with a Tiger for its Skin
-Yuanshan's move is dangerous
+To seek skin from a tiger
+The move by Wonsan is dangerous
 
 
 
-Dire Straits
-Yuanshan seems to have an accident
+The danger of being upside down
+Yuan Mountain seems to have unexpected intentions
 
 
 
-Negotiation with the Three Devils
-Go to the【Negotiation with the Three Devils】adventure
+Three Demons Negotiation
+Head to the adventure [Three Demons Negotiation】
 
 
 
-Exterminate the Three Devils
-The Three Devils are born, exterminate them before it's too late
+Eradicate the Three Demons
+The three demons emerge, exterminating the three demons
 
 
 
-After the negotiations with Three Devils, they did not let go of the evil spirits. Go and find the sect master
+After the three demons negotiated, they did not let the evil demon go to find the sect leader
 
 
 
-Evil Spirits are Dormant
-Evil spirits are dormant, for now just wait
+Evil forces lie in wait
+The evil spirits lie in wait for now
 
 
 
-Exterminate Evil Spirits
-Kill the last Devil
+Eliminate the evil demons
+Eliminate the last demon
 
 
 
-Lion Face's Movement
-<color=#orange>Calmly watch</color> the strange happenings in Lion-Face Clan
-The behavior of the Lion-Face Clan's disciples is strange, so you might as well <color=#orange>calmly watch</color>.
-The great art mentioned by Lion-Face Clan is so mysterious that I don’t know what kind of trouble is brewing in there...
+The lion is behaving differently
+<Quietly observing the unusual events at the Lion's Gate
+The disciples of the Lion Looks Gate behave unusually; it might be good to <color=#orange>observe quietly</color>。
+The absolute art mentioned by the Lion Xiangmen is mysterious; one does not know what kind of medicine is sold in the gourd……
 
-Ultimate Art of Lion Face
-Enter <color=#orange>"Ultimate Art of Lion Face"</color> adventure
-Enter <color=#orange>"Ultimate Art of Lion Face"</color> adventure. If you fail to participate in the adventure, you will have to wait <color=#orange>3 months</color> for the adventure to appear again.
-The Lion-Face Clan seems to be very lively, why not go and have a look...
+The Lion's Unique Skill
+Head to the adventure <color=#orange>「Lion's Unique Skill」</color>\\n>
+Go to the adventure <color=#orange>「Lion's Unique Skill」</color>. If you fail to participate in the adventure by the deadline, you will have to wait for <color=#orange>3 months</color> for the adventure to appear again.\\n。
+The Lion's Gate seems to be exceptionally lively; why not go and take a look……
 
-Wait and see what happens
-<color=#orange>Calmly wait</color> for news from Lion-Face Clan
-The Lion-Face Clan's matter seems to have come to an end, so you might as well <color=#orange>wait for the news</color>. Or you can take advantage of your free time to talk to <color=#orange>Academics in Guangdong Prefecture</color> to find out the whole story of the Lion Face.
-So this is what this Ultimate Art of Lion-Face Clan is. I wonder how it will change in the future...
+Observe the changes quietly
+<color=#orange>Waiting quietly</color> for news from the Lion's Gate\\n
+The matter of the Lion Xiang Gate seems to have come to a conclusion, so it would be best to <color=#orange>wait for updates</color>. Perhaps in your free time, you could talk with <color=#orange>scholars from Guangdong Prefecture</color> to explore the beginnings and ends of the Lion Xiang rumors。
+The so-called unique skills of the Lion's Gate are like this; I wonder what developments will occur in the future……
 
-Scouting the Lion Face
-Go to <color=#orange>Lion Face</color> to investigate
-Something seems to have happened at Lion-Face Clan, and Outlaws are rampant in Lotus Mountain. Go to <color=#orange>Lion Face</color> area to investigate.
-I haven't received a letter from Lion-Face Clan, i wonder what happened to them...
+Explore the Lion's Appearance
+Proceed to <color=#orange>Lotus Mountain</color> for reconnaissance\\n
+The Lion's Gate seems to have had an incident, and the areas outside of Lotus Mountain are rampant. Let's go to the Lotus Mountain region to investigate。
+I have not seen a letter from the Lion Xiangmen, so I do not know what changes have occurred……
 
-Investigate Outlaws
-Go to <color=#orange>Lion-Face Clan</color>
-Go to <color=#orange>Lion-Face Clan</color> to discuss the matter of Outlaws.
-Outlaws are rampant, and Lion-Face Clan will eventually need to take the action. This matter needs to be discussed urgently...
+Exploring the Outer Path
+Go to <color=#orange>Shixiang Gate</color>\\n>
+Go to <color=#orange>Lion's Gate</color> to discuss matters of the outside path。
+The external forces are rampant and must be contained by the Lion Clan, this matter needs urgent discussion……
 
-Calmly wait for good news
-<color=#orange>Calmly wait</color> for good news from Lion-Face Clan
-For now <color=#orange>Calmly wait</color> for good news from Lion-Face Clan.
-Since Hall Master Lei Kun has been ordered to expel the outlaws, i should just wait for the good news...
+Waiting quietly for good news
+<Waiting quietly for the good news from the lion gate
+Let's hold our ground for now and <color=#orange>quietly wait</color> for good news from the Lion Prime Minister。
+Since Master Lei Kuntang has been ordered to expel the outsiders, let's wait for the good news from the Lion Xiang Sect for the time being……
 
-Lion Face is different
-<color=#orange>Calmly observe</color> what's happening at Lion-Face Clan
-There have been a lot of strange things happening in the Lion-Face Clan recently, so <color=#orange>i should calmly observe them</color>.
-The origin of Lei Kun, the master of the Flying Lion Hall, is unknown, and he is probably not a kind person...
+Different appearances of lions
+<Quietly observing the direction of the Lion's Gate
+Many suspicious events have occurred recently at the Lion’s Gate, <color=#orange>pay close attention and observe</color>。
+The leader of the Flying Lion Hall, Lei Kun, has an unknown background and is likely not a good person……
 
-Eliminating Traitors
-<color=#orange>Annihilate</color> traitors of Lion-Face Clan as soon as possible
-<color=#orange>Quickly annihilate</color> the <color=#orange>Flying Lion Hall disciples</color> in the vicinity of Lion-Face Clan. If you take longer than <color=#orange>3 years</color>, the situation will become irrevocable!
-The disciples of Flying Lion Hall do all kinds of evil, which is intolerable!
+Eliminate the traitors
+<Eliminate the Lion's Gate traitors as soon as possible
+<Eliminate the disciples of the Flying Lion near the Lion's Gate as soon as possible. If it drags on for more than 3 years, the situation may become irretrievable！
+The disciples of the Flying Lion do all sorts of evil; how can this be tolerated！
 
-Banish Foreigners
-Together with Lion-Face Clan's people, <color=#orange>expel</color> the foreign enemies
-The disciples of the Lion-Face Clan are destroying the <color=#orange>foreign experts</color> near the Lion-Face Clan. You can choose to <color=#orange>help the disciples of the Lion-Face Clan</color> to eliminate more enemies and compete with them on who kills the most.
-But the flying generals of Dragon City are here, and foreign traitors aren't taught to cross the Yin Mountains!
+Expel the alien race
+Drive away foreign enemies together with the Lion's Gate disciples
+The disciples of the Lion's Gate are currently exterminating the <color=#orange>experts of foreign tribes</color> near the Lion's Gate. You can choose to <color=#orange>help the Lion's Gate disciples</color> eliminate more enemies and compete with them in the number of kills。
+But if the flying general of Longcheng is there, I won't let the Hu horses cross Yin Mountain！
 
-Attending Celebratory Banquet
-Go to <color=#orange>Lion-Face Clan</color> and participate in a celebratory banquet.
-Lion-Face Clan invited me to a banquet, and naturally it's hard to refuse...
+Attending the banquet to celebrate the achievement
+Go to <color=#orange>Shixiang Gate</color> to attend the celebration banquet。
+The Lion's Escort invited me to a banquet, and naturally, it is hard to decline such warm hospitality……
 
-Vajrayana's Evil Actions
-Go to <color=#orange>Vajrayana</color> to investigate
-Visit <color=#orange>any city or village in Vajrayana</color> to examine the damage suffered by villagers.
-The residents here seem to have suffered greatly at the hands of the Vajrayana, yet they fear to speak out...
+Vicious actions of King Kong
+Exploring at <color=#orange>Kunlun Mountain</color
+Go to any town or village in <color=#orange>Kunlun Mountains</color> to investigate the villagers' suffering。
+The residents here seem to suffer greatly from the Diamond Sect, yet they are afraid to speak out……
 
-Go to the Vajrayana
-Visit <color=#orange>Vajrayana Sect</color>
-Visit <color=#orange>Vajrayana Sect</color>, and pay a visit to the Eminent Monk.
-I heard that the eminent monk from the Western Regions has arrived at the Vajrayana. It's a good opportunity to pay a visit...
+Go to the Diamond
+Go to <color=#orange>Diamond Sect</color>\\n>
+Go to <color=#orange>Jingang Sect</color> to visit the high monk from the Western Regions。
+I heard that a high monk from the Western Regions has arrived at the Diamond Sect, it is a good opportunity to pay a visit……
 
-Ancient Scripture Mystery
-Go to <color=#orange>Qinzhou</color>'s 「Ancient Scripture Mystery」 adventure
-Go to <color=#orange>{0}</color>, and enter the <color=#orange>「Ancient Scripture Mystery」</color> adventure.
-Since i have already agreed to the request of the Vajrayana, why not explore the ancient monastery...
+Ancient Classics: The Mysterious Path
+Head to <color=#orange>Qinzhou</color> for the adventure 'Ancient Scripture Mystery'\\n」
+Go to <color=#orange>{0}</color> and enter the adventure <color=#orange>「Ancient Scripture Mystery」</color>.\\n>。
+Since we have agreed to the request of the Vajrayana sect, we might as well go to that ancient temple to explore a bit……
 
-Western Region's Matter
-Go to the <color=#orange>West</color> and explore all over the place
-Go to the <color=#orange>West</color> and <color=#orange>explore the areas within it</color>.
-In the past few days I've been feeling dizzy and powerless without any reason, that's really strange...
+Strange Affairs of the Western Regions
+Exploring everywhere in the Western Regions
+Move around and explore within the <color=#orange>Western Regions</color>。
+Recently feeling lethargic and weak, yet my body has no pain or illness, it's really strange……
 
-Enter the <color=#orange>Reincarnation Platform</color>, and help the Eminent Monk reincarnate
-Enter the Taiwu Village's Industry screen, interact with the <color=#orange>「Reincarnation Platform」</color> building, and help the Eminent Monk reincarnate into any path.
-The soul of the Eminent Monk keeps following me all day long, I should quickly visit Reincarnation Platform to help him reincarnate...
+Enter the <color=#orange>Reincarnation Platform</color> to help the high monk reincarnate
+Enter the Ta Wu Village industry interface, interact with the building <color=#orange>「Reincarnation Platform」</color>, and send the monk into any reincarnation path。
+The soul of that high monk follows all day long, it may quickly go to the reincarnation platform to assist in his rebirth……
 
-Wait for Reincarnation
-<color=#orange>Wait</color> for Eminent Monk's reincarnation
-After sending the Eminent Monk into the Reincarnation Platform <color=#orange>Reincarnation Progress</color> will accumulate over time. When it's full, you will be able to click the <color=#orange>「Reincarnation」</color> button in the Reincarnation Platform to help the Eminent Monk reincarnate.
-Eminent Monk's reincarnation still requires some time, I might as well meditate while waiting...
+Waiting for reincarnation
+<Waiting for the reincarnation of a high monk
+After sending the senior monk to the reincarnation platform, the <color=#orange>reincarnation progress</color> will accumulate over time. Once it is full, you can click on the <color=#orange>“Rebirth”</color> under the reincarnation path of the senior monk to assist in their reincarnation。
+The reincarnation of the high monk still requires time, so it is better to wait patiently……
 
-Go to Vajrayana
-Visit <color=#orange>Vajrayana</color> to investigate
-Visit <color=#orange>various cities and villages in Vajrayana</color> to look for the eminent monks and help them get out of their predicament.
-I am going to Vajrayana, hoping to find a way to help the eminent monks escape from their predicament...
+Go to Kunlun
+Head towards <color=#orange>Kunlun Mountains</color> to investigate\\n
+Go to the towns and villages in the Kunlun Mountain area to find a way to help the high monk escape。
+On this journey to Kunlun Mountain, I hope to find a way to help the high monk out of his predicament……
 
-Eminent Monk Matter
-Go to the <color=#orange>Vajrayana Sect</color> to inquire about the Eminent Monk's matter
-Visit the <color=#orange>Vajrayana Sect</color> to inquire about the Eminent Monk's matter. You can also interact with the <color=#orange>local population</color> to inquire about recent occurrences.
-The matter of the Eminent Monk from the Western Regions is just a rumor, so i still need to find someone to investigate...
+Matters of the high monk
+Go to <color=#orange>Wuliang Jingang Sect</color> to inquire about the high monk
+Go to Kunlun Mountain <color=#orange>Wuliang Jingang Sect</color> to inquire about the matter of the high monks from the Western Regions. You can also interact with the <color=#orange>local residents</color> to ask around。
+The matter of the high monk from the Western Regions is merely a rumor; further inquiry is needed……
 
-Assist in Preaching Scripture
-<color=#orange>Spread Secrets</color> to help the Eminent Monk to spread scriptures
-Interact with other characters and use the <color=#orange>「Passing Scriptures」</color> secret. Because it is very rare for eminent monks to preach scriptures, those who hear about this secret will spread it to other people again and again. This way, you will be able to just <color=#orange>wait</color> for people to spread it by word of mouth, and within a few months this secret should become public. The Vajrayana Sect is ruthless, and has been coveting the precious scriptures for a long time, so it may be <color=#orange>cautious</color> about this secret.\nWhile waiting for the words to spread, you could also talk to the soul of the Eminent Monk at the Reincarnation Platform.
-Right now I'm helping an Eminent Monk to spread scriptures, but I still need to think carefully about how to act in the future...
+Assisting in the Transmission of Classics
+<color=#orange>Spread secret teachings</color>, aid high monks in passing down scriptures
+Talk to other characters and use the <color=#orange>「transmission of scriptures」</color> secret. It is rare for high monks to transmit scriptures, and those who learn the secret may spread the matter widely. Thus, one can <color=#orange>quietly wait</color> for word of mouth, and in a few months, this secret will be made public. The Vajrayana sect acts ruthlessly and has long coveted the precious scriptures, so caution may be needed when conveying information.\\nDuring the scripture transmission, one can also converse with the soul of a high monk at the reincarnation platform.\\n。
+Now, it's important to assist the high monk in spreading the teachings; as for how to act in the future, it still requires careful consideration……
 
-Vajrayana Business
-<color=#orange>Wait</color> for the Vajrayana matter to settle
-Since I've never agreed to help Vajrayana Sect find scriptures, i should just <color=#orange>wait</color> for this matter to settle.
-The Vajrayana Sect behaves in a way that angers everyone, in the end they will suffer the consequences of their own actions...
+Diamond Karma
+<Quietly waiting for the end of all matters related to the Vajra
+Has not promised the Vajrayana to seek scriptures, <color=#orange>calmly waiting</color> for this matter to conclude。
+The actions of the Diamond Sect provoke the wrath of heaven and the resentment of people, and will ultimately reap their own bad consequences……
 
-Where is the Eminent Monk?
+Where has the high monk gone
 Abandoned
 
 
 
-Handing Over Scrupture
-Visit <color=#orange>Vajrayana Sect</color> to hand over the scripture, in order to end their search for the scriptures.
-Now all i have to do is to hand over the scripture to the Vajrayana Sect to settle this matter...
+Delivery of scriptures
+Go to the <color=#orange>Vajrayana</color> to deliver the scriptures and conclude the matter of seeking the texts。
+Now it's just a matter of handing over the scriptures to the Vajrayana sect, and this matter can be completely resolved……
 
-Return the Scriptures
+Return the scriptures
 
 
 
-True Scriptures without words
-<color=#orange>Wait</color> for news from Vajrayana Sect
-Vajrayana Sect has already obtained the scripture, I should just <color=#orange>wait</color> for news.
-The Vajrayana Sect has obtained the scripture, but i don't know what will happen in the future...
+The true scripture has no text
+<Quietly waiting for news from the Diamond School
+The Vajrayana has obtained the scriptures, <color=#orange>quietly awaiting</color> its news。
+The Vajrayana has already obtained the scriptures, but it is unknown what will happen in the future……
 
-Secret Bath of Five Saints
-Once again visit the <color=#orange>「Secret Bath of Five Saints」</color>
-Talk to T3 characters of the Five Immortals Cult, or enter the Five Immortals Cult's Industry screen, click the <color=#orange>「Five Poisons Bath Valley」</color> building, and select Taiwu to interact with the <color=#orange>「Secret Bath of Five Saints」</color> sect service.
-The Secret Bath of Five Saints is really miraculous, you might as well go there once more...
+Five Sacred Secret Baths
+Go to <color=#orange>「Five Saints Secret Bath」</color> again \\n>
+Dialogue with a person of the third level from the Five Immortals Sect, or enter the Five Immortals Sect industry interface, click on the building <color=#orange>「Five Poisons Bath Valley」</color>, and select the Taiwu Heir for sect interaction <color=#orange>「Five Saints Secret Bath」</color>.\\n>。
+The secret bath of the Five Saints is truly miraculous; it would be good to choose another day to visit……
 
-Hundred Flowers Treatment
-Visit <color=#orange>Hundred Flowers Valley</color> in search for a treatment
-Go to the <color=#orange>areas near the Hundred Flowers Valley</color> in order to search for a treatment for Ran Xindu.
-Hundred Flowers's medical skills are unparalleled in the world, they will definitely be able to diagnose and cure Ran Xindu's illness...
+Seeking Doctors Among Hundred Flowers
+Go to <color=#orange>Baihuagu</color> to seek medical help\\n
+Go to the vicinity of <color=#orange>Baihua Valley</color> to seek a cure for Ranxin's poison。
+The art of medicine from Hundred Flowers stands unparalleled in the world, surely capable of diagnosing and treating the disease of hidden heart poison……
 
-Looking for Ran Xindu
-Interact with <color=#orange>Ran Xindu</color>
-Interact with the <color=#orange>Ran Xindu</color>, who's located in the vicinity of the Five Immortals Cult.
-Now that I have agreed to the Sacren Nun's request, let's go see Ran Xindu...
+Looking for the Heart's Poison
+Interact with <color=#orange>Ranxin Du</color>\\n
+Interact with <color=#orange>Ranxin Poison</color> near the Wuxian Temple。
+Since I have promised Saint Gu, I shall go see Ran Xin the Poisonous now……
 
-Kongsang Treatment
-Visit <color=#orange>Kongsang Sect</color> in search for a treatment
-Go to the <color=#orange>areas near the Kongsang Sect</color> in order to search for a treatment for Ran Xindu.
-The secret medicines of Kongsang are famous all over the world, they definitely will be able to diagnose and cure Ran Xindu's illness...
+Searching for a doctor in the empty mulberry grove
+Go to <color=#orange>the Kongsang Sect</color> to seek medical help
+Go to the vicinity of <color=#orange>Kun Sang Sect</color> to seek a doctor for Ran Xin's poison。
+The secret medicine of Kong Sang is renowned in the world and is sure to treat the toxic illness of the heart……
 
-Ran Xindu's Letter
-<color=#orange>Wait</color> for news from Ran Xindu
-Ran Xindu has already returned to the Five Immortals Cult, let's just <color=#orange>wait</color> for news.
-Ran Xindu has now returned to the Five Immortals. I wonder what will happen in the future...
+Malevolent belief
+<color=#orange>Calmly waiting</color> for the poisonous news of Ranshin\\n
+Ran Xin has returned to the Five Immortals Sect, <color=#orange>waiting quietly</color> for news。
+Heart Poison has now returned to the Five Immortals, not knowing how things will be in the future……
 
-Unfulfilled Wish
-<color=#orange>Wait</color> for Ran Xindu
-There is still a glimmer of hope in my heart, let's just <color=#orange>wait</color> for news about Ran Xindu.
-Although the matter of the Five Immortals has been settled, the relationship between me and Ran Xindu should not be severed...
+Unfulfilled wishes
+<color=#orange>Waiting</color> for the heart's poison
+A trace of hope still lingers in my heart, <color=#orange>waiting</color> for the news of Ranxin's poison。
+The matter of the Five Immortals has settled, but the toxic bond should not be severed just like that……
 
-Sudden Change in Five Immortals
-Visit <color=#orange>Five Immortals Cult</color>
-Visit <color=#orange>Five Immortals Cult</color>, and enter the <color=#orange>「Sudden Change in Five Immortals」</color> adventure. The situation at the Five Immortals Cult is critical, and if delayed for more than <color=#orange>12 months</color>, the situation will become irrepairable!
-The matter mentioned in the Ran Xindu's letter seems to be extremely urgent, i must rush to the Five Immortals Cult...
+Five Immortals' Transformation
+Head to <color=#orange>Wuxian Pavilion</color>\\n>
+Go to <color=#orange>Wuxianjiao</color> and enter the adventure <color=#orange>「Wuxian Mutation」</color>. The situation of the Five Immortals is critical; if delayed <color=#orange>for more than 12 months</color>, the situation may become irreparable！
+The matters mentioned in the letter from the Heart Poison seem extremely urgent, and must be rushed to Wuxian without delay……
 
-Emei's Murder Case
-Pay attention to Emei's terrible situation
-<color=#orange>Spend some time</color>, and go back to the <color=#orange>place where the terrible murder occured</color> in Emei to check the situation.
-This murder case in Emei is very strange and weird, definitely not an ordinary murder case...
+Emei Murder Case
+Beware of the Emei murder case
+<After some time, I returned to the area near the scene of the murder at Emei Mountain to check the situation。
+This Emei murder case is quite bizarre and eerie, far from an ordinary homicide……
 
-Look for More Clues
-Interact with <color=#orange>members of Emei Sect</color> to find out more clues about this case
-Interact with <color=#orange>members of Emei Sect</color> and ask them about the <color=#orange>Emei's murder case</color> to collect different clues.
-While I was at the bottom of the cliff, the murder case in Emei reappeared. The real culprit should be someone else...
+Searching for clues again
+Interact with <color=#orange>Emei Sect characters</color> to collect clues
+Interact with <color=#orange>Emei Sect characters</color>, inquire about the <color=#orange>Emei murder case</color>, and gather different clues。
+When I was at the bottom of the cliff, another murder case occurred at Emei, and the real culprit should be someone else……
 
 White Ape in the Valley
-Interact with the <color=#orange>White Ape</color>
-Go to <color=#orange>Emei</color> and Interact with the <color=#orange>White Ape</color>.
-The White Ape in the valley seems to be a hidden master. You might as well ask it about the clues, or perhaps discover new clues...
+Interact with <color=#orange>White Ape</color>\\n
+Go to <color=#orange>Emei Mountain</color> and interact with the <color=#orange>white monkey</color。
+The white ape in the valley seems to be a hidden master; it might be worth inquiring about the clues of the murder case, as it could reveal some insights……
 
-Dispute over Authenticity
-<color=#orange>Calmly wait</color> for White Ape's return
-<color=#orange>Calmly wait</color> for White Ape's return. During this time you can Interact with <color=#orange>members of Emei Sect</color> to ask them about the <color=#orange>Reclusive Elder</color>, and about their <color=#orange>worries about authenticity</color>.
-This Shi Houjiu claims to be a reclusive elder of Emei, but his behavior is perverse. Could it be that he is involved in the murder...
+The Authenticity Debate
+<Wait for the white ape to return
+<Wait for the return of the White Ape. During this time, you can interact with the characters of the Emei Sect and inquire about the Hidden Elder and the concerns of the Authentic Sect>。
+This stone aged wine claims to be from the secluded elder of Emei, yet behaves inexplicably, perhaps related to a murder case……
 
-Seizing Emei
-Enter the <color=#orange>"What is Orthodox"</color> adventure
-Go to the Emei and enter the <color=#orange>"What is Orthodox"</color> adventure. Emei will be seized soon, and if you delay it for <color=#orange>more than 6 months</color>, the situation will become irrevocable!
-The internal strife in the Emei Sect is getting worse and worse, and a catastrophe is imminent. I must make a decision soon...
+The Calamity of Emei
+Going to the adventure <color=#orange>「What is Authentic」</color>\\n>
+Embark on an adventure in Mount Emei: <color=#orange>‘What is Authenticity’</color>. The great disaster of Emei is imminent; if delayed <color=#orange>for more than 6 months</color>, the situation may become irreversible！
+The internal strife within the Emei Sect is escalating, and a great calamity is imminent and unavoidable; I must make my choice early……
 
-Ask the DarkLord
-Look for the DarkLord of Jieqing to ask for information
-
-
-
-Under the Lifeless Abyss
-Go to the【Under the Lifeless Abyss】adventure
+Ask the Dark Lord
+Looking for the Dark Lord of the Realm to inquire about the situation
 
 
 
-Kill Seven People
-Kill Seven People in Total
-This task may require Go terminology to finish: Divine move?
+Under the Abyss of No Existence
+Go to the adventure [Under the Lifeless Abyss】
 
 
-Sheng
 
-Born: A person whose parents have both died
-
-
-Elder
-
-Old: A person whose children are dead
+Kill seven people
+Kill Seven People Total Task
+This task may require Go terminology for its name: God's move？
 
 
-Disease
+Born
 
-Sick: less than 1/5 of health
+Orphan: a person whose parents are both dead
+
+
+Old
+
+Old: a person whose children have all passed away
+
+
+Illness
+
+Illness: Health below 1/5 of the population
 
 
 Death
 
-Death: Fame at the time of death is either Saintly or Monstrous
+Death: A person reputed to be renowned throughout the world or a monster
 
 
-Parting Love
+Love and separation
 
-Parting Love: A person whose spouse has died and they currently have no spouse
+Love and Separation: A person whose spouse has died and currently has no spouse
 
 
-Grudge
+Grievance and hatred gather
 
-Grudge: People who have three or more enemies
+Resentment and hatred gathering: Those with three or more enemies
 
 
-Longing
+Yearning for what cannot be obtained
 
-Longing: the object of admiration does not love this person but adores someone else
+Unrequited love: A person who loves someone but is not loved in return and instead loves someone else
 
 
-No Life Under the Abyss
-Back to the Abyss
+Bottomless Abyss
+Return to the Abyss of No Life
 
 
 
-Immortal Family's Paper Crane
-Travel to Ranshan Sect
+Immortal's Paper Crane
+Go to Ranshan Sect
 
 
 
-Three Ancestral Saints
-The manifestation of the saints is extraordinary, wait for the follow-up
+Three Sacred Manifestations
+Manifesting the extraordinary, quietly awaiting the follow-up
 
 
 
-Teaching Three People
+Teach three people
 
 
 
-Three Sects Competition
-Participate in the Three Sects Competition (Wait for the monthly event)
+Three Competitions
+Participate in the three competitions (in fact, waiting for the event next month）
 
 
 
-Wait for an Opportunity
-<color=#orange>Stay at Shaolin</color> and wait for an opportunity
-<color=#orange>Stay at Shaolin</color> and wait for an opportunity.
-Collapses in the Pagoda Forest seem to have some Buddhist subtleties, perhaps i should wait here for a while...
+Quietly waiting for opportunity
+<Stay in the Shaolin Sect and wait for opportunities
+<Stay in the Shaolin School waiting for an opportunity。
+The tower collapses, as if there is a Zen moment; it is better to quietly wait here for a while……
 
-Meeting Old Monk
-<color=#orange>Wait</color> to meet Old Monk in your dreams
-<color=#orange>Wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
-The Old Monk entered my dream, it seems fake and yet it's real, i haven't fully experienced it yet, so perhaps i should keep trying...
+Old monk meeting
+<color=#orange>Waiting</color> for the opportunity in the old monk's dream
+<Wait for the old monk's chance in a dream. As long as you hold the statue, even if you don't stay in the Shaolin sect, you can still meet the old monk in your dreams。
+The old monk enters a dream, as幻 as true, with opportunities not yet exhausted, perhaps waiting to continue……
 
-Sculpture Shatters
-Return <color=#orange>Shattered Sculpture</color> to Shaolin
-<color=#orange>Interact</color> with a Shaolin character to return <color=#orange>Shattered Sculpture</color> to Shaolin.
-The statue is shattered, I think the opportunity is over, I should return this thing...
+The statue is shattered
+Return the <color=#orange>broken statue</color> to the Shaolin Temple
+Interact with the Shaolin school characters and return the broken statue to the Shaolin school。
+The statue is shattered; it seems the opportunity has come to an end, and it should naturally be returned……
 
-Battle of Zen and Martial Arts
+Zen Martial Arts Debate
 
 
 
-Concentrate on Practice
-Concentrate on <color=#orange>practicing</color> Shaolin skills
-Increase the practice level of Shaolin skill <color=#orange>{0}</color> taught by the Old Monk to 100%
-The Old Monk taught me in my dream, so I will live up to his instructions and practice with dedication...
+Devote oneself to diligent study
+Devoted to <color=#orange>studying</color> Shaolin martial arts\\n
+Raise the proficiency of the Shaolin skills taught by the old monk <color=#orange>{0}</color> to 100%。
+The old monk instructed me in a dream, and I will certainly live up to his expectations, dedicating myself to practice……
 
-Old Monk is back
-Meditate and <color=#orange>wait</color> for Old Monk to appear in your dreams
-Meditate and <color=#orange>wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
-Now that I've learned martial art of Shaolin, I wonder what the Old Monk will teach me in my dreams in the coming days...
+The old monk returns
+Calmly <color=#orange>wait</color> for the old monk to return in the dream
+Calmly <color=#orange>wait</color> for the old monk to return in dreams.\\nAs long as you hold the statue, even if you do not stay at Shaolin, you can meet the old monk in your dreams.\\n。
+Having learned the Shaolin skills, I wonder what guidance the old monk will provide in my dreams in the days to come……
 
-Digging for Treasure
-Try <color=#orange>Digging</color> in Shaolin
-Try <color=#orange>Digging</color> in Shaolin to find a secret treasure mentioned by Old Monk.
-Buried under Shaolin, i wonder what kind of treasure it is...
+Digging for treasures\n
+Excavating and Searching in the Shaolin Sect>
+Excavating and searching for the treasure mentioned by the old monk in the Shaolin sect。
+The secret treasure buried underground by the Shaolin sect is unknown……
 
-Teachings of Old Monk
-<color=#orange>Wait {0} months</color> to fight Old Man in a dream again
-Diligently study, and <color=#orange>wait {0} months</color> to fight Old Man in a dream again\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
-The trial isn't over yet, i still have to work hard and prepare for a fight with the Old Monk in dreams...
+Old monk teaches
+<color=#orange>Wait for {0} months</color> for the old monk to enter the dream and fight again\\n
+Study hard and diligently, <color=#orange>wait {0} months</color> for the old monk to enter my dreams and battle again. \\n As long as you hold the statue, even if you do not remain in the Shaolin sect, you can still enter the dream and meet the old monk. \\n。
+The trial has not yet been completed, and I still need to improve. I will wait for another day to fight again in my dreams……
 
-Buddhist Classics
-<color=#orange>Wait</color> to meet Old Monk in your dreams
-You've obtained Buddhist Classics, now you just have to <color=#orange>wait</color> to meet Old Monk in your dreams.\nAs long as you're holding the sculpture, you will be able to meet him in your dreams even outside of Shaolin.
-I've obtained the Buddhist scriptures as told by the Old Monk, i wonder what teachings are written in them...
+Buddhist scriptures
+<Waiting for the old monk to enter the dream opportunity
+Having obtained the Buddhist scriptures, <color=#orange>waiting</color> for the old monk to enter my dreams.\\nAs long as one holds the statue, even if not remaining in the Shaolin school, one can enter dreams to meet the old monk.\\n。
+I have obtained the Buddhist scriptures as instructed by the old monk, but I do not know what teachings are contained within……
 
-Reading Scriptures
-<color=#orange>Study</color> Buddhist Classics
-To finish studying <color=#orange>{0}</color>, you have to study <color=#orange>at least 3 pages of it</color>; If you've already done so, just <color=#orange>wait</color> to meet the Old Monk in your dreams.
-The Dharma is vast and boundless, I should follow the Old Monk's instructions and fully concentrate on studying it...
+Refer to the Buddhist scriptures
+<Study the Buddhist scriptures and quietly await the Zen opportunity
+Study books, read <color=#orange>{0}</color> at least <color=#orange>three articles</color>; if you have finished reading, you can <color=#orange>quietly wait</color> for the opportunity in the monk's dream。
+Buddhist teachings are vast and boundless, and one should follow the guidance of the old monk and study diligently……
 
-Shaolin's Pagodas
-Go to <color=#orange>Shaolin</color> and observe Pagoda Forest
-Go to <color=#orange>Shaolin</color> and click on Industry button to observe Pagoda Forest.
-Hidden on the bottom of the Shaolin's Pagoda, i wonder what kind of treasure it is...
+Shaolin Stupas
+Go to the <color=#orange>Shaolin Temple</color> to observe the forest of pagodas
+Go to the Shaolin Sect's property, click on the building <color=#orange>Shaolin Sect</color> Observation Tower。
+The secret treasure collected at the base of the Shaolin school is unknown……
 
-Buddhist Classics Pavilion's floor
-Go to <color=#orange>Buddhist Classics Pavilion</color> to look for treasures
-Go to <color=#orange>Shaolin</color>, click on Industry button, then click on <color=#orange>Buddhist Classics Pavilion</color> to look for treasures.
-Hidden inside of Shaolin's scripture pavilion, i wonder what kind of treasure it is...
+Scripture Hall
+Go to the <color=#orange>Tibetan Sutra Pavilion</color> to search for treasures\\n
+Go to the Shaolin School's properties, click on the building <color=#orange>Scripture Storage Pavilion</color> to search for hidden treasures。
+The secret treasure hidden in the Shaolin school is unknown……
 
-Stories about Lion Face
-Visit Guangdong's <color=#orange>Villages and Cities</color> to learn stories
-Visit <color=#orange>Villages and Cities</color> in various areas of Guangdong to learn stories about Lion-Face Clan.
-The stories about Lion-Face Clan are hilarious, so you might as well pay more attention to them while traveling...
+Lion Image Anecdotes
+Go to towns and villages in Guangdong to gather anecdotes
+Go to the towns and villages under the jurisdiction of Guangdong to inquire about interesting anecdotes related to the Lion Peak Gate。
+The amusing stories of the Lion Bridge are sure to make you laugh; while traveling, be sure to pay extra attention……
 
-Go to Lion Face
-There are numerous rumors, go to <color=#orange>Lion-Face Clan</color> to investigate.
-The Lion-Face Clan's reputation "spreads far and wide", but we don't know what kind of people are in this sect...
+Go to Lion Square
+Rumors abound, and people are heading to <color=#orange>Lion's Gate</color> to find out the truth。
+The 'Lion's Gate' is famous far and wide, yet one does not know what kind of people are within this gate……
 
-<color=#orange>Wait</color> until Lion-Face Clan expels foreigners
-<color=#orange>Wait</color> until Lion-Face Clan expels foreign enemies.
-Members of Lion-Face Clan are full of fighting spirit, I can just sit back and watch...
+<color=#orange>Waiting</color> for the Lion's Gate to expel the outsiders
+<color=#orange>Waiting</color> for the Lion's Gate to expel the alien enemies。
+The lion's gate is filled with fighting spirit; I can just watch from the sidelines……
 
-Establishing Ancestral Hall
-Return to <color=#orange>Taiwu Village</color>.
-Ancestral Hall has been complete, i should return back to Taiwu Village to take a look at it...
+The ancestral hall is completed
+Return to <color=#orange>Taiwu Village</color>.\\n>。
+The ancestral hall has been completed, so I will return to Taiwu Village to have a look……
 
-Maintain the Divine Tree
-Maintain the Divine Tree, enter the cave, and obtain the spiritual treasure
-Select <color=#orange>Divine Tree Seed</color> in your inventory to plant, and <color=#orange>raise the Divine Tree</color> by investing resources, reciting Taoist scriptures, and eliminating nearby Xiangshu minions. A Divine Tree requires 90000 resources to fully grow, and this amount can be reduced by reciting Taoist scriptures and eliminating nearby minions. After its cultivation is complete, you can enter the cave through the Divine Tree to <color=#orange>obtain the spiritual treasure and give it to the Disheveled Daoist</color> for practice.
-The growth of a Divine Tree really requires a lot of thought...
+Care for the Sacred Tree
+Nurturing the sacred tree, entering the cave of heaven, obtaining the spiritual treasure
+Select <color=#orange>Divine Tree Seeds</color> from the backpack for planting. By investing resources, reciting the Taoist scriptures, and eliminating nearby minions, you can <color=#orange>nurture the Divine Tree</color>. It takes 90,000 resources for the Divine Tree to grow, and you can reduce the resource input by reciting the Taoist scriptures or eliminating nearby minions. Once nurtured, you can use the Divine Tree to <color=#orange>enter the cave and obtain spiritual treasures, which can be handed over to the scruffy Taoist priest for rituals</color>.\\n。
+To grow a divine tree truly requires a lot of thought……
 
-Planting Divine Trees
+Planting Shenmu
 
-Select <color=#orange>Divine Tree Seed</color> in your inventory to plant. Divine Trees cannot be planted near Sword Tombs, Black Stone, or Settlements. Multiple Divine Trees can be planted at the same time, but they can't be too close to each other. If a Divine Tree is planted near the Outlaw lair, it will be removed, and Taiwu will receive corresponding amount of Favor.
+Select <color=#orange>Divine Tree Seeds</color> for planting in the backpack. Divine Trees cannot be planted near Sword Tombs, Xuan Stones, or Settlements. Multiple Divine Trees can be planted simultaneously, but they must not be too close to each other. When planting Divine Trees, if there are any external paths in their location or area, those external paths will be removed, and the corresponding merits will be received by Taiwu。
 
 
-Protecting Divine Trees
+Guardian of the Divine Tree
 
-Interact with the Divine Tree and enter the <color=#orange>Defend Divine Tree</color> menu. While the Divine Tree is growing, every month there will be a chance of several <color=#orange>Xiangshu minions</color> appearing near the Divine Tree. Every month, Xiangshu's minions will move one tile towards the Divine Tree along the marked path. If they manage to reach Divine Tree's tile, it will be destroyed. <color=#orange>Send villagers</color> to the movement path of the minions to block their progress. A villager can only block one Xiangshu minion on the same tile. Successfuly blocking will <color=#orange>reduce villager's Health</color>.
+Interact with the Divine Tree to enter the <color=#orange>Guardian of the Divine Tree</color> interface. Each time a month passes and the Divine Tree grows to a new stage, several <color=#orange>auxiliary minions</color> will appear near the Divine Tree. When the month passes, the auxiliary minions will move one square towards the Divine Tree along the marked path, and when they reach the square where the Divine Tree is located, the tree will be destroyed. By <color=#orange>dispatching villagers</color> along the path of the minions, you can block their advance. A single villager can only block one auxiliary minion in the same square, and successfully blocking will <color=#orange>reduce the villager's health</color>。
 
 
-Study Taoism
+Study the Dao and its principles
 
-Study Taoism books, improve your <color=#orange>Taoism attainment</color>, and open the heavenly cave.
+Study Taoist texts to enhance <color=#orange>Taoist mastery</color> and open the cave of mystery。
 
 
-Exchanging for Seeds
+Exchange tree species
 
-Go to Wudang Sect and interact with <color=#orange>Disheveled Daoist</color> to exchange for Divine Tree Seeds.
+Go to Wudang Sect and interact with <color=#orange>Daoist Lata</color> to exchange for the seed of the divine tree。
 
 
-Wudang Gossip
-<color=#orange>Calmly wait</color> for news from Wudang Sect
-<color=#orange>Calmly wait</color> for news from Wudang Sect.
-The Disheveled Daoist practiced his own way, i wonder whether Wudang will change as a result...
+Wudang Chat
+<Quietly waiting for news from the Wudang Sect
+<color=#orange>Waiting</color> for news from the Wudang Sect.\\n。
+The scruffy Taoist practiced the method himself, unsure if Wudang has changed because of this……
 
-Daoist's Method
-<color=#orange>Calmly wait</color> for news from Disheveled Daoist
-<color=#orange>Calmly wait</color> for news from Disheveled Daoist.
-I have handed the spiritual treasure to the Disheveled Daoist, but I don’t know what he will do with it...
+The Taoist priest performs a ritual
+<color=#orange>Quietly waiting</color> for the news from the untidy Daoist priest\\n
+<Quietly waiting for the sloppy Daoist's news。
+The Lingbao has been handed over to the scruffy Daoist priest, but I don't know how he will handle it……
 
-Assist in a Ceremony
-Help <color=#orange>Disheveled Daoist</color> with his method
-Go to the Wudang Clan and interact with <color=#orange>Disheveled Daoist</color> to help him with his method.
-I don’t know what happened to Daoist's Method, so let’s go to Wudang Sect...
+Assisting in rituals
+Assist the <color=#orange>slovenly priest</color> in performing spells\\n
+Go to Wudang Sect and interact with <color=#orange>Daoist Lu Tuo</color> to assist him in performing rituals。
+I don't know what happened to Zhang's practice, so let's head to Wudang Sect……
 
-Wait for Immortal Fate
+Waiting for a fateful encounter with an immortal
 
-The Divine Tree has grown. <color=#orange>Wait</color> for the opportunity to enter the heavenly cave.
+The divine tree has grown, <color=#orange>waiting</color> for the chance to enter the cave heaven。
 
 
-Discuss Rumors
-<color=#orange>Visit Lion-Face Clan</color> and find their Sect Master
-<color=#orange>Visit Lion-Face Clan</color> and find their Sect Master to discuss rumors about Lion Face.
-The rumors are strange, it is better to go to the Lion-Face Clan to discuss with the Sect Master as soon as possible...
+Discussing rumors
+<color=#orange>Go to Lion's Gate</color> to find the gatekeeper\\n
+<Go to Lion's Gate to discuss the rumors about Lion's Allegory with the gatekeeper。
+Rumors are strange, it's better to go to Lion's Gate and discuss with the gatekeeper as soon as possible……
 
-<color=#orange>Practice</color> Xuannyu skills
-After you practice the Xuannyu technique <color=#orange>{0}</color> taught to you by Yun'er to 100%, go to the Jade Mirror and <color=#orange>look for Yun'er to enter the mirror for practice</color>.
-Young Lady Yun'er taught me this technique, so i will practice it earnestly to live up to her expectations...
+<color=#orange>Practice</color> Xuan Nv's martial arts \\n
+After raising the cultivation level of the Xuan Nu technique <color=#orange>{0}</color> taught by Jun'er to 100%, go to Mingjue <color=#orange>to find Jun'er for further cultivation</color>.\\n>。
+The skills taught by Miss Jun must be diligently practiced, so as not to betray the heartfelt intentions……
 
-Heaven's Will is Unpredictable
-Return to Xuannyu Peak <color=#orange>to look for Yun'er</color>
-Return to Xuannyu Peak and go to the Jade Mirror <color=#orange>to look for Yun'er</color>.
-Heaven's will is unpredictable, this time the search for the person failed, so I had to return empty-handed...
+Fate plays tricks on people
+Return to Xuan Nv Peak <color=#orange>to find Jun Er</color>\\n>
+Return to Xuannv Peak and go to a Mingjue to <color=#orange>search for Jun'er</color>。
+The will of heaven is hard to predict; this time searching for someone has ended in failure, so we can only return first……
 
-Finally Meet a Beautiful Woman
-Return back to <color=#orange>Xuannyu Sect</color> with Shi Weizhi
-Quickly return back to Xuannyu Sect and go to the Jade Mirror <color=#orange>to look for Yun'er</color>.
-Heaven's will didn't disappoint me. I have finally found the person. Let's hurry back to Xuannyu Sect...
+Finally meeting the beautiful person
+Take Shih Wei Zhi back to the <color=#orange>Xuannu Peak</color> quickly>
+Take Shi Weizhi back to Xuannv Peak at once, and go to Mingjue to find Jun'er>。
+The will of heaven does not disappoint; it has ultimately allowed me to find this person. Let us hurry back to Xuan Nv Peak……
 
-Young Lady Yun'er finally achieved her wish of reuniting with her Senior Sister. I wonder what will happen next...
+Miss Jun'er got her wish fulfilled and finally reunited with her senior sister. I wonder what happened afterwards……
 
-Asking for Whereabouts
-Return to <color=#orange>Xuannyu Sect</color>
-Return to <color=#orange>Xuannyu Sect</color> to ask more about Senior Sister's whereabouts.
-This time i have bitterly searched for the Senior Sister with the guidance of a Heavenly Woman, but in the end I have somehow failed...
+Ask again about the destination
+Return to <color=#orange>Xuannv Peak</color>\\n>
+Return to <color=#orange>Xuan Nu Peak</color> and ask Senior Sister about her whereabouts。
+Following the guidance of the celestial maiden this time, I searched hard for my senior sister but to no avail, and I do not know why……
 
-It's hard to untie the threads of love
-Go to Jade Mirror <color=#orange>to look for Yun'er</color>.
-Yun'er and her Senior Sister share deep love, which is really touching...
+Sentimental ties are hard to unravel
+Go to Yi Mingjue to find Jun'er>。
+Yun'er and her senior sister share a deep bond, which truly evokes many emotions……
 
-Dao of the Love Guqin
-Interact with <color=#orange>members of Xuannyu Sect</color>
-Interact with members of Xuannyu sect <color=#orange>and ask them about their opinion on the word "Love"</color>.
-The matters of the past have been settled, but I don’t know how the Xuannyu sect views the word love...
+The Way of the Emotional Zither
+Interact with <color=#orange>Xuan Female Sect Characters</color
+Interact with the members of the Xuan Nv faction, <color=#orange>discussing the word "qing"</color>.\\n>。
+The past has all been settled, but I do not know how the members of the Xuannv Sect view the word 'love……
 
-Intensive Practice
-Improve your strength and <color=#orange>enter the Jade Mirror to practice</color> again.
-Improve your strength and go to Xuannyu Sect's Jade Mirror to find Yun'er, and <color=#orange>enter the Jade Mirror to practice</color> once more.
-The trial has not been completed, it seems that i still need to work harder, let's look for Young Lady Yun'er again...
+Refined Practice Method
+Enhance your strength, and further engage in <color=#orange>in-camera training</color>
+Enhance strength, and once again head to Xuan Nv Peak to look for Jun Er, <color=#orange>enter the mirror for cultivation</color>。
+The trial is not yet complete; it seems I still need to improve and come back to seek Miss Jun'er……
 
-Go to Jade Mirror <color=#orange>and enter it for practice</color>
-Go to Xuannyu Sect's Jade Mirror and look for Yun'er to <color=#orange>enter the Jade Mirror for practice</color>.
-Young Lady Yun'er still has some skills to teach me, i should go to the Jade Mirror soon...
+Go to Yi Ming Jue <color=#orange>for meditation training</color>\\n>
+Go to the Xuannv Peak in Mingjue, to find Jun'er, <color=#orange>enter the mirror to practice</color>。
+The girl Jun'er still has martial arts to impart, so let's head towards the Mingjue Mirror for a while……
 
-Emei's Turmoil
-<color=#orange>Calmly observe</color> what's happening at Emei Sect
-An internal strife has started in Emei Sect, <color=#orange>I should act calm and carefully observe it</color>.
-White Ape was seriously injured, and an internal strife started at Emei Sect, all because of Shi Houjiu. What path should i follow...
+Emei Disturbance
+<color=#orange>Calmly observing</color> the trends of the Emei faction
+There is internal strife within the Emei Sect, <color=#orange>calmly observe and pay attention</color>。
+The white ape is seriously injured, and there is inner turmoil in Emei, all caused by Shihou wine. What should I do next……
 
-Little Rock Promise
-Interact with <color=#orange>Shi Houjiu</color>
-Go to <color=#orange>Emei Sect</color>, and Interact with <color=#orange>Shi Houjiu</color>.
-It seems like White Ape and Shi Houjiu have returned, i should go and investigate...
+The Pact of the Small Stone
+Interact with <color=#orange>Stone Brew Wine</color
+Go to <color=#orange>Emei Mountain</color> and interact with <color=#orange>Stone Waiting Wine</color>.\\n。
+The white ape and the stone-sipping wine seem to have returned, so I set off to investigate……
 
-Lone Luan's Mirror
-Gather sheet music of famous songs from all over the world
-When you arrive at any <color=#orange>Sect, City, or Prefecture (Undestroyed Area)</color>, their local music will be recorded into "Lone Luan's Ballad Mirror".\nIf you open your inventory and select <color=#orange>"Lone Luan's Ballad Mirror"</color>, a <color=#orange>Music Bar</color> will appear above the "Note" button. Click on the Music Bar to play any recorded music instead of the current one.
-When traveling around the world, any famous song heard from various places can be copied one by one into this score...
+Solitary Phoenix Mirror Water
+Collect sheet music of famous songs from various places
+When arriving at <color=#orange>the sect, the main city, or an unruined area in the state</color>, the local music will be recorded in the 'Lone Phoenix Mirror Water Ballad'.\\nSelect the item <color=#orange>'Lone Phoenix Mirror Water Ballad'</color> from your backpack and open it. The <color=#orange>music score bar</color> will appear above 'Notes' in the upper right corner of the main interface. By clicking the music score bar, you can play the recorded music and change the current soundtrack.\\n。
+When traveling around the world, whenever I hear famous tunes from various places, I can transcribe them one by one into this score……
 
-Wait for White Ape
-Wait for <color=#orange>White Ape's</color> return
-White Ape is not in its old place. <color=#orange>Wait</color> for its return.
-Since White Ape has gone to practice, I will come back another day...
+Waiting for the white ape
+Waiting for the <color=#orange>White Ape</color> to return\\n
+The white ape is no longer in the old place, waiting for its return。
+The white ape has already gone to practice, so he will come to visit again another day……
 
-Wait for Little Shi
-Wait for <color=#orange>Shi Houjiu's</color> return
-Shi Houjiu is not in his old place. <color=#orange>Wait</color> for his return.
-Shi Houjiu's attitude seems to have changed. Let's check on him another day...
+Waiting for Xiao Shi
+Waiting for <color=#orange>Stone Wine</color> to return\\n
+The stone wine is no longer in its old place, waiting for its return。
+The attitude towards Shihou wine seems to have changed; I will come back another day to explore further……
 
-Follow Fuyu
-Catch up with the <color=#orange>Fuyu Hilt</color>
-Move to the location of <color=#orange>Fuyu Hilt</color>.
-No... no... I cannot lose the Fuyu again...
+Following Fu Yu
+Follow the <color=#orange>Handle of the Fuyujian</color>
+Move to the location of <color=#orange>Fuyujian's handle</color。
+No, we cannot lose Fuyun again……
 
-Pick up Luggage
-Pick up abandoned <color=#orange>Luggage</color>
-Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the abandoned <color=#orange>Luggage</color>.
-There seems to be an unresolved fate in Taiwu’s old land...
+Pick up the backpack
+Pick up the abandoned <color=#orange>backpack</color>
+Go to the area where Taiwu Village is located, move to the grid where the <color=#orange>‘Returning Pearl’</color> icon is, and click the icon to pick up the abandoned <color=#orange>bundle</color>。
+The old land of Taiwu seems to still hold an unresolved connection……
 
-Retrieve Fine Arts
-Retrieve dispelled <color=#orange>Fine Arts</color>
-Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the dispelled <color=#orange>Fine Arts</color>.
+Recovering skills
+Retrieve the removed <color=#orange>skills</color>\\n>
+Go to the area where Taiwu Village is located, move to the cell with the <color=#orange>「Revisit Old Arts」</color> icon, and click the icon to retrieve the removed <color=#orange>skills</color>.\\n>。
 
-Recover Martial Arts
-Recover abolished <color=#orange>Martial Arts</color>
-Go to the Taiwu Village area, move to where the <color=#orange>「Return Inventory」</color> icon is located, and click on it to pick up the dispelled <color=#orange>Martial Arts</color>.
+Regaining the cultivation method
+Regain the abandoned <color=#orange>technique</color>\\n>
+Go to the area where Taiwu Village is located, move to the cell where the <color=#orange>「Knowledge of the Past, Understanding the Future」</color> icon is, and click the icon to regain the lost <color=#orange>martial arts</color>。
 
-Stranger in the Village
-Go back to the <color=#orange>Taiwu Village</color>
-Return to the <color=#orange>Taiwu Village</color> to get to the bottom of this matter.
-I heard that a strange person was visiting the village, but I don’t know where they came from...
+Strange people in the village
+Return to <color=#orange>Taiwu Village</color>
+Return to <color=#orange>Taiwu Village</color> to investigate。
+I heard that a mysterious person has come to the village, but I don't know their background……
 
-Challenge Divine Dragon
-Leave to <color=#orange>challenge a Divine Dragon</color>
-Travel around the world in search of Divine Dragons, and use <color=#orange>「A Golden Thread」</color> to subdue the Divine Dragons.
-Since I have complied with the request of the Huanlong Clan's brother and sister, I should go to explore the traces of the Divine Dragons...
+Challenge the Dragon
+Go to <color=#orange>Challenge the Divine Dragon</color>\\n>
+Challenge the Divine Dragon around the world and use <color=#orange> 'A Strand of Golden Silk' </color> to subdue the Divine Dragon。
+Since I have agreed to the request of the Huanylong siblings, I will go to investigate the traces of the divine dragon……
 
-Spiritual Pond Birth
-Rear a growing Jiao using <color=#orange>Jiao Pond</color>
-Go to the <color=#orange>「Taiwu Village」</color> press the "Industry" button, and go to the <color=#orange>「Jiao Pond」</color> to rear a Jiao.
-Now that the Jiao Pond has been built, you can go to the village and try raising Jiao...
+Spirit Pool Nurtures Dragons
+Raising long dragons through the <color=#orange>Dragon Pond</color
+Enter the building in the center of the Taiwu Village industrial interface <color=#orange>「Taiwu Village」</color>, where long dragons are nurtured in the <color=#orange>「Jiao Pool」</color。
+The dragon pool has been completed, so we can go to the village to try breeding dragons……
 
-Breed Nine Sons
+Raising the Nine Sons
 
 
 
-Challenge White Dragon
+Challenge the White Dragon
 
-Go to the <color=#orange>{0}</color> to challenge the <color=#orange>White Dragon</color> located in the <color=#orange>Thunder Pond</color>.
+Go to <color=#orange>{0}</color> and challenge the <color=#orange>White Dragon</color> located in <color=#orange>Leize</color>。
 
 
-Challenge Black Dragon
+Challenge the Black Dragon
 
-Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Black Dragon</color> located in the <color=#orange>Flood Pond</color>.
+Go to <color=#orange>{0}</color> to challenge the <color=#orange>Black Dragon</color> located in the <color=#orange>Hongze</color> area>。
 
 
-Challenge Green Dragon
+Challenge the Azure Dragon
 
-Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Green Dragon</color> located in the <color=#orange>Wind Pond</color>.
+Go to <color=#orange>{0}</color>, challenge the <color=#orange>Qinglong</color> located in the <color=#orange>Fengze</color> territory>。
 
 
-Challenge Red Dragon
+Challenge the Red Dragon
 
-Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Red Dragon</color> located in the <color=#orange>Flame Pond</color>.
+Go to <color=#orange>{0}</color>, and challenge the <color=#orange>Red Dragon</color> located in the <color=#orange>Flame Marsh</color> region.\\n>。
 
 
-Challenge Yellow Dragon
+Challenge Huanglong
 
-Go to the <color=#orange>{0}</color> to challenge the <color=#orange>Yellow Dragon</color> located in the <color=#orange>Sand Pond</color>.
+Go to <color=#orange>{0}</color> and challenge the <color=#orange>Yellow Dragon</color> located in the <color=#orange>Shaze</color> area.\\n>。
 
 
-Raise and Train Jiao
+Taming the Long Serpent
 
-Go to the Jiao Pond and place a <color=#orange>「Jiao Egg」</color> inside, then <color=#orange>Select a Rearing Plan</color> to begin rearing.\nRearing time depends on the chosen Rearing Plan. <color=#orange>Every month it will consume a certain amount of resources</color>.\nIf the <color=#orange>Taming Level</color> of the Jiao gets too low, it is possible that it will try escaping from the Jiao Pond; If it escapes, it will wander in the <color=#orange>Taiwu Village's Area</color> and you will have to <color=#orange>fight it and use a rope to catch it</color> to return it into the Jiao Pond.\nOnce Jiao's rearing is complete, <color=#orange>it will be able to leave the Jiao Pond</color> and could be used as a Mount.
+After <color=#orange>investing 'dragon eggs'</color> into the dragon pool and <color=#orange>choosing a育育 policy</color>, you can begin育育.\\nDuring育育, according to the current育育 policy, <color=#orange>certain resources will be consumed each month</color>.\\nIf the <color=#orange>tame level</color> of the long dragon is too low, it may escape from the dragon pool; you need to go to the <color=#orange>Taiwu Village area</color> where the long dragon is located, <color=#orange>capture it in battle with a rope</color>, and then put it back into the dragon pool.\\nAfter育育 is complete, you can let the <color=#orange>long dragon leave the pool</color> and become a means of transportation.\\n。
 
 
-Breeding Jiao
+Breeding long dragons
 
-Once Jiao's rearing is complete, two Jiao of the opposite sex can be used to <color=#orange>breed</color> in order to give birth to new <color=#orange>「Jiao Eggs」</color>.\nThrough rearing and breeding, it is possible to continuously improve the attributes of Jiao; If one attribute of a Jiao <color=#orange>reaches Pinnacle</color>, and <color=#orange>the remaining attributes have at least two Outstanding attributes</color>, it is possible to go to the <color=#orange>bottom right corner of the Jiao Pond's menu</color> to try <color=#orange>「Transforming into a Dragon Son」</color>.
+After raising the Long Jiao is completed, two differently-gendered Jiao can engage in <color=#orange>breeding</color> and produce new <color=#orange>“Jiao eggs”</color>. \\n Through cultivation and breeding, higher attribute Long Jiao can be continuously obtained; when one attribute of the Long Jiao reaches its peak, and <color=#orange>any two other attributes are outstanding</color>, you can attempt to <color=#orange>“transform into a Dragon Child”</color> at the <color=#orange>bottom right corner of the Jiao Pool interface</color>. \\n>。
 
 
-One Step, One Gu
-Go to the <color=#orange>vicinity of the Five Immortals Cult</color> and proceed with caution
-There are many strange things happening in the Five Immortals Cult, so I must <color=#orange>proceed cautiously in the vicinity</color>.
-This place is full of verdant hills and limpid water, but in reality danger lurks in every corner, I must proceed very cautiously...
+One step, one curse
+Proceed with caution near the <color=#orange>Five Immortals Temple</color
+The Five Immortals Sect has many strange happenings, so one must <color=#orange>proceed cautiously nearby</color>。
+This place is beautiful with clear mountains and waters, but it is full of lurking dangers, so one must be cautious at every step……
 
-Method of Removing Gu
-Inquire <color=#orange>Five Immortals Cult characters</color> about the Gu matter
-Interact with the <color=#orange>Five Immortals Cult characters</color>, and inquire them about the Gu matter.
-Miao people's Gu techniques are mysterious and unpredictable. I wonder if the Five Immortals Cult has a solution...
+The method to解蛊
+Inquire about the poison of the Five Immortals Sect
+Interact with <color=#orange>the characters of the Five Immortals Sect</color> and inquire about the matter of poison。
+The Gu technique of the Miao region is mysterious and unpredictable; I wonder if the Five Immortals Sect has a solution……
 
-Visit the <color=#orange>「Secret Bath of Five Saints」</color>
-Whether this Secret Bath of Five Saints is really that miraculous, I still need to try it in order to find out...
+Go to <color=#orange>「Five Saints Secret Bath」</color>\\n>
+Whether this Five Saints Secret Bath is truly so miraculous still requires a try to know……
 
-Sacred Nun's True Desire
-The Five Poisons Bath Valley matter is really strange, it would be better to just <color=#orange>wait</color> for a while to see if there's any changes.
-What I saw in the Five Poisons Bath Valley was really strange. I don’t know what that “cherished desire” meant...
+Saint Lady's Will
+The matter of the Five Poisons Bath Valley is quite strange; it would be better to <color=#orange>wait quietly</color> for a while to observe the changes。
+The things seen in the Valley of the Five Poisons are indeed strange, and I don’t know what that 'wish' means……
 
-Wait and see
-<color=#orange>Wait</color> for everything in the Five Immortals Cult to settle
-Since I've never agreed to the Sacred Nun's request, i should just <color=#orange>wait</color> for this matter to settle.
-Things in Miao territory are so complicated that I don’t want to get involved...
+Quietly waiting for things to be settled
+<Quietly waiting for the affairs of the Five Immortals to conclude
+I have not yet agreed to the saint's request, <color=#orange>quietly waiting</color> for this matter to conclude。
+The affairs of the Miao region are complex and convoluted; I have no desire to get involved……
 
-Panwang Dance
-Enter the <color=#orange>「Panwang Dance」</color> adventure
-Go to the <color=#orange>「Hundred Flowers Valley」</color>, and enter the <color=#orange>「Panwang Dance」</color> adventure.
-Panwang Festival is a grand event in Guangnan, you might as well join Ran Xindu to join in the fun...
+The Dance of the Pan King
+Go to the adventure <color=#orange>「Jumping King」</color>\\n>
+Head to <color=#orange>「Baihua Valley」</color>, and enter the adventure <color=#orange>「Jumping Plate King」</color>.\\n>。
+The Panwang Festival is a grand event in Guangnan, so why not join Ran Xin and go enjoy the festivities together……
 
-Hundred Flowers' Prescription
-Talk with <color=#orange>Hundred Flowers Valley characters</color> to inquire about illness
-Interact with the <color=#orange>T3 or above characters from Hundred Flowers Valley</color> to inquire about Ran Xindu's illness.
-I have been here for some time, I wonder if Hundred Flowers Valley has already found an effective cure...
+Hundred Flower Medical Prescription
+Ask the characters in <color=#orange>Baihua Valley</color> about the illness
+Interact with the <color=#orange>third-tier characters of Baihuagu</color> and inquire about the poison disease of Ranxin。
+It has been some time, and I wonder if the Hundred Flowers Valley has found a good solution……
 
-Star Ceremony
-Enter the <color=#orange>「Star Ceremony」</color> adventure
-Go to the <color=#orange>「Kongsang Mountain」</color>, and enter the <color=#orange>「Star Ceremony」</color> adventure.
-The Star Ceremony is an ancient ritual in Liaodong. You might as well go and visit it with Ran Xindu...
+Ritual of the Star Canon
+Go to the adventure <color=#orange> 'Star Festival' </color>
+Head to <color=#orange>「Kongsang Mountain」</color> and enter the adventure <color=#orange>「Starlight Festival」</color>。
+The Star Worship Ceremony is an ancient custom of Liaodong; it wouldn't hurt to go see it together with Ran Xin……
 
-Kongsang's Prescription
-Talk with <color=#orange>Kongsang Sect characters</color> to inquire about illness
-Interact with the <color=#orange>T3 or above characters from Kongsang Sect</color> to inquire about Ran Xindu's illness.
-I have been here for some time, I wonder if Kongsang Sect has already found an effective cure...
+Empty Mulberry Medical Formula
+Ask the <color=#orange>Kongsang Sect character</color> about the symptoms
+Interact with the third-tier figures of the <color=#orange>Empty Mulberry Sect</color> and inquire about Ran Xin's poison disease。
+It has been some time since then; I wonder if the Kong Sang sect has found a good solution……
 
-Searching Mandarin Insect
-Go to the <color=#orange>Five Immortals Cult</color> to search for Ran Xindu's mandarin insect.
-Ran Xindu only has this mandarin insect left, i can't let it get lost again...
+Retrieving the Mandarin Duck
+Go to <color=#orange>Wuxian Jiao</color> and retrieve the love bug of Ran Xin。
+The only thing left by the poison of the lingering heart is this only mandarin duck bug, and I cannot lose it again……
 
-Cherished Desire Complete
-The Five Immortals' matter is almost done, i should just <color=#orange>wait</color> for it to completely settle.
-The matter of the Five Immortals has been settled, there is no need to think about it anymore...
+The wish has been fulfilled
+The matters of the Five Immortals have settled down, quietly waiting for their conclusion。
+The matter of the Five Immortals has been settled; there is no need to think about anything else……
 
-Where's the Old Buddhist Temple
+Where is the ancient temple
 
 
 
-Eminent Monk's Whereabouts
-<color=#orange>Wait</color> for a change
-Vajrayana Sect has learned about the Eminent Monk's whereabouts, i should just <color=#orange>wait</color> for a change.
-The Vajrayana Sect has found the whereabouts of the eminent monks of the Western Regions, I don't know what will happen next...
+High monk's whereabouts
+<Quietly wait for its change
+The Diamond Sect is already aware of the high monk's whereabouts and <color=#orange>is waiting quietly</color> for changes。
+The Vajrayana sect learns of the whereabouts of the high monk from the Western Regions and wonders what actions they will take……
 
-Central Plains Monks
-Chat with <color=#orange>monks of Central Plains</color>
-Pay a visit to <color=#orange>monks of Central Plains</color> and talk with them.
-Many monks from the Central Plains come out of admiration, it's a good opportunity to discuss with them...
+Monks of the Central Plains
+Talk to the <color=#orange>Zhongyuan Monk</color
+Dialogue with the visiting <color=#orange>Central Plains monk</color>.\\n。
+Monks from the Central Plains come seeking fame, and it is just right to discuss with them……
 
-Confusion within Scriptures
-Talk with the <color=#orange>eminent monks of Western Regions</color>
-Talk with the <color=#orange>eminent monks of Western Regions</color> to convey the questions of monks from Central Plains.
-The scriptures still have many difficult passages to understand, we still need to seek advice from the eminent monks...
+Confusion in the Middle
+Dialogue with the <color=#orange>High Monk of the Western Regions</color>\\n
+Dialogue with the <color=#orange>high monk from the Western Regions</color>, conveying the questions of the monks from the Central Plains。
+There are still many difficult aspects of the Sutra that need to be clarified by a high monk……
 
-Eminent Monks Dispel Doubts
-<color=#orange>Wait</color> for eminent monks to dispel doubts
-<color=#orange>Wait</color> for eminent monks of Western Regions to explain deep meanings in the scriptures
-The eminent monks still need to contemplate about the questions, perhaps it would be better to come back and seek advice after some time...
+Monk Explains Doubts
+<Waiting for the high monk to clarify
+<color=#orange>Waiting</color> for the high monks of the Western Regions to explain the profound meaning of the scriptures。
+Even a high monk needs to think deeply; it may be better to come back for advice after some time……
 
-Miao People's Strange Matter
-Things in Miao territory are strange and difficult to understand, it would be better to just <color=#orange>wait</color> for changes.
-People say that there are many strange people and events in the Miao region, i shouldn't be careless...
+Miaojiang Strange Events
+Events in the Miao territories are mysterious and hard to understand, <color=#orange>waiting quietly</color> for the changes。
+People say that Miaojiang has many strange people and mysterious events, so one must not be careless……
 
 Five Saints Heart Poison
-Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine
-Go to the <color=#orange>vicinity of the Five Immortals Cult</color> to examine.
-This girl is deeply knowledgeable about Gu techniques, but she seems to have no malicious intentions. I wonder what her intentions are...
+Investigating near the <color=#orange>Five Immortals Sect</color
+Investigate near <color=#orange>Wuxian Sect</color。
+This girl is deeply skilled in the art of poison sorcery, yet she seems to have no intention of harming others. I wonder what her true meaning is……
 
-Visit Ranshan
-Visit <color=#orange>Ranshan Sect</color>
-Visit <color=#orange>Ranshan Sect</color> to verify the rumors about the "Dragon Gate of Humans" and the "Three Sects Competition".
-Since Ranshan has the reputation of "answering every question, and fulfilling every request", they might be able to answer my questions...
+Going to Ranshan
+Go to <color=#orange>Ranshan Sect</color>\n>
+Go to <color=#orange>Ran Mountain Sect</color> to investigate the matters of 'Dragon Gate of Man' and 'Three Sects Competition。
+Since the mountain bears the name 'answering every question and fulfilling every request', it may be able to resolve the doubts within……
 
-Dream of Qinglang
-Enter the <color=#orange>「Dream of Qinglang」</color> adventure
-Enter the <color=#orange>「Dream of Qinglang」</color> adventure.
-I don't know why Lord Qinglang sent me this invitation...
+A Dream of Green Waves
+Heading to the adventure <color=#orange>‘Dream of Qinglang’</color>
+Go to the adventure <color=#orange> 'A Dream of Qinglang' </color>.\\n>。
+I wonder what the reason is for the invitation from Qinglang Lord this time……
 
-Reflect and Ruminate
-<color=#orange>Stay in the Ranshan Sect</color> to make sense of what you see in the fog
-<color=#orange>Stay in the Ranshan Sect</color> to make sense of what you see in the fog.
-The matters concerning Qinglang Pavilion are truly like a mystery within a mystery, I really should ponder about it carefully...
+Contemplation and reflection
+<color=#orange>Stay at the Ranshan Sect</color> to clarify what is seen in the fog\\n
+<Stay at the Ranshan Sect to clarify what is seen in the fog。
+The matter of Qinglang Pavilion is truly mysterious beyond belief, and I need to ponder it carefully……
 
-Worldly Affairs Refine Mind
-Wait for <color=#orange>{0} months</color> before returning to Ranshan
-I might as well leave Ranshan, travel around, and wait for <color=#orange>{0} months</color> before replying...
-It is useless to keep thinking about it, i might as well put the matters concerning Ranshan aside for a while...
+Refining the Heart in the Mundane World
+Quietly wait for <color=#orange>{0} months</color> before returning to Ran Mountain\\n
+Why not leave Ranshan first, continue your travels, and wait for <color=#orange>{0} months</color> before responding……
+Thinking again is pointless; it might be better to set aside the matter of the mountains for now……
 
-Enter the <color=#orange>「Three Sects Competition」</color> adventure
-Enter the <color=#orange>「Three Sects Competition」</color> adventure. If you fail to participate in the adventure, Ranshan's opportunity will be gone...
-The martial arts competition among the three clans of Ranshan has already started, why not go check it out...
+Go to the adventure <color=#orange>「Three Sect Competition」</color>\\n>
+Go to the adventure <color=#orange>「Three Sect Competition」</color>. If you fail to attend the adventure by the deadline, then the opportunity in the mountains will disappear completely……
+The competition among the three sects of Ranshan has been held, so it might be worth a visit to investigate……
 
-No Questions about Immortal Traces
-<color=#orange>Wait</color> for the matters concerning Ranshan to settle
-Matters concerning Ranshan has been sorted out, just <color=#orange>wait</color> for them to settle.
-The matters concerning Ranshan have been settled, there's no need for me to think about them anymore...
+Wu Wen Xian Zong
+<Calmly wait for the affairs of Ranshan to conclude
+With all matters settled, I quietly wait for the conclusion。
+The mountain has already concluded, there is no need to think about anything else……
 
 Qinglang Immortal Pavilion
-<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples got possessed
-<color=#orange>Enter the Qinglang Pavilion</color> to figure out the reason why disciples that participated in the Three Sects Competition got possessed.
-Qinglang Pavilion, here I come...
+<color=#orange>Enter the Qinglang Pavilion</color> to investigate the reason for the disciples' fall into demonhood
+<Enter Qinglang Pavilion to investigate the reasons why the disciples of the three sects have fallen into madness。
+Qing Lang Pavilion, I'm coming……
 
-Road to Immortality is Indistinct
-The Three Sects Competition is over, the matter concerning Ranshan has been settled
+Path of immortality is vague and distant
+The three contests have concluded, and thus the matters of the mountain are settled
 
-Examine the Madness Disease
-Visit <color=#orange>Hundred Flowers Valley</color> to understand the strange disease
-If you want to find out about the strange disease, you must go to the <color=#orange>Hundred Flowers Valley</color> for a chat.
-This matter is very strange, I should go to the Hundred Flowers Valley to understand the situation...
+Exploring Madness
+Go to <color=#orange>Blossom Valley</color> to learn about the strange illness\\n
+To investigate the matter of the strange illness, one must enter the <color=#orange>Valley of a Hundred Flowers</color> for a discussion。
+This is very strange; we should first go to Baihua Valley to understand the situation……
 
-Village's Strange Disease
-Enter the <color=#orange>「Village's Strange Disease」</color> adventure
-Enter the <color=#orange>「Village's Strange Disease」</color> adventure.
-I don't know what kind of dangers are hidden within this village...
+Rural Strange Illness
+Go to the adventure <color=#orange>「Rural Strange Disease」</color>\\n>
+Go to the adventure <color=#orange>‘Rural Strange Disease’</color>.\\n>。
+I do not know what kind of dangers are lurking in this village……
 
-Seeking Medical Advice
-Visit <color=#orange>Hundred Flowers Valley</color> to inquire about diagnosing and treating
-Visit <color=#orange>Hundred Flowers Valley</color> to inquire about diagnosing and treating.
-Hundred Flowers Valley is full of outstanding doctors and physicians, they will definitely be able to help me with curing this disease...
+Seeking medical advice
+Go to <color=#orange>Baihuali Valley</color> to inquire about medical treatment
+Go to <color=#orange>Baihua Valley</color> to inquire about the treatment。
+The Hundred Flowers Valley is a leader in medicine and will surely help me cure this illness……
 
-Hundred Flowers Founders
-<color=#orange>Wait</color> for two founders to return
-The two founders of Hundred Flowers Valley are traveling around and are not in the valley. <color=#orange>Wait</color> for their return.
-I don't know when the two founders will be able to return...
+Master of a Hundred Flowers
+<color=#orange>Waiting quietly</color> for the two ancestral masters to return\\n
+The two ancestors of Baihua Valley are wandering the world and are not in the valley, quietly waiting for their return。
+I don't know when the two masters will return……
 
-Wait for Wuyou
-<color=#orange>Wait</color> for Xuan Wuyou's return
-<color=#orange>Wait</color> for Xuan Wuyou's return.
-Now I can only patiently wait for Senior Xuan Wuyou to return...
+Waiting in tranquility, without worries
+<Quietly waiting for Xuan Wuyou to return
+<Quietly waiting for Xuan Wuyou to return。
+Now I can only patiently wait for Senior Xuan Wuyou to return……
 
-Follow Founders
-Go to <color=#orange>{0}</color> to find Seniors Bai Wuyang and Xuan Wuyou.
-What exactly is hidden in this village? It's better to go and find Senior Xuan and Senior Bai as soon as possible...
+Follow the ancestor
+Go to <color=#orange>{0}</color> and seek out the two seniors, Bai Wuyang and Xuan Wuyou。
+What exactly is hidden in this village? It’s better to hurry and search for the two seniors, Xuan and Bai……
 
-Wait for News
-<color=#orange>Wait</color> for news about founders of Hundred Flowers
-<color=#orange>Wait</color> for news from Seniors Bai Wuyang and Xuan Wuyou.
-The two Seniors are obsessed with eliminating this disaster, but where are they right now...
+Waiting for news
+<color=#orange>Waiting</color> for news from the Master of Hundred Flowers\\n
+<Waiting for news from the two seniors, Bai Wuyang and Xuan Wuyou。
+The two seniors' obsessions are hard to dispel; where exactly are they at this moment……
 
-Heart Ripping
+Killing and Seizing the Heart
 
-Go to <color=#orange>{0}</color> to inquire local residents and disciples of Hundred Flowers Valley who came to provide assistance about the <color=#orange>Heart Ripping</color> incident.
-
-
-Ambushing Culprit
-
-Bring an adult teammate with a <color=#orange>{0}</color> internal element, and stay in <color=#orange>{1}</color> for a month, waiting for the Heart Ripping culprit to show up. You still have to bring {2}...
-
-I have brought an adult teammate with a <color=#orange>{0}</color> internal element. I can stay in <color=#orange>{1}</color> for a month, waiting for the Heart Ripping culprit to show up.
-Mind Destroying
-
-Go to <color=#orange>{0}</color> to inquire local residents and disciples of Hundred Flowers Valley who came to provide assistance about the <color=#orange>Mind Destroying</color> incident.
+Go to <color=#orange>{0}</color> to inquire with local residents and the disciples of Baihua who have come to assist about the matter of <color=#orange>killing and heart-seizing</color。
 
 
+Set a trap for the main culprit
 
-Bring an adult teammate with a <color=#orange>{0}</color> internal element, and stay in <color=#orange>{1}</color> for a month, waiting for the Mind Destroying culprit to show up. You still have to bring {2}...
+Bring an adult companion with an internal power attribute of <color=#orange>{0}</color>, and stay in <color=#orange>{1}</color> for a month, waiting for the murderer who stole the heart to appear. Still need to bring {2} more…
 
-I have brought an adult teammate with a <color=#orange>{0}</color> internal element. I can stay in <color=#orange>{1}</color> for a month, waiting for the Mind Destroying culprit to show up.
-Return Bai and Xuan to Village
-Bring White Deer and Black Owl <color=#orange>back to the Taiwu Village</color>
-Since the two seniors do not wish to return to the Hundred Flowers Valley, I have no choice but to bring them back to the village first...
+Has brought along an adult companion with a strength attribute of <color=#orange>{0}</color>, who can stay in <color=#orange>{1}</color> for over a month, waiting for the murderer who steals hearts to appear。
+Destroying people's minds
 
-Yin Yang Harmonious
-<color=#orange>Resolve</color> conflict between two founders
-Senior Bai Wuyang and Senior Xuan Wuyou still have some unresolved issues. Perhaps they could <color=#orange>stay</color> in the Taiwu Village, seeking an opportunity to <color=#orange>resolve</color> their conflicts and achieve harmony between yin and yang.
-"When yin and yang are balanced, the essence and spirit will be in a good condition; When yin and yang are separated, the essence and breath will be exhausted..."
-
-Yang Herbs
-
-Talk to the <color=#orange>White Deer</color> and find out its favorite food.
+Go to <color=#orange>{0}</color> to inquire with local residents and the Baihua disciples who have come to assist about the matter of <color=#orange>destroying people's minds</color>.\\n。
 
 
-Get Close to the White Deer
 
-Use <color=#orange>Yang Herbs</color> to feed the White Deer. After reaching "Intimate" Favor with it, <color=#orange>wait for an opportunity</color> to resolve the conflict and reconcile yin and yang.
+Bring along an adult companion with a martial arts attribute of <color=#orange>{0}</color>, and stay at <color=#orange>{1}</color> for a month, waiting for the culprit who destroys people's minds to appear. You still need to bring {2} more…
 
+A fellow with a strength attribute of <color=#orange>{0}</color> has been brought along, and can stay at <color=#orange>{1}</color> for a month, waiting for the mastermind behind the destruction of minds to appear。
+Xuanbai returns to the village
+Return to Taiwu Village with the white deer and the black owl>
+The two seniors do not wish to return to Baihua Valley, so we can only return to the village with you first……
 
-Giant Eagles Attack
+Yin and Yang Harmony
+<color=#orange>Resolve</color> the conflict between the two ancestors\\n
+There is still a rift between the two seniors, Bai Wuyang and Xuan Wuyou. They may stay in Taiwu Village to find an opportunity to resolve their conflicts and achieve harmony between yin and yang。
+“Yin is calm, and Yang is secret; the spirit is thus regulated; when Yin and Yang are separated, the essence and energy are exhausted……”
 
-Lately, giant eagles have been frequently attacking, causing distress to the Black Owl. However, White Deer might be able to help resolve this issue. <color=#orange>Wait for an opportunity</color> in the Taiwu Village to resolve their conflict...
+Positive medicinal materials
 
-
-Yin Herbs
-
-Talk to the <color=#orange>Black Owl</color> and find out its favorite food.
-
-
-Get Close to the Black Owl
-
-Use <color=#orange>Yin Herbs</color> to feed the Black Owl. After reaching "Intimate" Favor with it, <color=#orange>wait for an opportunity</color> to resolve the conflict and reconcile yin and yang.
+Talk to the <color=#orange>white deer</color> and find its favorite food。
 
 
-Beasts Howling
+Close to the white deer
 
-Lately, wild beasts have been howling during the night, causing distress to the White Deer. However, Black Owl might be able to help resolve this issue. <color=#orange>Wait for an opportunity</color> in the Taiwu Village to resolve their conflict...
-
-
-Guidance to Huaju
-
-<color=#orange>Huaju</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
+Feed the white deer with <color=#orange>positive medicinal materials</color>, and after reaching intimacy with it, <color=#orange>wait for the opportunity</color> to resolve conflicts and harmonize yin and yang。
 
 
-Guidance to Xuanzhi
+Giant Eagle Attack
 
-<color=#orange>Xuanzhi</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
-
-
-Guidance to Yingjiao
-
-<color=#orange>Yingjiao</color>, who excelled in the Three Clan's Competition and ascended to heaven, is now visiting the mountain. They are sincerely seeking to learn more. If you have some free time, consider going to their location to offer them guidance…
+Recently, giant eagles frequently attacked, disturbing the Xuan Owl greatly, but the White Deer may be able to assist, waiting for an opportunity in Taiwu Village to resolve the conflict。
 
 
-Return to Ranshan
-Return to <color=#orange>「Ranshan Sect」</color> to give a reply about Three Clan's Competition
-The Three Sects Competition is about to begin. Return to the <color=#orange>「Ranshan Sect」</color> to give Lord Qinglang a reply.
-It has been quite a while since the last invitation from Ranshan; it's time to return to Ranshan and give an answer to Lord Qinglang…
+Yin medicinal herbs
 
-Wait for Competition
-Go to Ranshan Sect and <color=#orange>wait</color> for the Three Sects Competition
-Go to Ranshan Sect and <color=#orange>wait</color> for Three Sects Competition to begin.
-I have many questions, maybe during Three Sects Competition I'll be able to get some answers...
+Talk to <color=#orange>Xuan Xiao</color> and find its favorite food。
 
-Protect Taiwu Village
-<color=#orange>Wait</color> for Resurrected Person's arrival
-The Resurrected Person, though their whereabouts are unknown, will eventually return to Taiwu Village. Prepare everything thoroughly and <color=#orange>wait</color> for them to arrive.
-Black mist envelops the area; The Hundred Flowers Valley disciples have already been moving from place to place, treating those affected…
 
-Careful Protection
-<color=#orange>Wait</color> for Resurrected Person's return
-The black mist is spreading. It seems that the Resurrected Person is nearby. Prepare everything thoroughly and <color=#orange>wait</color> in the Taiwu Village for their return.
-Black mist fills the air, suggesting that the Resurrected Person is indeed close by…
+Close to the Xuan Owl
 
-Resurrected Person
-Enter <color=#orange>Resurrected Person</color> adventure
-Enter <color=#orange>Resurrected Person</color> adventure.
-The Resurrected Person has appeared, i should be careful...
+Use <color=#orange>positive herbs</color> to feed the owl, and after reaching intimacy with it, <color=#orange>wait for an opportunity</color> to resolve conflicts and harmonize Yin and Yang。
 
-Don't Ask Around
-<color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle
-<color=#orange>Wait</color> for the matters concerning Hundred Flowers Valley to settle.
-The Resurrected Person has concluded their matter here, and their heart remains as it was before…
+
+The beast howls
+
+Recently, the beasts have been howling at night, greatly disturbing the white deer. However, the owl may be able to assist, waiting for an opportunity in Taiwu Village to resolve the conflict。
+
+
+Teach the Chinese residents
+
+<color=#orange>Huaju</color> strives to stand out in the martial arts competition of the Three Sects, to enter the cabinet and become an immortal, coming down the mountain to visit, sincerely seeking knowledge. If there is leisure time, you might as well go to where this person is and offer some guidance……
+
+
+Teaching the Profound Essence
+
+<The <color=#orange>mysterious essence</color> is to stand out in the competition of the three sects, to enter the cabinet and become an immortal, and to come down the mountain to visit and sincerely seek knowledge. If there is leisure time, it would be good to go to the place where this person is and provide some guidance……
+
+
+Teach to welcome beauty
+
+<color=#orange>Ying Jiao</color> came down from the mountain to visit, sincerely seeking to learn, after standing out in the martial arts competition of the Three Sect. If you have some free time, it would be good to pay a visit to this person and provide some guidance……
+
+
+Return to Ran Mountain
+Return to <color=#orange>‘Ranshan Sect’</color> to respond to the matter of the three sects’ competition
+The three sects' competition is about to begin, return to <color=#orange>「Ran Mountain Sect」</color> to give Qinglang an answer。
+It has been quite some time since the last letter from Ranshan inviting me, and I should return to Ranshan to give Qinglang Master a response……
+
+Waiting for the competition
+Yuran Mountain is <color=#orange>quietly waiting</color> for the competition between the three sects
+Yuranshan waits quietly for the start of the three sects' competition。
+Various questions may be answered at the Three Sect Tournament……
+
+Left behind in Taiwu
+<color=#orange>Quietly waiting</color> for the one who will be reborn to arrive\\n
+Though the reborn person may not know their whereabouts, they will eventually return to Taiwu Village, and preparations must be made carefully, <color=#orange>waiting patiently</color> for their arrival。
+Black gas pervaded, and the disciples of Baihua have fallen one after another to treat others……
+
+Stay cautiously
+<Quietly wait for the return of the one who is reborn
+Black mist filled the air, suggesting that the one who would return to life was nearby, fully prepared, patiently waiting for his return in Taiwu Village。
+The black mist spreads, it seems that the resurrected person is nearby……
+
+Reborn person
+Go to the adventure of the <color=#orange>Resurrected</color>
+Go to the Adventure <color=#orange>Revived Person</color>。
+The one who has been resurrected has appeared, must be cautious……
+
+Do not ask about the past or future
+<Quietly wait for the matter of the hundred flowers to conclude
+<Calmly wait for the matter of the hundred flowers to conclude。
+The matter has been settled for those who are reborn, and this heart is just like before……
 

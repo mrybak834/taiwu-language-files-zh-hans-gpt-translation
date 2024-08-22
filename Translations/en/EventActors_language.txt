@@ -1,65 +1,65 @@
-Unknown Teenager
-Unknown Maiden
-Unknown Toddler
-Unknown Woman
+Unknown Boy
+Unknown girl
+Unknown young child
+Unknown woman
 
 
 
 
 
 Passerby
-Shaolin Disciples
-Emei Disciples
-Disciples of the Hundred Flowers
-Wudang Disciples
-Yuanshuan Disciples
-Lion Gate Disciples
-Ranshan Disciples
-Xuannyu Disciples
-Sword Manor Disciples
-Kongsang Disciples
-Vajrayana Disciples
-Five Immortals Disciples 
-Jieqing Disciples
-Jieqing Disciples
-Bloodhound Disciples
+Shaolin disciple
+Emei disciple
+Disciple of the Hundred Flowers
+Wudang disciple
+Yuan Shan Disciple
+Lion's disciple
+Ranshan disciples
+Xuan female disciple
+Forging Sword Disciple
+Empty Mulberry Disciple
+Vajra disciples
+Wu Xian Disciples
+Disciples of the World Youth
+Fulong Disciple
+Blood Hound Disciple
 
 Princess
-Elderly
+Old man
 Patient
 Woodcutter
 
 Servant
 Elder
-Clan brother
+Cousin
 Clan sister
-Demonic servant
-Cue E
-Shepherd
+evil servant
+Cui'e
+herdsman
 Guide
-Head of House
-Witch
+Head of the household
+Shaman
 Thief
-Benefactor
+benefactor
 Enemy
-Old lady
+woman
 Child
-Prestigious dignitary
-Fortune-teller
+A highly esteemed noble
+Fortune teller
 Matchmaker
-Camel caravanserai
-Housekeeper
-Servant
-Local Person
-Guiding Monk
-Receiving disciple
-Guide·P
-Protector Disciple
-Female Servant
-Journeyman
+camel caravan
+Steward
+Household servant
+Locals
+Guide monk
+Guide disciples
+Guide Daoist
+Stove-keeping disciple
+maid
+People of the Jianghu
 Merchant
 Guide
-Cricket Merchant
+Cicada Merchant
 
 
 
@@ -76,44 +76,44 @@ Cricket Merchant
 
 
 Beggar
-Senior Disciple
-Passing Disciple
-Elder Monk
-Young Monk
-Insider
-Mountain Boar Cub
-Shao Nu
-Shao Nian
-Old Farmer
-Old Father
-Taoist
-Injured Taiwu Villager
-The Three Ancestors
-Roamer Priest
+Advanced disciple
+Passing disciple
+Old monk
+Little monk
+Informed person
+Wild boar cub
+Young girl
+Young man
+Old farmer
+Old man
+Daoist
+Injured Taowu villagers
+Three Ancestor Masters
+Cloud-Wandering Taoist
 Farmer
 
-Pagoda Repairing Monk
-Academic
-Disciples of Flying Lion Hall
-Foreign Master
-Mountain Divine Tree
-Cave Divine Tree
-Canyon Divine Tree
-Swamp Divine Tree
-Hill Divine Tree
-Wonderland Divine Tree
-Plains Divine Tree
-Lake Divine Tree
-Woodland Divine Tree
-Jungle Divine Tree
-River Divine Tree
+Tower Repair Monks
+Scholar
+Flying Lion Hall Disciples
+Experts of different races
+Mountain God Tree
+Cave Sacred Tree
+Valley of the Sacred Tree
+Swamp Sacred Tree
+Hill God Tree
+Peach Blossom Spring Divine Tree
+Divine Tree of the Wilderness
+Lake Sacred Tree
+Forest Sacred Tree
+Divine Trees of the Dense Forest
+Riverbank Shenmu
 Valley Divine Tree
-Mayor
+City Lord
 Traveler
 Drunkard
-Young Taoist
-Duck
-Divine Physician
+Little Daoist Priest
+duck
+Mysterious Doctor
 
 
 
@@ -122,38 +122,38 @@ Divine Physician
 
 
 
-Heavenly Woman's Empty Reflection
-Gray Reflection
-The Man in Black
+The Illusory Shadow of the Celestial Maiden
+Gray Shadow
+Men in black
 Girl
 Shadow
-Craftsman
-Huanlong Clan's Elder Brother
-Huanlong Clan's Younger Sister
-Girl within the Mist
+artisan
+Brother of the Huànlóng family
+Huànlóng's younger sister
+Girl in the Mist
 Villager
 Villager
-Ghost Monk
-Senior Monk Hun Ling
-Granny
-Miao Girl
-Miao Youth
-Disciple in the Fog
-Child in the Fog
-Boatman
+Ghost Shadow Monk
+High monk's soul
+mother-in-law
+Jiao woman
+Miao ethnic youth
+Disciple in the Mist
+Child in the Mist
+boatman
 Guard
-Tiny Shadow
-Huge Shadow
-Resurrected Person
+A small black shadow
+huge black shadow
+Reborn person
 Feng Qing
 
 
 
 
 
-Old Man in the Fog
-Venerable Man
-Tavern Shopkeeper
+Old man in the mist
+Old student
+Tavern Keeper
 Scholar
-Man
-Unknown Person
+man
+Unknown person

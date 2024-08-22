@@ -1,123 +1,123 @@
-Sink Qi to Dantian
-Gain Internal Energy equivalent to 100% of the monthly Cultivation.
+Qi sinks to the dan tian
+Gain inner strength equivalent to 100% operation of Sundays every month。
 
-Five Qi Control
-Shift Five Internal Elements equivalent to 100% of the monthly Cultivation.
+Five Qi Regulate the Nutrients
+Transfer is equivalent to the 100% internal force of the five elements attribute operating every Sunday of the month。
 
-Clearing Meridians
-Gain Circulation True Qi equivalent to 100% of the monthly Cultivation.
+Unblock channels and promote circulation
+Obtain a true energy equivalent to 100% of the weekly operation every Sunday。
 
-Opening Sea of Qi
-Gain Internal Energy ranging from 50% to 150% of the monthly Cultivation.
+Open the Qi Sea
+Gain internal energy equivalent to 50% to 150% of a month's Sunday operation。
 
-Adjust Form to Awaken Qi
-Shift Five Internal Elements ranging from 50% to 150% of the monthly Cultivation.
+Shape Adjustment and Qi Activation
+Transfer is equivalent to operating 50% to 150% of the internal energy attributes of the five elements every month on Sundays。
 
-Qi Passes Head
-Gain Circulation True Qi ranging from 50% to 150% of the monthly Cultivation.
+Conveying energy to the top
+Obtain a true qi equivalent to 50% to 150% of the weekly operation of the week。
 
-Filling Eight Veins
-Consume extra Internal Energy to gain Internal Energy equivalent to 200% of the monthly Cultivation.
+Eight vessels are full
+Extra consumption of internal energy, obtaining internal energy equivalent to 200% of the monthly circulation of the Zhou Tian。
 
-Washing Muscles and Bones
-Consume extra Internal Energy to shift Five Internal Elements equivalent to 200% of the monthly Cultivation.
+Wash the tendons and cleanse the marrow
+Additional consumption of internal strength transfers the equivalent of 200% of monthly rotation of the internal strength's five elements attributes。
 
-True Qi Surging
-Consume extra Internal Energy to gain Circulation True Qi equivalent to 200% of the monthly Cultivation.
+True power surging
+Extra consumption of inner strength to obtain a zhou tian true energy equivalent to 200% of the monthly zhou tian operation。
 
-Unending Flow
-Increases the amount of Internal Energy gained from Cultivation.
+Endless flow
+Increase the internal strength gained from operating on Sundays each month。
 
-Clearing Meridians
-Increases the amount of Five Internal Elements shifting from Cultivation.
+Meridians are unblocked and vitality flows
+Enhance the internal strength of the Five Elements attribute for the weekly rotation transfer every month。
 
-Nourish Qi Through Spirit
-Increases the amount of Circulation True Qi gained from Cultivation.
+Refining Qi and Regulating the Spirit
+Increase the Sunday energy growth every month。
 
-Continuous Breath
-Randomly increases the amount of Internal Energy gained from Cultivation.
+Endless inner whispers
+Randomly increase the inner strength obtained from the operation on Sundays each month。
 
-Relaxing Breath
-Randomly increases the amount of Five Internal Elements shifting from Cultivation.
+Rest and growth
+Randomly increase the internal force elemental attributes for Sunday operations each month。
 
-Using Meridians
-Randomly increases the amount of Circulation True Qi gained from Cultivation.
+Operating the Extraordinary Meridians
+Randomly increase the weekly vitality growth of weekly operations each month。
 
-Clouds Rising
-Consume extra Internal Energy to greatly increase the amount of Internal Energy gained from Cultivation.
+Clouds rise and springs flow
+Extra consumption of internal power greatly increases the internal power gained from monthly cycles。
 
-Heavenly Harmony
-Consume extra Internal Energy to greatly increase the amount of Five Internal Elements shifting from Cultivation.
+Response of Heaven and Man
+Extra consumption of inner strength greatly enhances the elemental properties of inner strength transfer during the monthly cycle。
 
-Clear Mind
-Consume extra Internal Energy to greatly increase the amount of Circulation True Qi gained from Cultivation.
+Meaning illuminates the spirit
+Expend extra internal energy to significantly increase the growth of Zhoutian true qi each month。
 
-Metal Qi
-If during Cultivation practitioner's Internal Element is a non-conflicting "Metal", the practitioner's Internal Element will no longer change.
+Diamond Gas
+If, during the operation of the Zhou Tian, the practitioner's inner strength attribute is already a non-repulsive 'Vajra', then the five-element attributes of the inner strength will no longer change。
 
-Wood Qi
-If during Cultivation practitioner's Internal Element is a non-conflicting "Wood", the practitioner's Internal Element will no longer change.
+Purple haze gas\n
+If the internal power attribute of the practitioner is already 'Purple Glow', which does not clash with others, during the operation of the Zhou Tian, then the internal power's five elements attribute will no longer change。
 
-Water Qi
-If during Cultivation practitioner's Internal Element is a non-conflicting "Water", the practitioner's Internal Element will no longer change.
+Mystic Yin gas
+If, during the operation of the Zhou Tian, the internal force attribute of the practitioner is already the 'Mysterious Yin' that does not clash, then the internal force's five-element attribute will no longer change。
 
-Fire Qi
-If during Cultivation practitioner's Internal Element is a non-conflicting "Fire", the practitioner's Internal Element will no longer change.
+Pure Yang Gas
+If during the operation of the Zhou Tian cycle, the practitioner's internal energy attribute is already a 'pure Yang' that does not involve overcoming or clashing, then the internal energy's Five Elements attribute will no longer change。
 
-Earth Qi
-If during Cultivation practitioner's Internal Element is a non-conflicting "Earth", the practitioner's Internal Element will no longer change.
+Return to original gas
+If during the circulation of the Zhou Tian, the practitioner's internal energy attribute has become the non-conflicting 'Return to Origin,' then the internal energy's five-element attributes will no longer change。
 
-Hunyuan Qi
-If during Cultivation practitioner's Internal Element is a non-conflicting "Hunyuan", the practitioner's Internal Element will no longer change.
+Primordial gas
+If during the operation of the week, the practitioner's internal strength attribute has already reached the non-confrontational 'Hunyuan', then the internal strength's five elemental attributes will no longer change。
 
-Earth to Metal
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Metal" shift.
+Turn soil into gold
+Extra consumption of internal energy replaces the transfer of the internal energy's five elemental attributes during the original circulation with a fixed priority transfer from the 'Return to Origin' internal energy attribute to 'Vajra。
 
-Water to Metal
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Metal" shift.
+Raw water still turns to gold
+Additional consumption of internal energy replaces the transfer of the five-element attributes of internal energy during the original circulation of the body, changing to a fixed priority transfer from the 'Xuan Yin' internal energy attribute to 'Vajra。
 
-Wood to Metal
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Metal" shift.
+Transforming wood into gold
+Extra consumption of inner strength replaces the transfer of the inner strength element attributes during the original circulation of the Zhou Tian, converting it to a fixed priority transfer from the 'Zixia' inner strength attribute to 'Vajra。
 
-Water to Wood
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Wood" shift.
+Transforming water into wood
+Extra consumption of inner strength replaces the transfer of the Five Elements attributes of inner strength during the original circulatory operation, changing it to a fixed priority transfer from 'Xuan Yin' inner strength attributes to 'Zi Xia。
 
-Fire to Wood
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Wood" shift.
+Start a fire with wood
+Additional consumption of internal energy replaces the transfer of the elemental attributes of internal energy during the original circulation, changing to a fixed priority transfer from 'pure yang' internal energy attributes to 'purple haze。
 
-Earth to Wood
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Wood" shift.
+Turning land into wood
+Extra consumption of internal strength replaces the elemental attribute transfer of internal strength during the original circulatory movement, changing to a fixed priority transfer from 'Return to Origin' internal strength attribute to 'Purple Mist。
 
-Metal to Water
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Water" shift.
+Transforming gold into water
+Additional consumption of internal strength replaces the transfer of the internal strength's five elemental attributes during the original circulatory operation, changing to a fixed priority transfer from 'Diamond' internal strength attribute to 'Profound Yin。
 
-Wood to Water
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Water" shift.
+Raw wood returns to water
+Extra consumption of internal energy replaces the transfer of the internal energy's five elemental attributes during the original circulatory operation, changing it to a fixed priority transfer from the 'Purple Glow' internal energy attribute to the 'Mysterious Yin。
 
-Fire to Water
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Water" shift.
+Turning fire into water
+Extra consumption of internal energy substitutes the transfer of the internal energy's five-element attributes during the original cycle operation, changing it to a fixed priority transfer from 'pure Yang' internal energy attributes to 'mysterious Yin。
 
-Wood to Fire
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Wood" to "Fire" shift.
+Fire from wood
+Extra consumption of internal energy replaces the transfer of the five elemental attributes of internal energy during the original circulation, changing to a fixed priority transfer from 'Purple Mist' internal energy attribute to 'Pure Yang。
 
-Earth to Fire
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Earth" to "Fire" shift.
+Raw earth returns to fire
+Extra energy consumption replaces the transfer of the five elements attributes of internal energy during the original circulation, changing it to a fixed priority transfer from 'Returning to Origin' internal energy attributes to 'Pure Yang。
 
-Metal to Fire
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Fire" shift.
+Transforming metal into fire
+Extra consumption of internal energy replaces the transfer of the five elemental attributes of internal energy during the original circulatory system operation, changing to a fixed priority transfer from 'Diamond' internal energy attribute to 'Pure Yang。
 
-Fire to Earth
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Fire" to "Earth" shift.
+Transforming fire into earth
+Extra consumption of internal energy replaces the transfer of the five elements properties of internal energy during the original circulation of the Zhou Tian, changing it to a fixed priority transfer from 'pure Yang' internal energy attributes to 'return to origin。
 
-Metal to Earth
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Metal" to "Earth" shift.
+Generate gold and return to the earth
+Extra consumption of internal energy replaces the transfer of the five elemental attributes of internal energy during the original cycle operation, changing to a fixed priority transfer from the 'Vajra' internal energy attribute to 'Return to Origin。
 
-Water to Earth
-Consume extra Internal Energy to replace the original Five Internal Elements shifting from Cultivation to a fixed "Water" to "Earth" shift.
+Return water to soil
+Extra consumption of internal energy replaces the transfer of the five-element attributes of internal energy during the original circulation, changing it to a fixed priority transfer from the 'Mysterious Yin' internal energy attribute to 'Return to Origin。
 
-Stabilize Mind
-Remove the effects that were already active during Cultivation, and restore a certain amount of Willpower based on the number of eliminated effects.
+Eliminate the void and restore the substance
+Eliminate the effects that have already been generated during the circular operation and restore a certain level of stability based on the eliminated effects。
 
-Return to Origin
-Remove the effects that were already active during Cultivation.
+Return to the origin
+Eliminate the effects that have already been generated during the weekly rotation。
 

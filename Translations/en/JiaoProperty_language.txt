@@ -1,34 +1,34 @@
 Travel Speed
-Travel Speed Increased
-Travel Speed Decreased
-Max Inv. Weight
-Max Inv. Weight Increased
-Max Inv. Weight Decreased
-Loot
-Loot Increased
-Loot Decreased
-Exorcism
-Exorcism Increased
-Exorcism Decreased
-Captive Limit
-Captive Limit Increased
-Captive Limit Decreased
-Price
-Price Increased
-Price Decreased
+Travel speed has increased
+The travel speed has decreased
+Size of the backpack
+The size of the backpack has increased
+The size of the backpack has decreased
+Loot drop
+The loot drop ability has been enhanced
+The loot drop ability has decreased
+Rescue of a Heartbroken Person
+The treatment capabilities for individuals with mental disorders have improved
+The ability to treat mentally ill patients has declined
+Detention cell
+The detention slots have increased
+The number of detention slots has decreased
+Price\n
+The price has increased
+The price has fallen
 Value
-Value Increased
-Value Decreased
-Gift Bonus
-Gift Bonus Increased
-Gift Bonus Decreased
-Favor Bonus
-Favor Bonus Increased
-Favor Bonus Decreased
-Length
+The value has increased
+The value has decreased
+Gift-giving mood
+The mood of giving gifts has improved
+The mood for giving gifts has declined
+Gifts create goodwill
+Gift-giving has improved goodwill
+The goodwill from gifts has decreased
+Body length\\n
 
 
-Weight
+Weight\n
 
 
 Lifespan
